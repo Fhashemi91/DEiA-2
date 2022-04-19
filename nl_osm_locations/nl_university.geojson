@@ -1,0 +1,2504 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-03-20T15:40:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26611122",
+        "amenity": "university",
+        "name": "UvA Faculteit der Economische Wetenschappen en Econometrie",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9115429,
+          52.3637734
+        ]
+      },
+      "id": "node/26611122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34051163",
+        "amenity": "university",
+        "name": "Oudemanhuispoort (UvA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8960412,
+          52.3693745
+        ]
+      },
+      "id": "node/34051163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243216282",
+        "amenity": "university",
+        "description": "Department of Knowledge Engineering",
+        "name": "Department of Knowledge Engineering",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6874182,
+          50.8471314
+        ]
+      },
+      "id": "node/243216282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297034040",
+        "amenity": "university",
+        "name": "Oude Universiteitsbibliotheek",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4867847,
+          52.1566008
+        ]
+      },
+      "id": "node/297034040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356651396",
+        "addr:city": "Amsterdam",
+        "addr:country": "NL",
+        "addr:housenumber": "25",
+        "addr:postcode": "1012WX",
+        "addr:street": "Spui",
+        "amenity": "university",
+        "description": "room for lectures and academical book presentations",
+        "name": "Spui25",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8896879,
+          52.3685931
+        ]
+      },
+      "id": "node/356651396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/432855896",
+        "amenity": "university",
+        "name": "Ruimtelijke Wetenschappen (FMG)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9123502,
+          52.364207
+        ]
+      },
+      "id": "node/432855896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/514254464",
+        "amenity": "university",
+        "name": "UvA Faculteit der Maatschappij-en Gedragswetenschappen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9116802,
+          52.3627042
+        ]
+      },
+      "id": "node/514254464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/531282402",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "201",
+        "addr:postcode": "3581GK",
+        "addr:street": "Kruisstraat",
+        "amenity": "university",
+        "name": "Universiteit Utrecht - Parnassos Cultuurcentrum",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Voor de toegangsdeur is een bordes met een hoogte van ca 21 cm. Er is een losse helling aanwezig. Bel bevindt zich boven bordes en is niet bereikbaar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.130284,
+          52.0941811
+        ]
+      },
+      "id": "node/531282402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662324407",
+        "amenity": "university",
+        "email": "info@artez.nl",
+        "name": "ArtEZ Academie voor Theater / Dansacademie",
+        "phone": "+31263535600",
+        "source": "3dShapes, local_knowledge",
+        "website": "https://www.artez.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8933516,
+          51.9841517
+        ]
+      },
+      "id": "node/662324407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685192412",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "135B",
+        "addr:postcode": "3037GC",
+        "addr:street": "Bergsingel",
+        "amenity": "university",
+        "name": "Islamic University of Applied Sciences Rotterdam",
+        "name:nl": "Islamitische Hogeschool Rotterdam",
+        "phone": "+31104854721",
+        "religion": "muslim",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.iuasr.nl",
+        "wikidata": "Q2210297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4694852,
+          51.9350894
+        ]
+      },
+      "id": "node/685192412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/725239194",
+        "amenity": "university",
+        "name": "Aula UvA",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8891865,
+          52.3682807
+        ]
+      },
+      "id": "node/725239194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768136091",
+        "access": "private",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "202",
+        "addr:postcode": "3521GZ",
+        "addr:street": "Vondellaan",
+        "amenity": "university",
+        "entrance": "main",
+        "name": "Open Universiteit Nederland",
+        "note": "Studiecentrum Utrecht",
+        "source": "BAG",
+        "source:date": "2014-08-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.115635,
+          52.0779211
+        ]
+      },
+      "id": "node/768136091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874352425",
+        "addr:city": "Utrecht",
+        "addr:country": "NL",
+        "addr:housenumber": "24",
+        "addr:postcode": "3512JP",
+        "addr:street": "Achter de Dom",
+        "amenity": "university",
+        "name": "Universiteit Utrecht",
+        "name:zh": "乌特勒支大学",
+        "name:zh-Hant": "烏特勒支大學",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1233895,
+          52.0904604
+        ]
+      },
+      "id": "node/874352425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874352439",
+        "addr:city": "Utrecht",
+        "addr:country": "NL",
+        "addr:housenumber": "20",
+        "addr:postcode": "3512JP",
+        "addr:street": "Achter de Dom",
+        "amenity": "university",
+        "name": "Universiteit Utrecht",
+        "name:zh": "乌特勒支大学",
+        "name:zh-Hant": "烏特勒支大學 ",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "No elevators present. No accessible toilet present."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1231525,
+          52.0906639
+        ]
+      },
+      "id": "node/874352439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874352446",
+        "addr:city": "Utrecht",
+        "addr:country": "NL",
+        "addr:housenumber": "22",
+        "addr:postcode": "3512JP",
+        "addr:street": "Achter de Dom",
+        "amenity": "university",
+        "name": "Universiteit Utrecht",
+        "name:zh": "乌特勒支大学",
+        "name:zh-Hant": "烏特勒支大學 ",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1232736,
+          52.0905682
+        ]
+      },
+      "id": "node/874352446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/923980873",
+        "addr:city": "Utrecht",
+        "addr:country": "NL",
+        "addr:housenumber": "2",
+        "addr:postcode": "3513ER",
+        "addr:street": "Oudenoord",
+        "amenity": "university",
+        "name": "TIO - University for applied sciences",
+        "phone": "+31 30 6668836",
+        "source": "BAG",
+        "source:date": "2014-01-22",
+        "website": "https://www.tio.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1127847,
+          52.0969853
+        ]
+      },
+      "id": "node/923980873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1166633093",
+        "addr:street": "Heemraadssingel",
+        "amenity": "university",
+        "name": "Volksuniversiteit",
+        "website": "https://www.volksuniversiteitrotterdam.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.455566,
+          51.911682
+        ]
+      },
+      "id": "node/1166633093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1253876980",
+        "amenity": "university",
+        "name": "Volksuniversiteit Het Groene Hart",
+        "phone": "+31 (0)348 420 662",
+        "website": "https://www.vuhetgroenehart.nl/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8863911,
+          52.0848991
+        ]
+      },
+      "id": "node/1253876980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1491633170",
+        "addr:city": "Delft",
+        "addr:housenumber": "1",
+        "addr:postcode": "2628CN",
+        "addr:street": "Stevinweg",
+        "amenity": "university",
+        "name": "Faculty of Civil Engineering and Geosciences",
+        "name:en": "Faculty of Civil Engineering and Geosciences",
+        "name:nl": "Faculteit Civiele Techniek en Geowetenschappen",
+        "short_name:en": "CEG",
+        "short_name:nl": "CiTG",
+        "source": "BAG",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3755745,
+          51.9988087
+        ]
+      },
+      "id": "node/1491633170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707632404",
+        "addr:city": "Tilburg",
+        "addr:housename": "Fontys Hogeschool voor de kunsten",
+        "addr:housenumber": "1",
+        "addr:postcode": "5038TZ",
+        "addr:street": "Zwijsenplein",
+        "amenity": "university",
+        "name": "Fontys Hogeschool voor de Kunsten",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0849215,
+          51.5534014
+        ]
+      },
+      "id": "node/1707632404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820907124",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3584CS",
+        "addr:street": "Heidelberglaan",
+        "alt_name": "De Uithof",
+        "amenity": "university",
+        "name": "Bestuursgebouw (UU)",
+        "operator": "Universiteit Utrecht",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1756637,
+          52.0852978
+        ]
+      },
+      "id": "node/1820907124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2316841999",
+        "amenity": "university",
+        "name": "Open Universiteit",
+        "website": "https://www.ou.nl/-/groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5531445,
+          53.2041494
+        ]
+      },
+      "id": "node/2316841999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2457048768",
+        "addr:city": "Otrobanda",
+        "addr:country": "CW",
+        "addr:housenumber": "1",
+        "addr:street": "Plaza Brion",
+        "amenity": "university",
+        "email": "info@icuc.org",
+        "name": "Inter-Continental University of the Caribbean",
+        "short_name": "ICUC",
+        "website": "http://www.icuc.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9371664,
+          12.1072598
+        ]
+      },
+      "id": "node/2457048768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2474030847",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "3F",
+        "addr:postcode": "8017JH",
+        "addr:street": "Koggelaan",
+        "amenity": "university",
+        "name": "Open Universiteit Studiecentrum",
+        "source": "BAG",
+        "source:date": "2013-08-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0869873,
+          52.5031811
+        ]
+      },
+      "id": "node/2474030847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2595119032",
+        "addr:city": "Delft",
+        "addr:housenumber": "1",
+        "addr:postcode": "2629HS",
+        "addr:street": "Kluyverweg",
+        "amenity": "university",
+        "faculty": "aerospace",
+        "name": "Faculty of Aerospace Engineering",
+        "name:en": "Faculty of Aerospace Engineering",
+        "name:nl": "Faculteit Luchtvaart- en Ruimtevaarttechniek",
+        "short_name:en": "AE",
+        "short_name:nl": "LR",
+        "source": "BAG",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3753701,
+          51.9898961
+        ]
+      },
+      "id": "node/2595119032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596097860",
+        "addr:city": "Delft",
+        "addr:housenumber": "1",
+        "addr:postcode": "2628CJ",
+        "addr:street": "Lorentzweg",
+        "amenity": "university",
+        "name": "Faculty of Applied Sciences",
+        "name:en": "Faculty of Applied Sciences",
+        "name:nl": "Faculteit Technische Natuurwetenschappen",
+        "short_name:en": "AS",
+        "short_name:nl": "TWN",
+        "source": "BAG",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3740446,
+          52.0008794
+        ]
+      },
+      "id": "node/2596097860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596100434",
+        "addr:city": "Delft",
+        "addr:housenumber": "134",
+        "addr:postcode": "2628BL",
+        "addr:street": "Julianalaan",
+        "amenity": "university",
+        "name": "Faculty of Architecture and the Built Environment",
+        "name:en": "Faculty of Architecture and the Built Environment",
+        "name:nl": "Faculteit Bouwkunde",
+        "short_name:en": "Arch",
+        "short_name:nl": "BK",
+        "source": "BAG",
+        "source:date": "2013-11-26",
+        "wikidata": "Q7672060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3704696,
+          52.0057145
+        ]
+      },
+      "id": "node/2596100434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596107129",
+        "addr:city": "Delft",
+        "addr:housenumber": "5",
+        "addr:postcode": "2628BX",
+        "addr:street": "Jaffalaan",
+        "amenity": "university",
+        "name": "Faculty of Technology, Policy and Management",
+        "name:en": "Faculty of Technology, Policy and Management",
+        "name:nl": "Faculteit Techniek, Bestuur en Management",
+        "short_name:en": "TPM",
+        "short_name:nl": "TBM",
+        "source": "BAG",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3692926,
+          52.002497
+        ]
+      },
+      "id": "node/2596107129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596107769",
+        "addr:city": "Delft",
+        "addr:housenumber": "6",
+        "addr:postcode": "2628XE",
+        "addr:street": "Van Mourik Broekmanweg",
+        "amenity": "university",
+        "name": "TU Delft - Wiskunde en Informatica",
+        "name:en": "TU Delft - Mathematics and Computer Sciences",
+        "source": "BAG",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3783156,
+          51.9990658
+        ]
+      },
+      "id": "node/2596107769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2599516039",
+        "addr:city": "Delft",
+        "addr:housenumber": "7",
+        "addr:postcode": "2611AX",
+        "addr:street": "Westvest",
+        "amenity": "university",
+        "description": "IHE Delft is the largest international graduate water education facility in the world and is based in Delft, the Netherlands. The Institute confers fully accredited MSc degrees, and PhD degrees in collaboration with partner universities.",
+        "name": "IHE Delft Institute for Water Education",
+        "phone": "+31152151715",
+        "source": "BAG",
+        "source:date": "2013-11-26",
+        "website": "http://www.un-ihe.org",
+        "wheelchair": "yes",
+        "wikidata": "Q834678",
+        "wikipedia": "en:IHE Delft Institute for Water Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3567749,
+          52.0089436
+        ]
+      },
+      "id": "node/2599516039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2678768317",
+        "addr:city": "Deventer",
+        "addr:housenumber": "75",
+        "addr:postcode": "7417DH",
+        "addr:street": "Handelskade",
+        "amenity": "university",
+        "name": "Saxion Hogeschool Deventer",
+        "phone": "088 - 019 8888",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.saxion.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1681875,
+          52.2543508
+        ]
+      },
+      "id": "node/2678768317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684300311",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "200",
+        "addr:postcode": "3512HT",
+        "addr:street": "Achter Sint Pieter",
+        "amenity": "university",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1238734,
+          52.0907174
+        ]
+      },
+      "id": "node/2684300311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684301206",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "39",
+        "addr:postcode": "3512HD",
+        "addr:street": "Kromme Nieuwegracht",
+        "amenity": "university",
+        "name": "TIAS school for Business and Society",
+        "phone": "+31 13 4668640",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.tias.edu/over-tias/contact/locatie/utrecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1256,
+          52.090861
+        ]
+      },
+      "id": "node/2684301206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684662442",
+        "addr:city": "Amersfoort",
+        "addr:housenumber": "21",
+        "addr:postcode": "3812PA",
+        "addr:street": "De Nieuwe Poort",
+        "amenity": "university",
+        "name": "Hogeschool Utrecht",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3799549,
+          52.1592134
+        ]
+      },
+      "id": "node/2684662442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687034176",
+        "addr:city": "Apeldoorn",
+        "addr:housenumber": "23",
+        "addr:postcode": "7311PE",
+        "addr:street": "Spoorstraat",
+        "amenity": "university",
+        "name": "Wittenborg University",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wikidata": "Q2788956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9717767,
+          52.2100106
+        ]
+      },
+      "id": "node/2687034176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687036019",
+        "addr:city": "Apeldoorn",
+        "addr:housenumber": "27",
+        "addr:postcode": "7311PE",
+        "addr:street": "Spoorstraat",
+        "amenity": "university",
+        "name": "Fotovakschool",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9725457,
+          52.2099695
+        ]
+      },
+      "id": "node/2687036019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687037058",
+        "addr:city": "Apeldoorn",
+        "addr:housenumber": "29",
+        "addr:postcode": "7311PE",
+        "addr:street": "Spoorstraat",
+        "amenity": "university",
+        "name": "Saxion",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9732228,
+          52.2095517
+        ]
+      },
+      "id": "node/2687037058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709503496",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "10",
+        "addr:postcode": "3512BS",
+        "addr:street": "Drift",
+        "amenity": "university",
+        "faculty": "humanities",
+        "name": "Faculteit Geesteswetenschappen",
+        "operator": "Universiteit Utrecht",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1233346,
+          52.0946795
+        ]
+      },
+      "id": "node/2709503496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709503832",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "13",
+        "addr:postcode": "3512BR",
+        "addr:street": "Drift",
+        "amenity": "university",
+        "faculty": "humanities",
+        "name": "Factulteit der Geesteswetenschappen",
+        "operator": "Universiteit Utrecht",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1233305,
+          52.0936021
+        ]
+      },
+      "id": "node/2709503832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709506068",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "6",
+        "addr:postcode": "3512BW",
+        "addr:street": "Boothstraat",
+        "amenity": "university",
+        "name": "Universiteit Utrecht, facilitair centrum",
+        "operator": "Universiteit Utrecht",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.122145,
+          52.0945715
+        ]
+      },
+      "id": "node/2709506068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722272713",
+        "addr:city": "Arnhem",
+        "addr:housenumber": "25",
+        "addr:postcode": "6826CC",
+        "addr:street": "Ruitenberglaan",
+        "amenity": "university",
+        "name": "Ixperium Arnhem",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9480119,
+          51.9884085
+        ]
+      },
+      "id": "node/2722272713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722274313",
+        "addr:city": "Arnhem",
+        "addr:housenumber": "29",
+        "addr:postcode": "6826CC",
+        "addr:street": "Ruitenberglaan",
+        "amenity": "university",
+        "name": "HAN Automotive",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.948123,
+          51.9892128
+        ]
+      },
+      "id": "node/2722274313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2732470932",
+        "addr:city": "Kampen",
+        "addr:housenumber": "15",
+        "addr:postcode": "8261GS",
+        "addr:street": "Broederweg",
+        "amenity": "university",
+        "email": "secretariaat@tukampen.nl",
+        "name": "Theologische Universiteit Kampen",
+        "phone": "038 4471710",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.tukampen.nl/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9129191,
+          52.55766
+        ]
+      },
+      "id": "node/2732470932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737190052",
+        "addr:city": "'s-Hertogenbosch",
+        "addr:housenumber": "92",
+        "addr:postcode": "5211DA",
+        "addr:street": "Sint Janssingel",
+        "amenity": "university",
+        "email": "info@jads.nl",
+        "internet_access": "yes",
+        "name": "Jheronimus Academy of Data Science",
+        "phone": "+31 073 614 5515",
+        "short_name": "JADS",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.jads.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2985396,
+          51.6882045
+        ]
+      },
+      "id": "node/2737190052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737828364",
+        "addr:city": "Groningen",
+        "addr:housenumber": "9",
+        "addr:postcode": "9747AS",
+        "addr:street": "Zernikeplein",
+        "alt_name": "ZP09",
+        "amenity": "university",
+        "name": "BrugsmaBorg",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5330094,
+          53.2399524
+        ]
+      },
+      "id": "node/2737828364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737828397",
+        "addr:city": "Groningen",
+        "addr:housenumber": "10",
+        "addr:postcode": "9747AN",
+        "addr:street": "Zernikepark",
+        "alt_name": "ZEP10",
+        "amenity": "university",
+        "internet_access": "yes",
+        "name": "Digital Society Hub",
+        "operator": "Hanze Hogeschool",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5344112,
+          53.2447961
+        ]
+      },
+      "id": "node/2737828397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737828837",
+        "addr:city": "Groningen",
+        "addr:housenumber": "12",
+        "addr:postcode": "9747AD",
+        "addr:street": "Landleven",
+        "amenity": "university",
+        "name": "Kapteynborg",
+        "ref": "5419",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5340992,
+          53.2400581
+        ]
+      },
+      "id": "node/2737828837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2738668110",
+        "addr:city": "Bavel",
+        "addr:housenumber": "1",
+        "addr:postcode": "4854TA",
+        "addr:street": "Beukenlaan",
+        "alt_name": "St. Joost",
+        "amenity": "university",
+        "email": "info.akvstjoost@avans.nl",
+        "internet_access": "yes",
+        "name": "AKV | St. Joost (Avans Hogeschool)",
+        "operator": "Avans",
+        "phone": "+31 88 525 7500",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.akvstjoost.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.810962,
+          51.5794365
+        ]
+      },
+      "id": "node/2738668110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2749236373",
+        "addr:city": "Groningen",
+        "addr:housenumber": "99",
+        "addr:postcode": "9717KZ",
+        "addr:street": "Akkerstraat",
+        "amenity": "university",
+        "name": "Dansacademie Lucia Marthas",
+        "phone": "+31 50 5955454",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.luciamarthas.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5576401,
+          53.227523
+        ]
+      },
+      "id": "node/2749236373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2752224967",
+        "addr:city": "Groningen",
+        "addr:housenumber": "59",
+        "addr:postcode": "9711AG",
+        "addr:street": "Praediniussingel",
+        "amenity": "university",
+        "name": "Frank Mohr Instituut",
+        "name:en": "Frank Mohr Institute",
+        "operator": "Hanzehogeschool Groningen",
+        "short_name": "FMI",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "wikidata": "Q2045482",
+        "wikipedia": "nl:Frank Mohr Instituut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.559728,
+          53.215013
+        ]
+      },
+      "id": "node/2752224967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2753531059",
+        "addr:city": "'s-Hertogenbosch",
+        "addr:housenumber": "15",
+        "addr:postcode": "5231MG",
+        "addr:street": "Frans Fransenstraat",
+        "amenity": "university",
+        "email": "henf-denbosch@fontys.nl",
+        "mobile": "+3108850 74566",
+        "name": "Fonys Hogeschool",
+        "opening_hours": "Mo 08:00-17:30; Tu 08:00-21:30; We 8:00-17:30; Th 08:00-17:00; Fr 08:00-17:30",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://fontys.nl/",
+        "wikidata": "Q1435898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3114573,
+          51.7048418
+        ]
+      },
+      "id": "node/2753531059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2771002386",
+        "addr:city": "Assen",
+        "addr:housenumber": "34A",
+        "addr:postcode": "9403AB",
+        "addr:street": "Industrieweg",
+        "amenity": "university",
+        "name": "Hanzehogeschool",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "wikidata": "Q5651468",
+        "wikipedia": "en:Hanze Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5700468,
+          53.0045343
+        ]
+      },
+      "id": "node/2771002386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2796091780",
+        "addr:city": "Dordrecht",
+        "addr:housenumber": "103",
+        "addr:postcode": "3311KB",
+        "addr:street": "Achterom",
+        "amenity": "university",
+        "name": "HBO Drechtsteden",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.hbodrechtsteden.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6662878,
+          51.8117762
+        ]
+      },
+      "id": "node/2796091780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798755237",
+        "addr:city": "Maastricht",
+        "addr:housenumber": "40",
+        "addr:street": "Universiteitssingel",
+        "amenity": "university",
+        "name": "UNS40 - Faculty of Psychology and Neuroscience",
+        "website": "https://www.maastrichtuniversity.nl/about-um/faculties/faculty-psychology-and-neuroscience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7160217,
+          50.836712
+        ]
+      },
+      "id": "node/2798755237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798755239",
+        "amenity": "university",
+        "name": "UNS60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71589,
+          50.8336712
+        ]
+      },
+      "id": "node/2798755239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798755240",
+        "amenity": "university",
+        "name": "Universiteit Maastricht",
+        "source": "3dShapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7165617,
+          50.8352755
+        ]
+      },
+      "id": "node/2798755240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798919699",
+        "addr:city": "Maastricht",
+        "addr:housenumber": "1",
+        "addr:postcode": "6229HA",
+        "addr:street": "P Debyeplein",
+        "amenity": "university",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7113879,
+          50.8349617
+        ]
+      },
+      "id": "node/2798919699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2804889938",
+        "addr:city": "Maastricht",
+        "addr:housenumber": "10",
+        "addr:postcode": "6211KK",
+        "addr:street": "Heksenstraat",
+        "amenity": "university",
+        "name": "University College Maastricht",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6879419,
+          50.8447276
+        ]
+      },
+      "id": "node/2804889938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2804908854",
+        "amenity": "university",
+        "name": "University College Maastricht",
+        "wikidata": "Q2306063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6884711,
+          50.8444528
+        ]
+      },
+      "id": "node/2804908854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2804908855",
+        "amenity": "university",
+        "name": "University Maastricht, School of Business and Economics",
+        "operator": "Universiteit Maastricht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6848994,
+          50.8451455
+        ]
+      },
+      "id": "node/2804908855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814260981",
+        "addr:city": "Veghel",
+        "addr:housenumber": "8",
+        "addr:postcode": "5467HA",
+        "addr:street": "Muntelaar",
+        "amenity": "university",
+        "name": "PABO Veghel",
+        "operator": "Fontys",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5622811,
+          51.6208724
+        ]
+      },
+      "id": "node/2814260981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2839715806",
+        "addr:city": "Almere",
+        "addr:housename": "de Landdrost",
+        "addr:housenumber": "5",
+        "addr:postcode": "1315RC",
+        "addr:street": "Hospitaaldreef",
+        "amenity": "university",
+        "internet_access": "wlan",
+        "name": "Windesheim Almere",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.windesheim.nl/over-windesheim/almere",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2221259,
+          52.3703771
+        ]
+      },
+      "id": "node/2839715806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844553215",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "1-01",
+        "addr:postcode": "5022DM",
+        "addr:street": "Professor Goossenslaan",
+        "amenity": "university",
+        "name": "Fontys, P1",
+        "source": "BAG",
+        "source:date": "2014-05-01",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0770739,
+          51.5387719
+        ]
+      },
+      "id": "node/2844553215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844553216",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "1-02",
+        "addr:postcode": "5022DM",
+        "addr:street": "Professor Goossenslaan",
+        "amenity": "university",
+        "name": "Fontys, P4",
+        "source": "BAG",
+        "source:date": "2014-05-01",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.079141,
+          51.539583
+        ]
+      },
+      "id": "node/2844553216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844553217",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "1-03",
+        "addr:postcode": "5022DM",
+        "addr:street": "Professor Goossenslaan",
+        "amenity": "university",
+        "name": "Fontys, P7",
+        "source": "BAG",
+        "source:date": "2014-05-01",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0808311,
+          51.5396637
+        ]
+      },
+      "id": "node/2844553217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844553218",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "1-04",
+        "addr:postcode": "5022DM",
+        "addr:street": "Professor Goossenslaan",
+        "amenity": "university",
+        "name": "Fontys, P3",
+        "source": "BAG",
+        "source:date": "2014-05-01",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0796108,
+          51.5387488
+        ]
+      },
+      "id": "node/2844553218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844553219",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "1-05",
+        "addr:postcode": "5022DM",
+        "addr:street": "Professor Goossenslaan",
+        "amenity": "university",
+        "name": "Fontys, P2",
+        "source": "BAG",
+        "source:date": "2014-05-01",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0789487,
+          51.5383328
+        ]
+      },
+      "id": "node/2844553219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2847193064",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "13",
+        "addr:postcode": "5037DA",
+        "addr:street": "Professor Cobbenhagenlaan",
+        "amenity": "university",
+        "name": "Avans Hogeschool",
+        "source": "BAG",
+        "source:date": "2014-05-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0575803,
+          51.5614207
+        ]
+      },
+      "id": "node/2847193064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2878966061",
+        "addr:city": "Hilversum",
+        "addr:housenumber": "2",
+        "addr:postcode": "1211EM",
+        "addr:street": "Stationsstraat",
+        "amenity": "university",
+        "name": "MBO Utrecht",
+        "source": "BAG",
+        "source:date": "2014-05-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1803591,
+          52.2272269
+        ]
+      },
+      "id": "node/2878966061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879921990",
+        "addr:city": "Alkmaar",
+        "addr:housenumber": "2",
+        "addr:postcode": "1816MB",
+        "addr:street": "Rubenslaan",
+        "amenity": "university",
+        "name": "iPabo",
+        "operator": "iPabo",
+        "phone": "020-6137079",
+        "source": "BAG",
+        "source:date": "2014-05-25",
+        "website": "https://www.ipabo.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7179601,
+          52.6270344
+        ]
+      },
+      "id": "node/2879921990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2922539488",
+        "addr:city": "Middelburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "4331CB",
+        "addr:street": "Lange Noordstraat",
+        "amenity": "university",
+        "name": "University College Roosevelt",
+        "source": "BAG",
+        "source:date": "2014-06-18",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.ucr.nl/",
+        "wheelchair": "limited",
+        "wikidata": "Q1428969",
+        "wikipedia": "nl:University College Roosevelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6110404,
+          51.4990704
+        ]
+      },
+      "id": "node/2922539488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2931120451",
+        "addr:city": "Venlo",
+        "addr:housename": "HAS Hogeschool Venlo",
+        "addr:housenumber": "62",
+        "addr:postcode": "5911KJ",
+        "addr:street": "Spoorstraat",
+        "amenity": "university",
+        "name": "HAS Hogeschool",
+        "source": "BAG",
+        "source:date": "2014-06-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1695833,
+          51.366726
+        ]
+      },
+      "id": "node/2931120451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3003988827",
+        "addr:city": "Nieuwegein",
+        "addr:housenumber": "2",
+        "addr:postcode": "3439ME",
+        "addr:street": "Archimedesbaan",
+        "amenity": "university",
+        "description": "The international school of physiotherapy",
+        "name": "THIM Hogeschool",
+        "source": "BAG",
+        "source:date": "2014-08-08",
+        "website": "https://www.thimalp.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.108301,
+          52.0358434
+        ]
+      },
+      "id": "node/3003988827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013362316",
+        "amenity": "university"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6526922,
+          51.9695998
+        ]
+      },
+      "id": "node/3013362316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014235939",
+        "amenity": "university",
+        "name": "Chemistry building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6808145,
+          51.9695025
+        ]
+      },
+      "id": "node/3014235939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014238460",
+        "amenity": "university",
+        "name": "Transitorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6799189,
+          51.9682308
+        ]
+      },
+      "id": "node/3014238460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014238461",
+        "amenity": "university",
+        "name": "de Valk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6809895,
+          51.9674571
+        ]
+      },
+      "id": "node/3014238461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014249779",
+        "amenity": "university"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6806292,
+          51.9698196
+        ]
+      },
+      "id": "node/3014249779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3066731280",
+        "addr:city": "Leeuwarden",
+        "addr:housenumber": "23",
+        "addr:postcode": "8933AG",
+        "addr:street": "Achter de Hoven",
+        "amenity": "university",
+        "name": "Minerva Academie voor Popcultuur",
+        "source": "BAG",
+        "source:date": "2014-09-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8015107,
+          53.1983704
+        ]
+      },
+      "id": "node/3066731280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3649690114",
+        "amenity": "university",
+        "name": "The Hague Student Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3197834,
+          52.0787589
+        ]
+      },
+      "id": "node/3649690114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3649690531",
+        "amenity": "university",
+        "name": "Open Universiteit Nederland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3157222,
+          52.0811308
+        ]
+      },
+      "id": "node/3649690531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4038343663",
+        "addr:city": "Delft",
+        "addr:housenumber": "2",
+        "addr:postcode": "2628CD",
+        "addr:street": "Mekelweg",
+        "amenity": "university",
+        "name": "Faculty of Mechanical, Maritime and Material Engineering",
+        "name:en": "Faculty of Mechanical, Maritime and Material Engineering",
+        "name:nl": "Faculteit Werktuigbouwkunde, Maritieme Techniek & Technische Materiaalwetenschappen",
+        "short_name": "3mE",
+        "source": "BAG data from building contours",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3718974,
+          52.000978
+        ]
+      },
+      "id": "node/4038343663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177046966",
+        "addr:city": "Delft",
+        "addr:housenumber": "9",
+        "addr:postcode": "2629HZ",
+        "addr:street": "Van der Maasweg",
+        "amenity": "university",
+        "name": "Faculty of Applied Sciences",
+        "name:en": "Faculty of Applied Sciences",
+        "name:nl": "Faculteit Technische Natuurwetenschappen",
+        "source": "BAG",
+        "source:date": "2016-05-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3798121,
+          51.9898529
+        ]
+      },
+      "id": "node/4177046966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4203341952",
+        "addr:city": "Oranjestad",
+        "addr:country": "AW",
+        "addr:housenumber": "2",
+        "addr:street": "Ooststraat",
+        "amenity": "university",
+        "name": "American University School Of Medicine Aruba (Ausoma)",
+        "website": "https://ausoma.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.032267,
+          12.5184622
+        ]
+      },
+      "id": "node/4203341952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453223377",
+        "addr:city": "Amsterdam",
+        "addr:country": "NL",
+        "addr:housenumber": "21",
+        "addr:postcode": "1012WX",
+        "addr:street": "Spui",
+        "amenity": "university",
+        "description": "central administration building of University of Amsterdam",
+        "name": "UvA",
+        "operator": "Universiteit van Amsterdam",
+        "website": "http://www.uva.nl",
+        "wheelchair": "no",
+        "wikidata": "Q214341",
+        "wikipedia": "nl:Universiteit van Amsterdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8902006,
+          52.3685848
+        ]
+      },
+      "id": "node/4453223377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560723834",
+        "addr:city": "'s-Gravenhage",
+        "addr:housenumber": "99",
+        "addr:postcode": "2511DP",
+        "addr:street": "Turfmarkt",
+        "amenity": "university",
+        "internet_access": "wlan",
+        "name": "Universiteit Leiden Locatie Wijnhaven",
+        "name:nl": "Universiteit Leiden Locatie Wijnhaven",
+        "source": "BAG",
+        "source:date": "2017-11-08",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.320287,
+          52.0786038
+        ]
+      },
+      "id": "node/4560723834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4674818397",
+        "addr:city": "Dordrecht",
+        "addr:housenumber": "103",
+        "addr:postcode": "3311KB",
+        "addr:street": "Achterom",
+        "amenity": "university",
+        "name": "InHolland Pabo",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.inholland.nl/locaties/studeren-in-dordrecht/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6662799,
+          51.8117439
+        ]
+      },
+      "id": "node/4674818397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681578917",
+        "amenity": "university",
+        "name": "Hanzehogeschool (Meerwold)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5642052,
+          53.1883079
+        ]
+      },
+      "id": "node/4681578917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681601840",
+        "amenity": "university",
+        "name": "Dansacademie Lucia Marthas",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8881929,
+          52.3511887
+        ]
+      },
+      "id": "node/4681601840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4709776974",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "99",
+        "addr:street": "Padualaan",
+        "amenity": "university",
+        "name": "Faculteit Natuur & Techniek (HU)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1684392,
+          52.0840626
+        ]
+      },
+      "id": "node/4709776974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5322519147",
+        "addr:city": "Delft",
+        "addr:housenumber": "12",
+        "addr:postcode": "2628CM",
+        "addr:street": "Cornelis Drebbelweg",
+        "amenity": "university",
+        "name": "Faculty of Electrical Engineering, Mathematics & Computer Science",
+        "name:en": "Faculty of Electrical Engineering, Mathematics & Computer Science",
+        "name:nl": "Faculteit Elektrotechniek, Wiskunde en Informatica",
+        "short_name:en": "EEMCS",
+        "short_name:nl": "EWI",
+        "source": "BAG",
+        "source:date": "2017-12-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3736485,
+          51.9988441
+        ]
+      },
+      "id": "node/5322519147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5362228717",
+        "addr:city": "Delft",
+        "addr:housenumber": "15",
+        "addr:postcode": "2628CE",
+        "addr:street": "Landbergstraat",
+        "amenity": "university",
+        "name": "Faculty of Industrial Design Engineering",
+        "name:en": "Faculty of Industrial Design Engineering",
+        "name:nl": "Faculteit Industrieel Ontwerpen",
+        "short_name:en": "IDE",
+        "short_name:nl": "IO",
+        "source": "BAG",
+        "source:date": "2018-01-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3699269,
+          52.0016399
+        ]
+      },
+      "id": "node/5362228717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5505164323",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "29",
+        "addr:postcode": "3512JE",
+        "addr:street": "Domplein",
+        "amenity": "university",
+        "name": "Academiegebouw",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Most but not all rooms are accessible to wheelchair users. The Sterrenkamer and Kanunnikenzaal are only accessible via the elevator from the Faculty club. The Torenkamer is only accessbile via the staircase.Toilet 2,2 x 2,0 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1223339,
+          52.0902439
+        ]
+      },
+      "id": "node/5505164323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792930306",
+        "addr:city": "Arnhem",
+        "addr:housenumber": "27",
+        "addr:postcode": "6826CC",
+        "addr:street": "Ruitenberglaan",
+        "amenity": "university",
+        "name": "PABO",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)",
+        "source": "BAG",
+        "source:date": "2018-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9482975,
+          51.9885878
+        ]
+      },
+      "id": "node/5792930306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806582502",
+        "amenity": "university",
+        "name": "Haagsche Academie voor Internationaal Recht",
+        "name:de": "Haager Akademie für Völkerrecht",
+        "name:en": "The Hague Academy of International Law",
+        "name:es": "Academia de Derecho Internacional de La Haya",
+        "name:fr": "Académie de droit international de La Haye",
+        "name:ja": "ハーグ国際法アカデミー",
+        "name:ko": "헤이그 국제법 아카데미",
+        "name:nl": "Haagsche Academie voor Internationaal Recht",
+        "name:pt": "Academia de Direito Internacional de Haia",
+        "name:ru": "Академия международного права",
+        "name:zh": "海牙國際法學院",
+        "name:zh-Hans": "海牙国际法学院",
+        "name:zh-Hant": "海牙國際法學院",
+        "wikidata": "Q1141717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2944974,
+          52.085847
+        ]
+      },
+      "id": "node/5806582502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5942037891",
+        "addr:city": "Velp",
+        "addr:housenumber": "26a",
+        "addr:postcode": "6882CT",
+        "addr:street": "Larensteinselaan",
+        "amenity": "university",
+        "email": "info@hvhl.nl",
+        "facebook": "https://www.facebook.com/VHLHogeschool",
+        "name": "Hogeschool van Hall Larenstein",
+        "phone": "+31263695695",
+        "source": "BAG",
+        "source:date": "2018-10-01",
+        "twitter": "https://twitter.com/hogeschool_vhl",
+        "website": "https://www.hvhl.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9614345,
+          51.9914605
+        ]
+      },
+      "id": "node/5942037891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5948707111",
+        "addr:city": "Enschede",
+        "addr:housenumber": "87",
+        "addr:postcode": "7521PP",
+        "addr:street": "Colosseum",
+        "amenity": "university",
+        "name": "roc van twente",
+        "opening_hours": "Mo-Fr 08:00-17:30",
+        "source": "BAG",
+        "source:date": "2018-10-02",
+        "website": "https://www.rocvantwente.nl/leslocaties/colosseum-87-enschede.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8385062,
+          52.2368597
+        ]
+      },
+      "id": "node/5948707111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964663978",
+        "amenity": "university",
+        "name": "Faculteit Techniek",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9506381,
+          51.9872067
+        ]
+      },
+      "id": "node/5964663978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964663979",
+        "amenity": "university",
+        "name": "ICA Media Lab",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9522576,
+          51.9870219
+        ]
+      },
+      "id": "node/5964663979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964663980",
+        "amenity": "university",
+        "name": "Young Business",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9513509,
+          51.9874947
+        ]
+      },
+      "id": "node/5964663980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964663981",
+        "amenity": "university",
+        "name": "Fablab",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9508597,
+          51.987917
+        ]
+      },
+      "id": "node/5964663981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964663982",
+        "amenity": "university",
+        "name": "HAN Hydromotive",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9478757,
+          51.9890196
+        ]
+      },
+      "id": "node/5964663982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964663983",
+        "amenity": "university",
+        "name": "Arnhem Business School",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)",
+        "wikidata": "Q4794757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.949212,
+          51.9889815
+        ]
+      },
+      "id": "node/5964663983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964783463",
+        "addr:city": "Arnhem",
+        "addr:housenumber": "26",
+        "addr:postcode": "6826CC",
+        "addr:street": "Ruitenberglaan",
+        "amenity": "university",
+        "name": "Built Enviroment",
+        "operator": "Hogeschool Arnhem Nijmegen (HAN)",
+        "source": "BAG",
+        "source:date": "2018-07-08",
+        "website": "https://www.han.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9501099,
+          51.9878426
+        ]
+      },
+      "id": "node/5964783463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6317575453",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "1-07",
+        "addr:postcode": "5022DM",
+        "addr:street": "Professor Goossenslaan",
+        "amenity": "university",
+        "name": "Fontys, P8",
+        "operator": "Hogeschool voor ICT en Hogeschool Academy for Creative Industries",
+        "source": "BAG",
+        "source:date": "2019-03-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0777884,
+          51.5380371
+        ]
+      },
+      "id": "node/6317575453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448398939",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "120",
+        "addr:postcode": "3072AG",
+        "addr:street": "Posthumalaan",
+        "amenity": "university",
+        "description": "International Business",
+        "internet_access": "no",
+        "name": "Hogeschool Rotterdam",
+        "note": "Faciliteiten: -Restaurant -Studieruimte -Koffiebar -Kolfruimte -Douche",
+        "opening_hours": "Mo,We,Th 07:00-18:30; Tu 07:00-20:00; Fr 07:00-18:00",
+        "operator": "Hogeschool Rotterdam",
+        "website": "https://www.hogeschoolrotterdam.nl/hogeschool/locaties/posthumalaan/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4964721,
+          51.9053401
+        ]
+      },
+      "id": "node/6448398939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8040591365",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "13",
+        "addr:postcode": "3512BR",
+        "addr:street": "Drift",
+        "amenity": "university",
+        "name": "Utrecht Data School",
+        "operator": "Universiteit Utrecht",
+        "phone": "+31 30 253 9607",
+        "unit": "0.01",
+        "website": "www.dataschool.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1233256,
+          52.0935805
+        ]
+      },
+      "id": "node/8040591365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8107831259",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "3511ZC",
+        "addr:street": "Bijlhouwerstraat",
+        "amenity": "university",
+        "name": "USBO",
+        "official_name": "Universiteit Utrecht Departement Bestuurs- en Organisatiewetenschap (USBO)",
+        "operator": "Universiteit Utrecht",
+        "phone": "+31302538101",
+        "website": "https://www.uu.nl/organisatie/departement-bestuurs-en-organisatiewetenschap/contact",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1228813,
+          52.0815172
+        ]
+      },
+      "id": "node/8107831259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8319619934",
+        "amenity": "university",
+        "name": "De Ruyter Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5894012,
+          51.4503561
+        ]
+      },
+      "id": "node/8319619934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8483872578",
+        "addr:city": "Almere",
+        "addr:housenumber": "98",
+        "addr:postcode": "1325WB",
+        "addr:street": "Arboretum West",
+        "amenity": "university",
+        "name": "Aeres Hogeschool Almere",
+        "source": "BAG",
+        "source:date": "2021-03-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.223068,
+          52.3565649
+        ]
+      },
+      "id": "node/8483872578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8758941289",
+        "amenity": "university",
+        "name": "University of the Dutch Caribbean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.903045,
+          12.1189983
+        ]
+      },
+      "id": "node/8758941289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9131105566",
+        "amenity": "university",
+        "name": "Maastricht University, Faculty of Arts and Social Sciences",
+        "operator": "Maastricht University",
+        "website": "https://maastrichtuniversity.nl/about-um/faculties/faculty-arts-and-social-sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6856029,
+          50.8499111
+        ]
+      },
+      "id": "node/9131105566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9495450220",
+        "addr:city": "Hilversum",
+        "addr:housenumber": "55",
+        "addr:postcode": "1217EH",
+        "addr:street": "'s-Gravelandseweg",
+        "amenity": "university",
+        "name": "Volksuniversiteit Hilversum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1667927,
+          52.2271904
+        ]
+      },
+      "id": "node/9495450220"
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-03-20T15:55:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313791182",
+        "leisure": "park",
+        "name": "Washington-Slagbaai National Park",
+        "name:mk": "Национален парк Вашингтон-Слагбај"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3913568,
+          12.2902134
+        ]
+      },
+      "id": "node/313791182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500783203",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3637579,
+          51.8322709
+        ]
+      },
+      "id": "node/1500783203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500783259",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3633256,
+          51.8328491
+        ]
+      },
+      "id": "node/1500783259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1577008860",
+        "leisure": "park",
+        "name": "Wilhelmina Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0354243,
+          12.5158372
+        ]
+      },
+      "id": "node/1577008860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1910188455",
+        "leisure": "park",
+        "name": "Hoornse Schans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5476893,
+          53.1880166
+        ]
+      },
+      "id": "node/1910188455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2090011802",
+        "leisure": "park",
+        "name": "Landgoed Klein Vollenhoven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2014579,
+          52.0902922
+        ]
+      },
+      "id": "node/2090011802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2181373982",
+        "leisure": "park",
+        "name": "Het Groene Hart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8947955,
+          51.8891355
+        ]
+      },
+      "id": "node/2181373982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395153681",
+        "leisure": "park",
+        "name": "Libellebos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8355201,
+          52.2424426
+        ]
+      },
+      "id": "node/2395153681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696054667",
+        "leisure": "park",
+        "name": "Arboretum Notoarestoen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4647286,
+          53.3611117
+        ]
+      },
+      "id": "node/2696054667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3125134023",
+        "landuse": "residential",
+        "leisure": "park",
+        "name": "Villapark Wind Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8562374,
+          12.1244624
+        ]
+      },
+      "id": "node/3125134023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3286606883",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2153951,
+          51.9379344
+        ]
+      },
+      "id": "node/3286606883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688566971",
+        "leisure": "park",
+        "name": "Buorrefinne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1661458,
+          53.0890078
+        ]
+      },
+      "id": "node/3688566971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3799964295",
+        "leisure": "park",
+        "name": "Parke Nacional Arikok",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8987151,
+          12.47994
+        ]
+      },
+      "id": "node/3799964295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4049314781",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4640402,
+          51.8844897
+        ]
+      },
+      "id": "node/4049314781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4097150763",
+        "leisure": "park",
+        "name": "Biezenpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5563941,
+          51.8044997
+        ]
+      },
+      "id": "node/4097150763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198353347",
+        "leisure": "park",
+        "name": "Landschapstuin babybos Eschmarke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9550053,
+          52.2090514
+        ]
+      },
+      "id": "node/4198353347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449401354",
+        "leisure": "park",
+        "name": "Ramsar Area Muizenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9178563,
+          12.156863
+        ]
+      },
+      "id": "node/4449401354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4479074674",
+        "leisure": "park",
+        "name": "Hondensportveld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7862851,
+          51.838969
+        ]
+      },
+      "id": "node/4479074674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4487848729",
+        "leisure": "park",
+        "name": "Plaza Daniel Leo",
+        "name_1": "plaza hogar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0373913,
+          12.5198944
+        ]
+      },
+      "id": "node/4487848729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4532380114",
+        "addr:city": "Alkmaar",
+        "addr:housenumber": "37",
+        "addr:postcode": "1822BH",
+        "addr:street": "Berenkoog",
+        "leisure": "park",
+        "name": "Hortus Alkmaar",
+        "website": "https://www.hortusalkmaar.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7868945,
+          52.6506672
+        ]
+      },
+      "id": "node/4532380114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4583828044",
+        "leisure": "park",
+        "name": "Gaalsche Heide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6612391,
+          51.7343835
+        ]
+      },
+      "id": "node/4583828044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4609693622",
+        "addr:street": "Europaboulevard",
+        "leisure": "park",
+        "name": "Amstel Park",
+        "note": "floriade1972",
+        "sport": "multi",
+        "wikipedia": "nl:Floriade 1972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8903118,
+          52.3320863
+        ]
+      },
+      "id": "node/4609693622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630279045",
+        "leisure": "park",
+        "name": "Hondenuitlaatplaats IJsvogel",
+        "note": "Hondenuitlaatplaats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2734439,
+          51.6428569
+        ]
+      },
+      "id": "node/4630279045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4639453217",
+        "leisure": "park",
+        "name": "Blauwe binnentuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3195116,
+          52.0621749
+        ]
+      },
+      "id": "node/4639453217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4726863414",
+        "leisure": "park",
+        "name": "Natuurspeeltuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0138344,
+          52.6817926
+        ]
+      },
+      "id": "node/4726863414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754291322",
+        "internet_access": "wlan",
+        "leisure": "park",
+        "name": "Vredenberg",
+        "name:en": "Private house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9022387,
+          12.0993046
+        ]
+      },
+      "id": "node/4754291322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4785994023",
+        "leisure": "park",
+        "name": "Park Nauerna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7464578,
+          52.4387698
+        ]
+      },
+      "id": "node/4785994023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4792123608",
+        "leisure": "park",
+        "name": "Park Helmusweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1328853,
+          51.3583402
+        ]
+      },
+      "id": "node/4792123608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4817667168",
+        "leisure": "park",
+        "name": "Jacob van Eyckpassage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1362277,
+          51.7339463
+        ]
+      },
+      "id": "node/4817667168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4987418073",
+        "leisure": "park",
+        "name": "Park de Kotten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8802129,
+          52.2343658
+        ]
+      },
+      "id": "node/4987418073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023728371",
+        "addr:city": "Winkel",
+        "addr:housenumber": "51",
+        "addr:postcode": "1731NJ",
+        "addr:street": "Limmerschouw",
+        "leisure": "park",
+        "name": "Kunsttuin Nederlands Kremlin",
+        "website": "https://www.kunsttuinnederlandskremlin.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9163808,
+          52.7487453
+        ]
+      },
+      "id": "node/5023728371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074199833",
+        "leisure": "park",
+        "name": "Landgoed Boslust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3447633,
+          51.4769599
+        ]
+      },
+      "id": "node/5074199833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5239873919",
+        "leisure": "park",
+        "name": "Stadstuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2912973,
+          51.9684301
+        ]
+      },
+      "id": "node/5239873919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497400588",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6478248,
+          52.1044118
+        ]
+      },
+      "id": "node/5497400588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5596597623",
+        "leisure": "park",
+        "name": "Groenplein ANWB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7617164,
+          52.5038777
+        ]
+      },
+      "id": "node/5596597623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5862639088",
+        "leisure": "park",
+        "name": "Stone Garden with Palms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0785678,
+          12.1992925
+        ]
+      },
+      "id": "node/5862639088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6166416877",
+        "leisure": "park",
+        "name": "Kloostertuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7535991,
+          50.8834233
+        ]
+      },
+      "id": "node/6166416877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227929542",
+        "leisure": "park",
+        "name": "Pampushout",
+        "website": "https://www.flevo-landschap.nl/gebieden/gebied-detailpagina/29/pampushout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1438933,
+          52.3626093
+        ]
+      },
+      "id": "node/6227929542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6227929543",
+        "leisure": "park",
+        "name": "Pampushout",
+        "website": "https://www.flevo-landschap.nl/gebieden/gebied-detailpagina/29/pampushout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1673521,
+          52.3813042
+        ]
+      },
+      "id": "node/6227929543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6271631634",
+        "addr:city": "Nijmegen",
+        "addr:housenumber": "19",
+        "addr:postcode": "6532AA",
+        "addr:street": "Goffertweg",
+        "leisure": "park",
+        "name": "Natuurtuin Goffert",
+        "website": "http://natuurtuingoffert.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8383473,
+          51.827348
+        ]
+      },
+      "id": "node/6271631634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6321363890",
+        "leisure": "park",
+        "name": "Wolfsweide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9243989,
+          51.5996296
+        ]
+      },
+      "id": "node/6321363890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6451775390",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8058999,
+          53.3235779
+        ]
+      },
+      "id": "node/6451775390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6486943086",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0202557,
+          12.5435028
+        ]
+      },
+      "id": "node/6486943086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6641400167",
+        "leisure": "park",
+        "name": "Tivoli Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.130585,
+          52.0938965
+        ]
+      },
+      "id": "node/6641400167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6709391314",
+        "leisure": "park",
+        "name": "Klein Zwitserland Huisjes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0278673,
+          51.2314807
+        ]
+      },
+      "id": "node/6709391314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7041828246",
+        "leisure": "park",
+        "name": "Zuiderpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3566789,
+          53.223816
+        ]
+      },
+      "id": "node/7041828246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7396128924",
+        "leisure": "park",
+        "name": "Eerste Marnixplantsoen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8804255,
+          52.3817319
+        ]
+      },
+      "id": "node/7396128924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7396143627",
+        "leisure": "park",
+        "name": "Tweede Marnixplantsoen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876082,
+          52.374591
+        ]
+      },
+      "id": "node/7396143627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836967042",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9874911,
+          12.4894674
+        ]
+      },
+      "id": "node/7836967042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8857120646",
+        "leisure": "park",
+        "name": "Johanne Niemeijer Tuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1798805,
+          52.0878878
+        ]
+      },
+      "id": "node/8857120646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8979814491",
+        "leisure": "park",
+        "name": "MTB Technical Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6608746,
+          52.8358674
+        ]
+      },
+      "id": "node/8979814491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9039126487",
+        "access": "yes",
+        "leisure": "park",
+        "name": "Beeldenbos Noord",
+        "tourism": "attraction",
+        "website": "http://www.beeldenbosnoord.nl",
+        "wikidata": "Q108290266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9385813,
+          52.3899596
+        ]
+      },
+      "id": "node/9039126487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9394020519",
+        "leisure": "park",
+        "name": "De Kulk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0413005,
+          51.5019019
+        ]
+      },
+      "id": "node/9394020519"
+    }
+  ]
+}

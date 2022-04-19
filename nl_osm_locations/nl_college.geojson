@@ -1,0 +1,3327 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-03-20T15:46:17Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30780467",
+        "amenity": "college",
+        "layer": "2",
+        "name": "Minkema College",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908319,
+          52.0892024
+        ]
+      },
+      "id": "node/30780467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31068729",
+        "amenity": "college",
+        "created_by": "JOSM",
+        "name": "Stella Maris College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.825946,
+          50.8735208
+        ]
+      },
+      "id": "node/31068729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/55401318",
+        "amenity": "college",
+        "created_by": "JOSM",
+        "name": "ROC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4774706,
+          52.5121868
+        ]
+      },
+      "id": "node/55401318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/207134527",
+        "amenity": "college",
+        "created_by": "Potlatch 0.6a",
+        "name": "Lyceum Schravenlant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3916514,
+          51.9247914
+        ]
+      },
+      "id": "node/207134527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/235228313",
+        "amenity": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9256779,
+          52.3891543
+        ]
+      },
+      "id": "node/235228313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/259036584",
+        "amenity": "college",
+        "created_by": "JOSM",
+        "name": "ROC ter Aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6578553,
+          51.486637
+        ]
+      },
+      "id": "node/259036584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309684739",
+        "addr:city": "Eindhoven",
+        "addr:housenumber": "8",
+        "addr:postcode": "5631KA",
+        "addr:street": "Sterrenlaan",
+        "amenity": "college",
+        "name": "ROC",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4947439,
+          51.4667389
+        ]
+      },
+      "id": "node/309684739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316986666",
+        "addr:city": "Oosterhout",
+        "addr:housenumber": "40",
+        "addr:postcode": "4902AE",
+        "addr:street": "Slotlaan",
+        "amenity": "college",
+        "name": "Mgr. Frencken College",
+        "source": "BAG",
+        "source:date": "2019-10-15",
+        "website": "https://www.frenckencollege.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8586653,
+          51.6346836
+        ]
+      },
+      "id": "node/316986666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316986765",
+        "amenity": "college",
+        "name": "Hanze Colege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8522391,
+          51.6353939
+        ]
+      },
+      "id": "node/316986765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/443106105",
+        "addr:city": "Wassenaar",
+        "addr:country": "NL",
+        "amenity": "college",
+        "name": "SIN (Sekolah Indonesia Nederland)",
+        "website": "https://sekolah-indonesia.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3740776,
+          52.1141165
+        ]
+      },
+      "id": "node/443106105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/649061908",
+        "addr:city": "Groningen",
+        "addr:housenumber": "113",
+        "addr:postcode": "9723ZS",
+        "addr:street": "Boumaboulevard",
+        "amenity": "college",
+        "name": "Noorderpoort College Euroborg",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5927346,
+          53.2064087
+        ]
+      },
+      "id": "node/649061908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/692829386",
+        "amenity": "college",
+        "name": "Educatie en Inburgering",
+        "website": "https://www.roctilburg.nl/Mbo-scholen-en-Vavo/school-voor-educatie-en-inburgering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1000257,
+          51.5770498
+        ]
+      },
+      "id": "node/692829386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/747760656",
+        "addr:city": "Badhoevedorp",
+        "addr:country": "NL",
+        "addr:housenumber": "1",
+        "addr:postcode": "1171JM",
+        "addr:street": "Egelantierstraat",
+        "amenity": "college",
+        "name": "Tyndale Theological Seminary",
+        "website": "http://www.tyndale-europe.edu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7934281,
+          52.3322748
+        ]
+      },
+      "id": "node/747760656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/858196497",
+        "amenity": "college",
+        "name": "Amsterdamse Hogeschool voor de Kunsten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9018218,
+          52.3695893
+        ]
+      },
+      "id": "node/858196497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1006082811",
+        "amenity": "college",
+        "name": "Yuverta MBO Den Bosch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.283446,
+          51.6860339
+        ]
+      },
+      "id": "node/1006082811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1143402902",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "125",
+        "addr:street": "Pieter de Hoochweg",
+        "amenity": "college",
+        "name": "World Music and Dance Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.459345,
+          51.906664
+        ]
+      },
+      "id": "node/1143402902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1143404831",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "129",
+        "addr:postcode": "3024BG",
+        "addr:street": "Pieter de Hoochweg",
+        "amenity": "college",
+        "name": "Hogeschool Rotterdam",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4595439,
+          51.906217
+        ]
+      },
+      "id": "node/1143404831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1143411814",
+        "amenity": "college",
+        "name": "Lyceum voor Beeldende Vormgeving"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4569274,
+          51.9046639
+        ]
+      },
+      "id": "node/1143411814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482481129",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "321",
+        "addr:street": "Mathenesserlaan",
+        "amenity": "college",
+        "name": "Albeda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.456393,
+          51.914205
+        ]
+      },
+      "id": "node/1482481129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1483298951",
+        "amenity": "college",
+        "name": "Roordink architecten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61283,
+          52.26098
+        ]
+      },
+      "id": "node/1483298951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1542559378",
+        "addr:city": "Middelburg",
+        "addr:housenumber": "15",
+        "addr:postcode": "4337WV",
+        "addr:street": "Podium",
+        "amenity": "college",
+        "name": "ROC Scalda",
+        "source": "BAG",
+        "source:date": "2014-06-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6345009,
+          51.4800443
+        ]
+      },
+      "id": "node/1542559378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1610625705",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "455",
+        "addr:street": "Mathenesserdijk",
+        "amenity": "college",
+        "name": "G.K. van Hogendorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.446811,
+          51.911459
+        ]
+      },
+      "id": "node/1610625705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1749103046",
+        "addr:city": "Emmeloord",
+        "addr:housenumber": "4",
+        "addr:postcode": "8304AB",
+        "addr:street": "Nagelerweg",
+        "amenity": "college",
+        "name": "Zuyderzee College",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7552258,
+          52.7042442
+        ]
+      },
+      "id": "node/1749103046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1883632502",
+        "amenity": "college",
+        "name": "Scheepvaart- en Transportcollege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4611971,
+          51.9017954
+        ]
+      },
+      "id": "node/1883632502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907522604",
+        "amenity": "college",
+        "isced:level": "25",
+        "max_age": "18",
+        "min_age": "12",
+        "name": "De Polsstok",
+        "website": "https://focus-heerhugowaard.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8267371,
+          52.6710179
+        ]
+      },
+      "id": "node/1907522604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907522627",
+        "amenity": "college",
+        "isced:level": "25",
+        "max_age": "16",
+        "min_age": "12",
+        "name": "Huygens College (locatie Umbriëllaan)",
+        "website": "https://www.huygens.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8264501,
+          52.6708829
+        ]
+      },
+      "id": "node/1907522627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2071337789",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "10",
+        "addr:postcode": "3565CG",
+        "addr:street": "Mississippidreef",
+        "amenity": "college",
+        "name": "MBO Utrecht",
+        "website": "https://www.mboutrecht.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0852133,
+          52.1259675
+        ]
+      },
+      "id": "node/2071337789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201773732",
+        "amenity": "college",
+        "building": "hut",
+        "name": "AOC Oost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.512891,
+          52.1078043
+        ]
+      },
+      "id": "node/2201773732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2497544309",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "1",
+        "addr:postcode": "8013XE",
+        "addr:street": "Sleedoornstraat",
+        "amenity": "college",
+        "name": "Thorbecke",
+        "source": "BAG",
+        "source:date": "2013-09-08",
+        "website": "https://praktijkonderwijs.thorbecke-zwolle.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1156715,
+          52.5009513
+        ]
+      },
+      "id": "node/2497544309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2497589543",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "68",
+        "addr:postcode": "8012EW",
+        "addr:street": "Ten Oeverstraat",
+        "amenity": "college",
+        "name": "Katholieke PABO Zwolle",
+        "source": "BAG",
+        "source:date": "2013-09-08",
+        "website": "https://www.kpz.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1074871,
+          52.5061228
+        ]
+      },
+      "id": "node/2497589543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2497659906",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "93",
+        "addr:postcode": "8019AL",
+        "addr:street": "Koningin Wilhelminastraat",
+        "amenity": "college",
+        "name": "Carolus Clusius College",
+        "source": "BAG",
+        "source:date": "2013-08-08",
+        "website": "https://www.hetccc.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0765233,
+          52.510688
+        ]
+      },
+      "id": "node/2497659906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499786860",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "2",
+        "addr:postcode": "8032VS",
+        "addr:street": "Spui",
+        "amenity": "college",
+        "name": "SVO vakopleiding",
+        "source": "BAG",
+        "source:date": "2013-09-08",
+        "website": "https://www.svo.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1056094,
+          52.5269036
+        ]
+      },
+      "id": "node/2499786860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500790031",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "8",
+        "addr:postcode": "8024AE",
+        "addr:street": "Ossenkamp",
+        "amenity": "college",
+        "name": "Landstede",
+        "source": "BAG",
+        "source:date": "2013-09-08",
+        "website": "https://www.landstedembo.nl/zwolle/rechterland-1/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1219068,
+          52.5207628
+        ]
+      },
+      "id": "node/2500790031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2502506629",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "1",
+        "addr:postcode": "8024AH",
+        "addr:street": "Rechterland",
+        "amenity": "college",
+        "name": "Landstede MBO",
+        "source": "BAG",
+        "source:date": "2013-09-08",
+        "website": "https://www.landstedembo.nl/zwolle/rechterland-1/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1241182,
+          52.5224747
+        ]
+      },
+      "id": "node/2502506629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2591377248",
+        "addr:city": "Almere",
+        "addr:postcode": "1315XA",
+        "addr:street": "Stadhuisplein",
+        "amenity": "college",
+        "name": "CAH Vilentum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2192858,
+          52.3712679
+        ]
+      },
+      "id": "node/2591377248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610062940",
+        "amenity": "college",
+        "name": "A.L.P. Opleidingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.176921,
+          52.3648263
+        ]
+      },
+      "id": "node/2610062940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610200942",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "105",
+        "addr:postcode": "3011WN",
+        "addr:street": "Wijnhaven",
+        "amenity": "college",
+        "name": "Hogeschool Rotterdam, Wijnhaven",
+        "source": "BAG",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4842106,
+          51.917257
+        ]
+      },
+      "id": "node/2610200942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669414394",
+        "addr:city": "Doetinchem",
+        "addr:housenumber": "3",
+        "addr:postcode": "7008CA",
+        "addr:street": "Maria Montessoristraat",
+        "amenity": "college",
+        "contact:website": "http://www.graafschapcollege.nl/Over_Graafschap_college/Pages/VestigingMariaMontessoristraat.aspx",
+        "description": "Studierichtingen Horeca/ Facilitaire dienstverlening, Brood en banket, Toerisme en recreatie, Haarverzorging en Schoonheidsverzorging",
+        "name": "Graafschap College",
+        "operator": "Graafschap College",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.graafschapcollege.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2746191,
+          51.969796
+        ]
+      },
+      "id": "node/2669414394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669417631",
+        "addr:city": "Doetinchem",
+        "addr:housenumber": "9",
+        "addr:postcode": "7008AP",
+        "addr:street": "Houtmolenstraat",
+        "amenity": "college",
+        "contact:website": "https://graafschapcollege.nl/over-graafschap-college/locaties-routebeschrijving-en-contactinformatie/houtmolenstraat/",
+        "name": "Graafschap College Sector Zorg & Welzijn",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://graafschapcollege.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2708521,
+          51.9719474
+        ]
+      },
+      "id": "node/2669417631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2670454317",
+        "addr:city": "Doetinchem",
+        "addr:housenumber": "2",
+        "addr:postcode": "7001HG",
+        "addr:street": "Julianaplein",
+        "amenity": "college",
+        "name": "Graafschap College",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://graafschapcollege.nl/over-graafschap-college/locaties-routebeschrijving-en-contactinformatie/julianaplein/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2971647,
+          51.9607242
+        ]
+      },
+      "id": "node/2670454317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2675057281",
+        "addr:city": "Deventer",
+        "addr:housenumber": "9",
+        "addr:postcode": "7418CC",
+        "addr:street": "Schonenvaardersstraat",
+        "amenity": "college",
+        "name": "KonnecteD",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.konnected.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1786194,
+          52.2512975
+        ]
+      },
+      "id": "node/2675057281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684300848",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "29",
+        "addr:postcode": "3512HD",
+        "addr:street": "Kromme Nieuwegracht",
+        "amenity": "college",
+        "name": "Universiteit voor Humanistiek",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Lift 1,1 x 1,4 m. Toilet 2,1 x 2,8 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1256438,
+          52.0917954
+        ]
+      },
+      "id": "node/2684300848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2698050695",
+        "addr:city": "Waddinxveen",
+        "addr:housenumber": "25",
+        "addr:postcode": "2743CB",
+        "addr:street": "Limaweg",
+        "amenity": "college",
+        "name": "Savantis",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.savantis.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6458821,
+          52.0391337
+        ]
+      },
+      "id": "node/2698050695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2713016004",
+        "addr:city": "Leidschendam",
+        "addr:housenumber": "7",
+        "addr:postcode": "2262ED",
+        "addr:street": "Fluitpolderplein",
+        "amenity": "college",
+        "name": "mboRijnland",
+        "operator": "Stichting mbo Rijnland",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://mborijnland.nl/locaties/leidschendam-voorburg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3922078,
+          52.0939776
+        ]
+      },
+      "id": "node/2713016004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2720010005",
+        "addr:city": "'s-Gravenhage",
+        "addr:housenumber": "50",
+        "addr:postcode": "2512ER",
+        "addr:street": "Brouwersgracht",
+        "amenity": "college",
+        "name": "ROC Mondriaan",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3061928,
+          52.0730325
+        ]
+      },
+      "id": "node/2720010005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721235247",
+        "addr:city": "Arnhem",
+        "addr:housenumber": "3",
+        "addr:postcode": "6823MA",
+        "addr:street": "Beukenlaan",
+        "amenity": "college",
+        "name": "Rijn IJssel CIOS",
+        "source": "BAG;local knowledge",
+        "source:date": "2014-02-11",
+        "website": "https://www.cios.nl/locaties/arnhem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9290715,
+          52.0043107
+        ]
+      },
+      "id": "node/2721235247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722192509",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "432",
+        "addr:postcode": "1017AV",
+        "addr:street": "Singel",
+        "amenity": "college",
+        "name": "Art of Colors Makeup Artist School",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.artofcolors.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8879286,
+          52.3681998
+        ]
+      },
+      "id": "node/2722192509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722311331",
+        "addr:city": "Arnhem",
+        "addr:housenumber": "2",
+        "addr:postcode": "6825HN",
+        "addr:street": "Middachtensingel",
+        "amenity": "college",
+        "name": "roc Rijn IJssel - opleidingen Administratie & Ondernemerschap",
+        "operator": "Rijn Ijssel",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9567795,
+          51.983617
+        ]
+      },
+      "id": "node/2722311331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2725914050",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "425",
+        "addr:postcode": "1017BR",
+        "addr:street": "Herengracht",
+        "amenity": "college",
+        "name": "Amsterdam Film School",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "http://www.amsterdamfilmschool.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8877338,
+          52.3673985
+        ]
+      },
+      "id": "node/2725914050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2726914757",
+        "addr:city": "Leiden",
+        "addr:country": "NL",
+        "addr:housenumber": "262",
+        "addr:postcode": "2324BZ",
+        "addr:street": "Apollolaan",
+        "amenity": "college",
+        "email": "adm@vlietlandcollege.nl",
+        "name": "Vlietland College",
+        "phone": "+31 71 5769243",
+        "source": "3dShapes",
+        "website": "https://www.vlietlandcollege.nl/",
+        "wikidata": "Q2376580",
+        "wikipedia": "nl:Het Vlietland College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4741485,
+          52.1386995
+        ]
+      },
+      "id": "node/2726914757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2728924289",
+        "addr:city": "Breda",
+        "addr:housenumber": "350",
+        "addr:postcode": "4826AA",
+        "addr:street": "Terheijdenseweg",
+        "amenity": "college",
+        "email": "info.tt.breda@curio.nl",
+        "name": "Curio Techniek en Technologie",
+        "operator": "Curio",
+        "phone": "+31 (0)76 573 34 44",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "htttps://www.curio.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7780558,
+          51.6062543
+        ]
+      },
+      "id": "node/2728924289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731694023",
+        "addr:city": "Leiden",
+        "addr:housenumber": "48",
+        "addr:postcode": "2321TE",
+        "addr:street": "Telderskade",
+        "amenity": "college",
+        "name": "Leonardo College",
+        "source": "BAG",
+        "source:date": "2022-01-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4753316,
+          52.1496565
+        ]
+      },
+      "id": "node/2731694023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2732912394",
+        "addr:city": "Meppel",
+        "addr:housenumber": "3D",
+        "addr:postcode": "7941LC",
+        "addr:street": "Vledderstraat",
+        "amenity": "college",
+        "name": "Drenthe College",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1941755,
+          52.6976887
+        ]
+      },
+      "id": "node/2732912394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2735590298",
+        "addr:city": "Breda",
+        "addr:housenumber": "2",
+        "addr:postcode": "4834BC",
+        "addr:street": "Groene Woud",
+        "amenity": "college",
+        "email": "derotonde@curio.nl",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Curio De Rotonde",
+        "operator": "CURIO (Voormalig ROC-West Brabant)",
+        "phone": "+31 76 521 82 68",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.curio.nl/locaties-curio/de-rotonde/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7925964,
+          51.5723895
+        ]
+      },
+      "id": "node/2735590298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2739007225",
+        "addr:city": "Groningen",
+        "addr:housenumber": "16",
+        "addr:postcode": "9743BG",
+        "addr:street": "Diamantlaan",
+        "amenity": "college",
+        "name": "Noorderpoort",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://noorderpoort.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5286213,
+          53.2181555
+        ]
+      },
+      "id": "node/2739007225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2739408524",
+        "addr:city": "'s-Hertogenbosch",
+        "addr:housenumber": "3",
+        "addr:postcode": "5223DE",
+        "addr:street": "Onderwijsboulevard",
+        "amenity": "college",
+        "name": "Koning Willen I College - Campus Onderwijsboulevard",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.kw1c.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2860154,
+          51.6908198
+        ]
+      },
+      "id": "node/2739408524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2742466679",
+        "addr:city": "Groningen",
+        "addr:housenumber": "50",
+        "addr:postcode": "9723AB",
+        "addr:street": "Winschoterdiep",
+        "amenity": "college",
+        "name": "Noorderpoort College",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://www.noorderpoort.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5861146,
+          53.2095126
+        ]
+      },
+      "id": "node/2742466679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2743141659",
+        "amenity": "college",
+        "name": "Penta College De Eilanden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3128547,
+          51.8493737
+        ]
+      },
+      "id": "node/2743141659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2753026181",
+        "addr:city": "Boxmeer",
+        "addr:housenumber": "2",
+        "addr:postcode": "5831EM",
+        "addr:street": "Begijnenstraat",
+        "amenity": "college",
+        "name": "MBO College De Maasvallei",
+        "operator": "ROC Nijmegen",
+        "source": "BAG",
+        "source:date": "2019-10-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9480181,
+          51.6450389
+        ]
+      },
+      "id": "node/2753026181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2753261513",
+        "addr:city": "Emmen",
+        "addr:housenumber": "2",
+        "addr:postcode": "7821AX",
+        "addr:street": "Atlantis",
+        "amenity": "college",
+        "name": "Drenthe College (Atlantis)",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9139322,
+          52.7766499
+        ]
+      },
+      "id": "node/2753261513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2756504333",
+        "addr:city": "Dordrecht",
+        "addr:housenumber": "100",
+        "addr:postcode": "3312KW",
+        "addr:street": "Leerparkpromenade",
+        "amenity": "college",
+        "name": "ROC Da Vinci College",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6794198,
+          51.7978609
+        ]
+      },
+      "id": "node/2756504333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757038129",
+        "addr:city": "West-Terschelling",
+        "addr:housenumber": "8",
+        "addr:postcode": "8881GA",
+        "addr:street": "'t Land",
+        "amenity": "college",
+        "name": "Maritiem Instituut Willem Barentsz",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2318711,
+          53.3663985
+        ]
+      },
+      "id": "node/2757038129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2761949121",
+        "addr:city": "Ede",
+        "addr:housenumber": "80",
+        "addr:postcode": "6717LG",
+        "addr:street": "Reehorsterweg",
+        "amenity": "college",
+        "internet_access": "wlan",
+        "name": "Dulon College",
+        "operator": "ROC A12",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.duloncollege.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6624485,
+          52.0204701
+        ]
+      },
+      "id": "node/2761949121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2764625934",
+        "addr:city": "Eindhoven",
+        "addr:housenumber": "10",
+        "addr:postcode": "5631KA",
+        "addr:street": "Sterrenlaan",
+        "amenity": "college",
+        "name": "Summa College",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.summacollege.nl/over-het-summa-college/onze-scholen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4963967,
+          51.4665988
+        ]
+      },
+      "id": "node/2764625934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2765711421",
+        "addr:city": "Gouda",
+        "addr:housenumber": "555",
+        "addr:postcode": "2803ZK",
+        "addr:street": "Ronsseweg",
+        "amenity": "college",
+        "name": "Wellantcollege Gouda MBO",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7029171,
+          52.0192911
+        ]
+      },
+      "id": "node/2765711421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2771002356",
+        "addr:city": "Assen",
+        "addr:housenumber": "34",
+        "addr:postcode": "9403AB",
+        "addr:street": "Industrieweg",
+        "amenity": "college",
+        "name": "Noorderpoort",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5699647,
+          53.0048047
+        ]
+      },
+      "id": "node/2771002356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2772345315",
+        "addr:city": "Vught",
+        "addr:housenumber": "12",
+        "addr:postcode": "5262BR",
+        "addr:street": "Martinilaan",
+        "amenity": "college",
+        "name": "Regina Coeli Taleninstituut",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.reginacoeli.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2784403,
+          51.6512552
+        ]
+      },
+      "id": "node/2772345315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2775250141",
+        "addr:city": "Enschede",
+        "addr:housenumber": "10",
+        "addr:postcode": "7511PN",
+        "addr:street": "Van Essengaarde",
+        "amenity": "college",
+        "name": "ArtEz",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.artez.nl/locatie-enschede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8964297,
+          52.2219868
+        ]
+      },
+      "id": "node/2775250141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2781332378",
+        "addr:city": "Dordrecht",
+        "addr:housenumber": "145",
+        "addr:postcode": "3318AL",
+        "addr:street": "Karel Lotsyweg",
+        "amenity": "college",
+        "name": "OLB Da Vinci",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6785749,
+          51.7915691
+        ]
+      },
+      "id": "node/2781332378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2781332891",
+        "addr:city": "Dordrecht",
+        "addr:housenumber": "20",
+        "addr:postcode": "3318AL",
+        "addr:street": "Karel Lotsyweg",
+        "amenity": "college",
+        "name": "Da Vinci College -Dordrecht Gezondheidspark",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6809328,
+          51.7919707
+        ]
+      },
+      "id": "node/2781332891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782108573",
+        "addr:city": "Eindhoven",
+        "addr:housenumber": "1",
+        "addr:postcode": "5623AD",
+        "addr:street": "Kaakstraat",
+        "amenity": "college",
+        "name": "De Rooi Pannen",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.derooipannen.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4758437,
+          51.456399
+        ]
+      },
+      "id": "node/2782108573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2783879403",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "19",
+        "addr:postcode": "3067GL",
+        "addr:street": "Koperstraat",
+        "amenity": "college",
+        "name": "Politieacademy",
+        "name:nl": "Politieacademie Rotterdam",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5484617,
+          51.949817
+        ]
+      },
+      "id": "node/2783879403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786374395",
+        "addr:city": "Gorinchem",
+        "addr:housenumber": "82",
+        "addr:postcode": "4205NB",
+        "addr:street": "Mollenburgseweg",
+        "amenity": "college",
+        "name": "Da Vinci College Gorinchem",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9667361,
+          51.8483117
+        ]
+      },
+      "id": "node/2786374395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2791329982",
+        "addr:city": "Boxtel",
+        "addr:housenumber": "2",
+        "addr:postcode": "5281RE",
+        "addr:street": "Schouwrooij",
+        "amenity": "college",
+        "name": "Yuverta MBO Boxtel",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3095036,
+          51.5848845
+        ]
+      },
+      "id": "node/2791329982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2791334316",
+        "addr:city": "Foudgum",
+        "addr:housenumber": "1",
+        "addr:postcode": "9154AS",
+        "addr:street": "Kolkreed",
+        "amenity": "college",
+        "name": "Kunstacademie Foudgumse school",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://defoudgumseschool.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9607052,
+          53.3443799
+        ]
+      },
+      "id": "node/2791334316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2791623581",
+        "addr:city": "Gouda",
+        "addr:housenumber": "10",
+        "addr:postcode": "2801DE",
+        "addr:street": "Noordelijk Halfrond",
+        "amenity": "college",
+        "name": "Hoornbeeck College Gouda",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.hoornbeeck.nl/gouda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6843562,
+          52.0171251
+        ]
+      },
+      "id": "node/2791623581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2797057553",
+        "addr:city": "Geldermalsen",
+        "addr:housenumber": "3",
+        "addr:postcode": "4191NZ",
+        "addr:street": "Poppenbouwing",
+        "amenity": "college",
+        "name": "Bouwmensen Rivierengebied",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://rivierengebied.bouwmensen.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3121113,
+          51.8752762
+        ]
+      },
+      "id": "node/2797057553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2808488552",
+        "amenity": "college",
+        "name": "Zuyd Hogeschool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6721329,
+          50.854144
+        ]
+      },
+      "id": "node/2808488552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2816401219",
+        "addr:city": "Tholen",
+        "addr:housenumber": "2",
+        "addr:postcode": "4691DZ",
+        "addr:street": "Hof van Tholen",
+        "amenity": "college",
+        "description": "Nederlands als tweede taal (NT2)",
+        "name": "Scalda",
+        "operator": "Scalda",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.scalda.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2053643,
+          51.532267
+        ]
+      },
+      "id": "node/2816401219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2816555062",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "17",
+        "addr:postcode": "3051VE",
+        "addr:street": "Koraalstraat",
+        "amenity": "college",
+        "description": "Art school; Portraitpainter",
+        "name": "Atelier Hella De Boo",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.helladeboo.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4700757,
+          51.945528
+        ]
+      },
+      "id": "node/2816555062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2820719557",
+        "addr:city": "Uithoorn",
+        "addr:housenumber": "55",
+        "addr:postcode": "1422RG",
+        "addr:street": "Legmeerplein",
+        "amenity": "college",
+        "name": "Praktijkschool Uithoorn",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8178106,
+          52.2496827
+        ]
+      },
+      "id": "node/2820719557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829764878",
+        "addr:city": "Ossendrecht",
+        "addr:housenumber": "19p-8",
+        "addr:postcode": "4641ST",
+        "addr:street": "Pannenhoef",
+        "amenity": "college",
+        "description": "Politieacademie voor Openbare orde en veiligheid",
+        "name": "Politie Academie",
+        "phone": "+31164679400",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.politieacademie.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3600733,
+          51.3836382
+        ]
+      },
+      "id": "node/2829764878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2834439147",
+        "addr:city": "Almere",
+        "addr:housenumber": "1",
+        "addr:postcode": "1362JA",
+        "addr:street": "Heliumweg",
+        "amenity": "college",
+        "name": "Aeres MBO Almere",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1665372,
+          52.3477553
+        ]
+      },
+      "id": "node/2834439147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2848744707",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "31",
+        "addr:postcode": "1021KN",
+        "addr:street": "Johan van Hasseltweg",
+        "amenity": "college",
+        "brand": "SAE Institute",
+        "brand:wikidata": "Q201438",
+        "brand:wikipedia": "en:SAE Institute",
+        "name": "SAE Institute Amsterdam",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.sae.edu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928839,
+          52.3853391
+        ]
+      },
+      "id": "node/2848744707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849439559",
+        "addr:city": "Weert",
+        "addr:housenumber": "5",
+        "addr:postcode": "6006AG",
+        "addr:street": "Drakesteyn",
+        "amenity": "college",
+        "name": "Gilde opleidingen",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.gildeopleidingen.nl/locaties/weert/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7133442,
+          51.2469369
+        ]
+      },
+      "id": "node/2849439559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861735900",
+        "addr:city": "Oploo",
+        "addr:housenumber": "15",
+        "addr:postcode": "5841AM",
+        "addr:street": "Deken Schmerlingstraat",
+        "amenity": "college",
+        "name": "International Academy for Sportscience",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://ias-academy.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8704347,
+          51.6059581
+        ]
+      },
+      "id": "node/2861735900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2869184160",
+        "addr:city": "Woerden",
+        "addr:housenumber": "1",
+        "addr:postcode": "3446GL",
+        "addr:street": "Minkemalaan",
+        "amenity": "college",
+        "name": "Minkema College",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8967783,
+          52.0845671
+        ]
+      },
+      "id": "node/2869184160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2880466280",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "12",
+        "addr:postcode": "8025CP",
+        "addr:street": "Stadionplein",
+        "amenity": "college",
+        "name": "Landstede MBO",
+        "source": "BAG",
+        "source:date": "2014-05-25",
+        "website": "https://www.landstedembo.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1218719,
+          52.5171516
+        ]
+      },
+      "id": "node/2880466280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2892052212",
+        "addr:city": "Waalwijk",
+        "addr:housenumber": "1",
+        "addr:postcode": "5146BA",
+        "addr:street": "Koetshuislaan",
+        "amenity": "college",
+        "name": "MET Praktijkonderwijs Waalwijk",
+        "source": "BAG",
+        "source:date": "2014-05-30",
+        "website": "http://www.met-pro.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0487119,
+          51.6739969
+        ]
+      },
+      "id": "node/2892052212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2892893683",
+        "addr:city": "Leiden",
+        "addr:housenumber": "10",
+        "addr:postcode": "2333CL",
+        "addr:street": "Zernikedreef",
+        "amenity": "college",
+        "operator": "Hogeschool Leiden",
+        "source": "BAG",
+        "source:date": "2014-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.469153,
+          52.1666715
+        ]
+      },
+      "id": "node/2892893683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2892893899",
+        "addr:city": "Leiden",
+        "addr:housenumber": "11",
+        "addr:postcode": "2333CK",
+        "addr:street": "Zernikedreef",
+        "amenity": "college",
+        "name": "Hogeschool Leiden",
+        "source": "BAG",
+        "source:date": "2014-06-01",
+        "wikidata": "Q3916886",
+        "wikipedia": "nl:Hogeschool Leiden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4719686,
+          52.1669998
+        ]
+      },
+      "id": "node/2892893899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2894408974",
+        "addr:city": "Rijnsburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "2231BZ",
+        "addr:street": "Laan van Verhof",
+        "amenity": "college",
+        "name": "Wellantcollege Rijnsburg MBO",
+        "source": "BAG",
+        "source:date": "2014-06-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4490437,
+          52.1862588
+        ]
+      },
+      "id": "node/2894408974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2935411264",
+        "addr:city": "Roermond",
+        "addr:housenumber": "1",
+        "addr:postcode": "6042JW",
+        "addr:street": "Kerkeveldlaan",
+        "amenity": "college",
+        "name": "Gildeopleidingen",
+        "source": "BAG",
+        "source:date": "2014-06-27",
+        "website": "https://www.gildeopleidingen.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0127992,
+          51.1924111
+        ]
+      },
+      "id": "node/2935411264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3003112476",
+        "addr:city": "Nieuwegein",
+        "addr:housenumber": "1",
+        "addr:postcode": "3438ED",
+        "addr:street": "Harmonielaan",
+        "amenity": "college",
+        "name": "ROC Midden Nederland ICT College",
+        "source": "BAG",
+        "source:date": "2014-08-07",
+        "website": "https://rocmn.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.093989,
+          52.0443194
+        ]
+      },
+      "id": "node/3003112476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014845406",
+        "addr:city": "Renkum",
+        "addr:housenumber": "26",
+        "addr:postcode": "6871KA",
+        "addr:street": "Industrieweg",
+        "amenity": "college",
+        "image": "https://www.rijnijssel.nl/media/2947/renkum.jpg",
+        "name": "Rijn IJssel",
+        "official_name": "ROC Rijn IJssel",
+        "phone": "+31 26 3129200",
+        "source": "BAG",
+        "source:date": "2014-08-13",
+        "website": "https://www.rijnijssel.nl/locaties/renkum-industrieweg-26/",
+        "wikipedia": "nl:ROC Rijn IJssel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7421919,
+          51.9867962
+        ]
+      },
+      "id": "node/3014845406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3015191752",
+        "addr:city": "Rozendaal",
+        "addr:housenumber": "1",
+        "addr:postcode": "6891DK",
+        "addr:street": "Kleiberglaan",
+        "amenity": "college",
+        "email": "inforozendaal@hetrhedens.nl",
+        "facebook": "https://www.facebook.com/hetrhedens",
+        "name": "Het Rhedens Rozendaal",
+        "operator": "Het Rhedens",
+        "phone": "+31 26-3646845",
+        "source": "BAG;local knowledge;streetlevel imagery",
+        "source:date": "2018-09-22",
+        "twitter": "https://twitter.com/sghetrhedens",
+        "website": "https://www.hetrhedens.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9720334,
+          52.0040435
+        ]
+      },
+      "id": "node/3015191752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020108336",
+        "addr:city": "Tiel",
+        "addr:housenumber": "1",
+        "addr:postcode": "4003KZ",
+        "addr:street": "Bachstraat",
+        "amenity": "college",
+        "name": "ROC Rivor",
+        "source": "BAG",
+        "source:date": "2014-08-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4133041,
+          51.886155
+        ]
+      },
+      "id": "node/3020108336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3023169326",
+        "addr:city": "Utrecht",
+        "addr:housename": "trechtse ZorgAcademie & Academie voor Welzijn",
+        "addr:housenumber": "25",
+        "addr:postcode": "3526AB",
+        "addr:street": "Australiëlaan",
+        "amenity": "college",
+        "designation": "MBO Utrecht",
+        "name": "MBO Utrecht, Utrechtse ZorgAcademie & Academie voor Welzijn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1015794,
+          52.0642376
+        ]
+      },
+      "id": "node/3023169326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3023169327",
+        "addr:city": "Utrecht",
+        "addr:housename": "MBO Utrecht, MHBO Academie voor Economie en Ondernemen",
+        "addr:housenumber": "23",
+        "addr:postcode": "3526AB",
+        "addr:street": "Australiëlaan",
+        "amenity": "college",
+        "building": "school",
+        "designation": "MBO Utrecht",
+        "name": "MBO Utrecht, MHBO Academie voor Economie en Ondernemen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1023894,
+          52.0645213
+        ]
+      },
+      "id": "node/3023169327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3024586537",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "174",
+        "addr:postcode": "3521GH",
+        "addr:street": "Vondellaan",
+        "amenity": "college",
+        "name": "ROC Midden Nederland",
+        "source": "BAG",
+        "source:date": "2014-08-18",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Het rolstoeltoilet bevindt zich op de eerste verdieping en is bereikbaar met een lift(1,1 x 1,4 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1190019,
+          52.0789144
+        ]
+      },
+      "id": "node/3024586537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3035642358",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3523CL",
+        "addr:street": "Rotsoord",
+        "amenity": "college",
+        "name": "HKU Beeldende Kunst",
+        "source": "BAG",
+        "source:date": "2014-08-22",
+        "website": "https://www.hku.nl/Opleidingen/BeeldendeKunst.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1213193,
+          52.0748339
+        ]
+      },
+      "id": "node/3035642358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3042079613",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "99",
+        "addr:postcode": "3584CH",
+        "addr:street": "Padualaan",
+        "amenity": "college",
+        "name": "Faculteit Communicatie en Journalistiek (HU)",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Lift 1.3 x 2.4 m. Toilet 2.2 x 2.2 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1761002,
+          52.0819132
+        ]
+      },
+      "id": "node/3042079613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3042079614",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "101",
+        "addr:postcode": "3584CH",
+        "addr:street": "Padualaan",
+        "amenity": "college",
+        "name": "Faculteit Economie & Management (HU)",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Lift 1,1 x 2,1 m. Toilet 2,3 x 2,5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1701845,
+          52.0840454
+        ]
+      },
+      "id": "node/3042079614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3042079615",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "97",
+        "addr:postcode": "3584CH",
+        "addr:street": "Padualaan",
+        "amenity": "college",
+        "name": "Faculteit Educatie (HU)",
+        "toilets:wheelchair": "yes",
+        "wheelchair:description": "Lift 1,1 x 2,1 m. Toilet 1,9 x 2,4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1675611,
+          52.0842073
+        ]
+      },
+      "id": "node/3042079615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043783652",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "20",
+        "addr:postcode": "3562CS",
+        "addr:street": "Brandenburchdreef",
+        "amenity": "college",
+        "description": "ROC Midden Nederland, Creative College. School voor audiovisueel, theater, zang of podiumopbouw.",
+        "name": "ROC Midden Nederland",
+        "source": "BAG",
+        "source:date": "2014-08-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1212375,
+          52.1195404
+        ]
+      },
+      "id": "node/3043783652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3174622741",
+        "addr:city": "'s-Gravenhage",
+        "addr:country": "NL",
+        "addr:housenumber": "3",
+        "addr:postcode": "2513AZ",
+        "addr:province": "Zuid-Holland",
+        "addr:street": "Kerkplein",
+        "amenity": "college",
+        "email": "info@aflahaye.nl",
+        "name": "Alliance Française de La Haye",
+        "operator": "Alliance Française",
+        "phone": "070 362 15 23",
+        "website": "http://www.aflahaye.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3072972,
+          52.0781181
+        ]
+      },
+      "id": "node/3174622741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3319154545",
+        "addr:city": "Doetinchem",
+        "addr:housenumber": "5",
+        "addr:postcode": "7008CA",
+        "addr:street": "Maria Montessoristraat",
+        "amenity": "college",
+        "contact:website": "http://www.metzocollege.nl/Contact/Adresgegevens.aspx",
+        "name": "Metzo College",
+        "source": "BAG",
+        "source:date": "2015-01-29",
+        "website": "https://www.metzocollege.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2761665,
+          51.9708919
+        ]
+      },
+      "id": "node/3319154545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3445711005",
+        "amenity": "college",
+        "name": "Open Universiteit Nederland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7839327,
+          51.5948614
+        ]
+      },
+      "id": "node/3445711005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3523152914",
+        "addr:city": "Meppel",
+        "addr:housenumber": "2",
+        "addr:postcode": "7943AE",
+        "addr:street": "Ambachtsweg",
+        "amenity": "college",
+        "name": "Drenthe College",
+        "source": "BAG",
+        "source:date": "2015-05-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2008875,
+          52.6903201
+        ]
+      },
+      "id": "node/3523152914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3981894115",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "101",
+        "addr:postcode": "3584CJ",
+        "addr:street": "Bolognalaan",
+        "amenity": "college",
+        "name": "Faculteit Gezondheidszorg (HU)",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Lift 1.1 x 1.2 m. Toilet 2.2 x 2.5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1759282,
+          52.0820552
+        ]
+      },
+      "id": "node/3981894115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982835010",
+        "amenity": "college",
+        "name": "Willem de Zwijger College",
+        "phone": "003178-6417970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6838068,
+          51.8328958
+        ]
+      },
+      "id": "node/3982835010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472738704",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "185",
+        "addr:postcode": "1012DK",
+        "addr:street": "Oudezijds Achterburgwal",
+        "amenity": "college",
+        "name": "Meertens Instituut",
+        "name:en": "Meertens Institute",
+        "name:nl": "Meertens Instituut",
+        "operator": "KNAW",
+        "website": "http://www.meertens.knaw.nl",
+        "wheelchair": "limited",
+        "wikidata": "Q487857",
+        "wikipedia": "nl:Meertens Instituut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8965964,
+          52.370578
+        ]
+      },
+      "id": "node/4472738704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498935725",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "3",
+        "addr:postcode": "8041AL",
+        "addr:street": "Russenweg",
+        "amenity": "college",
+        "name": "Thorbecke locatie VMBO-pro",
+        "source": "BAG",
+        "source:date": "2016-11-13",
+        "website": "https://russenweg.thorbecke-zwolle.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0686496,
+          52.5121399
+        ]
+      },
+      "id": "node/4498935725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4503806497",
+        "addr:city": "Houten",
+        "addr:housenumber": "2",
+        "addr:postcode": "3992XH",
+        "addr:street": "Randhoeve",
+        "amenity": "college",
+        "name": "Yuverta mbo Houten",
+        "source": "BAG",
+        "source:date": "2016-11-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1623783,
+          52.0394256
+        ]
+      },
+      "id": "node/4503806497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4573664562",
+        "amenity": "college",
+        "name": "Amsterdam Business School",
+        "website": "http://abs.uva.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9117176,
+          52.3651074
+        ]
+      },
+      "id": "node/4573664562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4589322579",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "390",
+        "addr:postcode": "1076CT",
+        "addr:street": "Amstelveenseweg",
+        "alt_name": "Open Universiteit, Studiecentrum Amsterdam",
+        "amenity": "college",
+        "name": "Open Universiteit (Amsterdam)",
+        "operator": "Open Universiteit (NL)",
+        "website": "https://www.ou.nl/web/open-universiteit/-/amsterdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8572111,
+          52.3416863
+        ]
+      },
+      "id": "node/4589322579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4678057435",
+        "addr:city": "Zwijndrecht",
+        "addr:country": "NL",
+        "addr:housenumber": "2R",
+        "addr:postcode": "3331HW",
+        "addr:street": "Laurensvliet",
+        "amenity": "college",
+        "contact:phone": "+31 78 6256100",
+        "contact:website": "http://www.loczwijndrecht.nl/",
+        "name": "LOC@ mbo",
+        "note": "Davincicollege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.640951,
+          51.8211587
+        ]
+      },
+      "id": "node/4678057435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680335906",
+        "amenity": "college",
+        "name": "Alfa-college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5963446,
+          53.2381295
+        ]
+      },
+      "id": "node/4680335906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680364369",
+        "amenity": "college",
+        "name": "Alfa-college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.623223,
+          52.5761362
+        ]
+      },
+      "id": "node/4680364369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680364370",
+        "amenity": "college",
+        "name": "Alfa-college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4715094,
+          52.7387523
+        ]
+      },
+      "id": "node/4680364370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680364371",
+        "amenity": "college",
+        "name": "Alfa-college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5370637,
+          52.984352
+        ]
+      },
+      "id": "node/4680364371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680447275",
+        "amenity": "college",
+        "name": "Noorderpoort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9673092,
+          52.9901001
+        ]
+      },
+      "id": "node/4680447275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680804732",
+        "addr:city": "Gorinchem",
+        "addr:housenumber": "82",
+        "addr:postcode": "4205NB",
+        "addr:street": "Mollenburgseweg",
+        "amenity": "college",
+        "name": "Yuverta MBO Gorinchem",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9675486,
+          51.848218
+        ]
+      },
+      "id": "node/4680804732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4680938986",
+        "amenity": "college",
+        "name": "Drenthe College (Van Schaikweg 94)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9131623,
+          52.7781342
+        ]
+      },
+      "id": "node/4680938986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4685769921",
+        "amenity": "college",
+        "description": "Nederlands als eerste taal (NT1); Inburgeringstraject / Staatsexamen I en II",
+        "name": "Scalda",
+        "operator": "Scalda",
+        "website": "https://www.scalda.nl/opleidingen/locatie/hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0664407,
+          51.2871573
+        ]
+      },
+      "id": "node/4685769921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705282938",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "11",
+        "addr:postcode": "5037AC",
+        "addr:street": "Sportweg",
+        "amenity": "college",
+        "name": "2College Jozefmavo",
+        "source": "BAG",
+        "source:date": "2017-02-25",
+        "website": "https://www.2college.nl/Jozefmavo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0605197,
+          51.5625195
+        ]
+      },
+      "id": "node/4705282938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4760027026",
+        "addr:city": "Eindhoven",
+        "addr:housenumber": "3",
+        "addr:postcode": "5616EA",
+        "addr:street": "Willem de Rijkelaan",
+        "amenity": "college",
+        "name": "Summa College",
+        "source": "BAG",
+        "source:date": "2017-03-08",
+        "website": "https://summacollege.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4625395,
+          51.4351493
+        ]
+      },
+      "id": "node/4760027026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762506739",
+        "addr:city": "Eindhoven",
+        "addr:housenumber": "1-01",
+        "addr:postcode": "5643RB",
+        "addr:street": "Geert Grootestraat",
+        "amenity": "college",
+        "name": "Vakcollege Eindhoven",
+        "source": "BAG",
+        "source:date": "2017-03-08",
+        "website": "https://vakcollegeeindhoven.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5021738,
+          51.4281831
+        ]
+      },
+      "id": "node/4762506739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878997078",
+        "amenity": "college",
+        "name": "Techniek College Rotterdam",
+        "website": "https://www.techniekcollegerotterdam.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4956397,
+          51.8845132
+        ]
+      },
+      "id": "node/4878997078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878997087",
+        "amenity": "college",
+        "name": "Montfort College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4947684,
+          51.8865777
+        ]
+      },
+      "id": "node/4878997087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4930284924",
+        "addr:city": "Leusden",
+        "addr:housenumber": "30",
+        "addr:postcode": "3832RC",
+        "addr:street": "Leusderend",
+        "amenity": "college",
+        "name": "Beeckestijn Business School",
+        "source": "BAG",
+        "source:date": "2017-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3912638,
+          52.1310325
+        ]
+      },
+      "id": "node/4930284924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5067170581",
+        "addr:city": "Geldermalsen",
+        "addr:housenumber": "7",
+        "addr:postcode": "4191PL",
+        "addr:street": "Burgemeester Roozeveld van der Venlaan",
+        "amenity": "college",
+        "name": "Yuverta MBO Geldermalsen",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2711375,
+          51.8785236
+        ]
+      },
+      "id": "node/5067170581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5128460212",
+        "addr:city": "Groesbeek",
+        "addr:housenumber": "2",
+        "addr:postcode": "6562DE",
+        "addr:street": "Bredeweg",
+        "amenity": "college",
+        "name": "Nederlands Wijnbouwcentrum",
+        "source": "BAG",
+        "source:date": "2017-09-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9345339,
+          51.7682331
+        ]
+      },
+      "id": "node/5128460212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5508069823",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "1",
+        "addr:postcode": "3584EE",
+        "addr:street": "Maupertuusplein",
+        "amenity": "college",
+        "name": "University College Utrecht 'Dininghall'",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Lift 1,1 x 1,4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1483917,
+          52.0822635
+        ]
+      },
+      "id": "node/5508069823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5524562923",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3584ED",
+        "addr:street": "Campusplein",
+        "amenity": "college",
+        "name": "University College Utrecht 'Campusplein 8'",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Toilet 2,5 x 3,4 m. Lift 1,1 x 1,4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1482441,
+          52.0845178
+        ]
+      },
+      "id": "node/5524562923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5524594021",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "16-19",
+        "addr:postcode": "3584ED",
+        "addr:street": "Campusplein",
+        "amenity": "college",
+        "name": "University College Utrecht 'Locke'",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Lift 1,1 x 1,4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1485662,
+          52.08305
+        ]
+      },
+      "id": "node/5524594021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5543322390",
+        "amenity": "college",
+        "name": "ROC Sport College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.118385,
+          52.1211023
+        ]
+      },
+      "id": "node/5543322390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5659046321",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "9",
+        "addr:street": "Zonnebaan",
+        "amenity": "college",
+        "email": "info@novi.nl",
+        "name": "NOVI Hogeschool",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "phone": "0307115615",
+        "website": "https://www.novi.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0382139,
+          52.1176478
+        ]
+      },
+      "id": "node/5659046321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784680076",
+        "amenity": "college",
+        "contact:website": "http://www.procollege.nl/",
+        "name": "Pro College",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8243943,
+          51.8308835
+        ]
+      },
+      "id": "node/5784680076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5867836429",
+        "amenity": "college",
+        "name": "Hogeschool Utrecht - Institute for ICT, FEM and FCJ",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1756843,
+          52.0840563
+        ]
+      },
+      "id": "node/5867836429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5885574997",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "7",
+        "addr:postcode": "3584CS",
+        "addr:street": "Heidelberglaan",
+        "amenity": "college",
+        "name": "Hogeschool Utrecht afdeling Maatschappelijke dienstverlening",
+        "source": "BAG",
+        "source:date": "2014-08-25",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Lift 1,1 by 1,4 m. Toilet 2,2 by 2,2 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1739008,
+          52.0839713
+        ]
+      },
+      "id": "node/5885574997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5923859159",
+        "amenity": "college",
+        "name": "School voor Orde en Veiligheid",
+        "website": "https://www.roctilburg.nl/MBO-scholen-en-Vavo/school-en-locatie-detail/school-voor-orde-en-veiligheid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1008005,
+          51.5770504
+        ]
+      },
+      "id": "node/5923859159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6066443890",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "26",
+        "addr:postcode": "3012CC",
+        "addr:street": "Kruisplein",
+        "amenity": "college",
+        "name": "Codarts Hoogeschool voor de Kunsten",
+        "name:en": "Codarts University of Arts",
+        "name:nl": "Codarts Hoogeschool voor de Kunsten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.471727,
+          51.9221282
+        ]
+      },
+      "id": "node/6066443890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6461565529",
+        "addr:city": "Ede",
+        "addr:housenumber": "7",
+        "addr:postcode": "6717XA",
+        "addr:street": "Bovenbuurtweg",
+        "amenity": "college",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Technova College",
+        "operator": "ROC A12",
+        "website": "https://www.technovacollege.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6619708,
+          52.0217559
+        ]
+      },
+      "id": "node/6461565529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6747028323",
+        "addr:city": "Dordrecht",
+        "addr:housenumber": "398",
+        "addr:postcode": "3315LA",
+        "addr:street": "Groenezoom",
+        "amenity": "college",
+        "name": "Yuverta MBO Dordrecht",
+        "source": "BAG",
+        "source:date": "2019-08-26",
+        "website": "https://www.yuverta.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7035762,
+          51.8054479
+        ]
+      },
+      "id": "node/6747028323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6789429940",
+        "amenity": "college",
+        "name": "Euro College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47531,
+          51.9169579
+        ]
+      },
+      "id": "node/6789429940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6879782803",
+        "amenity": "college",
+        "name": "SKVR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4771232,
+          51.9216044
+        ]
+      },
+      "id": "node/6879782803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7061159314",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "279",
+        "addr:postcode": "1058AE",
+        "addr:street": "Baarsjesweg",
+        "amenity": "college",
+        "email": "info@njmt.nl",
+        "name": "NJMT - Nationaal Jeugd Musical Theater",
+        "operator": "NJMT",
+        "phone": "+31 206836652",
+        "website": "https://www.njmt.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8562247,
+          52.3601735
+        ]
+      },
+      "id": "node/7061159314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126958720",
+        "addr:city": "Amsterdam",
+        "addr:housename": "Gebouw 039",
+        "addr:housenumber": "7",
+        "addr:postcode": "1018JA",
+        "addr:street": "Kattenburgerstraat",
+        "addr:unit": "39",
+        "amenity": "college",
+        "internet_access": "wlan",
+        "name": "Codam Coding College",
+        "operator": "42",
+        "operator:type": "private_non_profit",
+        "website": "https://www.codam.nl/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9155587,
+          52.3745343
+        ]
+      },
+      "id": "node/7126958720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7208944511",
+        "addr:city": "Hoogezand",
+        "addr:housenumber": "4",
+        "addr:postcode": "9603TG",
+        "addr:street": "Laan van de Sport",
+        "amenity": "college",
+        "source": "BAG",
+        "source:date": "2014-08-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7621078,
+          53.1522521
+        ]
+      },
+      "id": "node/7208944511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257681885",
+        "amenity": "college",
+        "name": "Noorderpoort Procestechniek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5316,
+          53.2445787
+        ]
+      },
+      "id": "node/7257681885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8010927268",
+        "addr:city": "Enschede",
+        "addr:housenumber": "4-6",
+        "addr:postcode": "7511JE",
+        "addr:street": "Piet Heinstraat",
+        "amenity": "college",
+        "name": "VAVO Lyceum van Twente",
+        "operator": "ROC van Twente",
+        "website": "https://www.vavolyceumvantwente.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8912988,
+          52.2212843
+        ]
+      },
+      "id": "node/8010927268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9000868394",
+        "amenity": "college",
+        "name": "Yuverta mbo Amsterdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.795154,
+          52.3500723
+        ]
+      },
+      "id": "node/9000868394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9207308924",
+        "addr:city": "Nieuwegein",
+        "addr:housenumber": "2",
+        "addr:postcode": "3438EB",
+        "addr:street": "Harmonielaan",
+        "amenity": "college",
+        "name": "ROC Midden Nederland Bouw & Interieur College",
+        "source": "BAG",
+        "source:date": "2014-08-07",
+        "website": "https://rocmn.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0949574,
+          52.0438871
+        ]
+      },
+      "id": "node/9207308924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9389284735",
+        "amenity": "college",
+        "contact:email": "butlerschool@butlerschool.com",
+        "contact:facebook": "https://www.facebook.com/pages/The-International-Butler-Academy/107807726078253?ref=hl",
+        "contact:instagram": "https://www.instagram.com/theinternationalbutleracademy/",
+        "contact:linkedin": "https://www.linkedin.com/company/the-international-butler-academy",
+        "contact:phone": "+31 452 078008",
+        "contact:website": "https://www.butlerschool.com/",
+        "name": "The International Butler Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9939691,
+          50.8336875
+        ]
+      },
+      "id": "node/9389284735"
+    }
+  ]
+}
