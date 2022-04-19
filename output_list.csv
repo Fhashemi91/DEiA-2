@@ -1,0 +1,492 @@
+neighbourhood,municipality,longitude,latitude,play_demand,a_00_14
+Appingedam-Oost,Appingedam,6.8593699,53.3070697,7,900
+Hoogkerk-Zuid,Groningen,6.4922742,53.2058736,5,965
+Beijum-West,Groningen,6.5871023,53.2493503,6,1005
+Beijum-Oost,Groningen,6.6010121,53.2485794,6,1175
+Haren,Groningen,6.5858321,53.1709902,6,1485
+Oosterhaar,Groningen,6.6300449,53.179346,5,935
+De Wierden,Almere,5.2101188,52.3358645,5,810
+Centrum Almere Stad,Almere,5.2199218,52.3701165,5,560
+Filmwijk,Almere,5.2373944,52.3653403,6,1655
+Danswijk,Almere,5.251656,52.3700447,5,1110
+Parkwijk,Almere,5.251656,52.3700447,5,885
+Waterwijk,Almere,5.2338726,52.3908526,6,1165
+Tussen de Vaarten Noord,Almere,5.2480427,52.3862199,5,1185
+Tussen de Vaarten Zuid,Almere,5.2659253,52.3747475,6,1985
+Kruidenwijk,Almere,5.1992227,52.3843738,6,1395
+Stedenwijk,Almere,5.216516,52.360927,7,1915
+Muziekwijk Noord,Almere,5.1920131,52.3726804,6,1750
+Muziekwijk Zuid,Almere,5.195737,52.3658452,6,885
+Literatuurwijk,Almere,5.1824098,52.3570914,6,1945
+Noorderplassen,Almere,5.1855545,52.3916477,5,1955
+Oostvaardersbuurt,Almere,5.2919064,52.4056228,5,1215
+Seizoenenbuurt,Almere,5.2919064,52.4056228,5,960
+Bloemenbuurt,Almere,5.2812143,52.3847421,5,895
+Regenboogbuurt,Almere,5.296517,52.3947359,5,1005
+Eilandenbuurt,Almere,5.296517,52.3947359,5,1265
+Europakwartier,Almere,5.1483313,52.3532452,5,820
+Homeruskwartier,Almere,5.1483313,52.3532452,6,1880
+Veendam-Sorghvliet,Veendam,6.8531929,53.0991242,6,1375
+Surhuisterveen,Achtkarspelen,6.1643051,53.1872937,7,905
+Oosterpark,Harlingen,5.4568733,53.1633047,6,1430
+De Greiden,Heerenveen,5.9192052,52.9497769,7,1210
+Skoatterwald,Heerenveen,5.9402995,52.9675745,5,1210
+Bilgaard,Leeuwarden,5.7944872,53.2162164,6,935
+Stiens,Leeuwarden,5.752343,53.2643997,6,1170
+Grou,Leeuwarden,5.8388679,53.0949487,5,800
+De Drait,Smallingerland,6.0694,53.0985458,6,1135
+Klazienaveen-Zuid,Emmen,6.9996925,52.7213967,6,840
+Emmermeer,Emmen,6.8974268,52.8000081,6,830
+Angelslo,Emmen,6.9347107,52.781689,6,1165
+Emmerhout,Emmen,6.9277324,52.7955483,7,995
+Bargeres,Emmen,6.8881123,52.7628944,7,1430
+Rietlanden,Emmen,6.8909959,52.7465943,6,1495
+Krakeel,Hoogeveen,6.512174,52.7237037,6,1045
+Zuid,Hoogeveen,6.4857727,52.7144094,7,880
+Dorp Schalkhaar,Deventer,6.1940083,52.268486,5,1105
+Stroinkslanden-Zuid,Enschede,6.8993005,52.1864551,5,915
+Binnenstad Kampen,Kampen,5.9185021,52.5564178,5,490
+Cellesbroek,Kampen,5.8895659,52.5404583,7,1305
+Losser-West,Losser,6.9854056,52.2560984,6,1160
+De Thij,Oldenzaal,6.8997858,52.3118925,6,1000
+Frankhuis,Zwolle,6.063102,52.53972,5,1830
+Werkeren,Zwolle,6.063102,52.53972,5,1725
+Milligen,Zwolle,6.063102,52.53972,6,1565
+Orden,Apeldoorn,5.9359781,52.2042786,7,1045
+Matendonk,Apeldoorn,6.0136525,52.1896843,6,950
+Matenveld,Apeldoorn,5.9936604,52.1907026,5,1080
+Osseveld-Oost,Apeldoorn,6.0221493,52.2132321,5,1085
+Woudhuis,Apeldoorn,6.0221493,52.2132321,5,1060
+Zuidbroek - Mozaïek & Rooster,Apeldoorn,6.0000474,52.2356828,5,1605
+Presikhaaf III,Arnhem,5.950182,51.9814374,5,815
+Malburgen-West,Arnhem,5.8903767,51.975152,5,865
+De Laar-West,Arnhem,5.8564699,51.9489686,6,1050
+De Laar-Oost,Arnhem,5.8743377,51.9467506,7,1090
+Schuytgraaf-Noord,Arnhem,5.8435647,51.958901,5,1580
+Schuytgraaf-Zuid,Arnhem,5.8435647,51.958901,5,1265
+De Burgt,Barneveld,5.561872,52.1293383,5,1410
+Zuidoostelijke Buitenwijken Ter Weijde,Culemborg,5.2511826,51.9563063,7,1290
+Westelijke Buitenwijken,Culemborg,5.2058155,51.9516895,5,1335
+Druten,Druten,5.5942725,51.8940837,7,895
+Ermelo,Ermelo,5.6186704,52.2944597,6,1575
+Ermelo-West,Ermelo,5.5903572,52.3038053,7,1135
+Heerde,Heerde,6.049638,52.3909176,6,1370
+Malden-Oost,Heumen,5.8533248,51.7832872,6,895
+Kerkdriel,Maasdriel,5.3380468,51.7711528,6,1085
+Hengstdal,Nijmegen,5.8893668,51.829311,5,755
+Biezen,Nijmegen,5.8346224,51.8532423,7,1000
+Wolfskuil,Nijmegen,5.8403562,51.8410314,6,900
+Heseveld,Nijmegen,5.8247418,51.8378314,5,865
+Neerbosch-Oost,Nijmegen,5.815154,51.8316819,6,1045
+Nije Veld,Nijmegen,5.8499243,51.8312811,6,855
+Grootstal,Nijmegen,5.8466081,51.81555,5,670
+Hatert,Nijmegen,5.8293517,51.8044879,6,1245
+'t Acker,Nijmegen,5.7804025,51.8320715,5,985
+De Kamp,Nijmegen,5.8050313,51.8388066,5,785
+Lent,Nijmegen,5.8671918,51.8620511,6,2925
+Putten-Zuid-Oost,Putten,5.6306414,52.2379051,6,1095
+Dieren-Noord boven spoorlijn,Rheden,6.0991216,52.0575266,7,1090
+Rheden,Rheden,6.0279594,52.0057368,7,1170
+Velp-Noord boven spoorlijn,Rheden,5.9869973,52.0048055,6,1035
+Velp-Zuid beneden spoorlijn,Rheden,5.9703539,51.9897118,7,1050
+Scherpenzeel,Scherpenzeel,5.4880645,52.0789297,6,1745
+Twello-Midden,Voorst,6.0880125,52.2365057,5,755
+Westervoort,Westervoort,5.9674349,51.9606474,6,840
+Winterswijk-Noordoost,Winterswijk,6.7172318,51.9866275,6,1095
+Nunspeet-Oost,Nunspeet,5.8134001,52.373101,6,1740
+Nunspeet-West,Nunspeet,5.7732978,52.3750683,6,1470
+Brandenburg,De Bilt,5.191575,52.12229,7,1000
+Bunnik,Bunnik,5.2007761,52.0665285,6,1270
+Odijk,Bunnik,5.2356248,52.0521446,5,895
+Lopik-Dorp,Lopik,4.9451478,51.974861,5,970
+Montfoort,Montfoort,4.9518586,52.0362127,5,955
+Smitsveen,Soest,5.2950847,52.1695607,5,815
+De Zoom,Soest,5.2757059,52.1637764,5,880
+"Nieuw Engeland, Th. a. Kempisplantsoen en omgeving",Utrecht,5.0914941,52.0954178,5,900
+Ondiep,Utrecht,5.1042101,52.1061645,6,865
+Wolga- en Donaudreef en omgeving,Utrecht,5.1253497,52.1132227,5,1020
+Vechtzoom-zuid,Utrecht,5.0995948,52.116998,5,975
+Zambesidreef en omgeving,Utrecht,5.1071274,52.1219895,5,950
+Tigrisdreef en omgeving,Utrecht,5.1071274,52.1219895,5,1090
+Tuindorp en Van Lieflandlaan-West,Utrecht,5.1360992,52.1087671,6,1320
+Wittevrouwen,Utrecht,5.1360279,52.0994663,5,1000
+Lunetten-Zuid,Utrecht,5.1338595,52.0610296,7,1180
+Rivierenwijk,Utrecht,5.1147611,52.0738156,7,1435
+Kanaleneiland-Zuid,Utrecht,5.1020828,52.0677229,6,1900
+Kanaleneiland-Noord,Utrecht,5.0974735,52.0785501,5,1330
+Terwijde-West,Utrecht,5.0433368,52.107455,5,1305
+Terwijde-Oost,Utrecht,5.0433368,52.107455,6,1290
+Het Zand-West,Utrecht,5.0535542,52.0910706,5,1865
+Het Zand-Oost,Utrecht,5.0535542,52.0910706,6,1245
+Parkwijk-Noord,Utrecht,5.0535542,52.0910706,5,840
+Vleuten,Utrecht,5.0105849,52.1088514,6,1150
+Vleuterweide-West,Utrecht,5.0077233,52.0930262,5,1895
+Vleuterweide-Noord/Oost/Centrum,Utrecht,5.0077233,52.0930262,6,2190
+Vleuterweide-Zuid,Utrecht,5.0077233,52.0930262,5,1640
+Veldhuizen,Utrecht,5.01236,52.0822001,6,2130
+De Meern-Zuid,Utrecht,5.0347862,52.0785873,6,1100
+Franse Gat,Veenendaal,5.5358854,52.0162597,7,1165
+Centrumschil-Noord,Zeist,5.2367732,52.0897176,6,915
+Vollenhove,Zeist,5.2261262,52.1034812,5,990
+Jutphaas Wijkersloot,Nieuwegein,5.0822153,52.0313972,7,960
+Zuilenstein,Nieuwegein,5.0916585,52.0469231,5,910
+Batau Zuid,Nieuwegein,5.0691378,52.0319605,6,1200
+Batau Noord,Nieuwegein,5.0729949,52.05304,6,1095
+Doorslag,Nieuwegein,5.0737471,52.0211419,6,885
+Galecop,Nieuwegein,5.0729949,52.05304,6,1050
+Fokkesteeg,Nieuwegein,5.0868209,52.0205781,6,1085
+Stommeer,Aalsmeer,4.735323,52.2505822,6,1010
+Kudelstaart,Aalsmeer,4.7519489,52.2384184,6,1790
+Oosteinde,Aalsmeer,4.7932523,52.2802074,6,1775
+Elsrijk Oost,Amstelveen,4.8616808,52.3120541,5,845
+Noordoostkwadrant Indische buurt,Amsterdam,4.9567275,52.3614375,5,835
+Haveneiland Noordoost,Amsterdam,5.0005613,52.3555895,6,1485
+Bosleeuw,Amsterdam,4.8540225,52.3817073,6,875
+Haveneiland Oost,Amsterdam,5.0005613,52.3555895,6,1985
+Middenmeer Zuid,Amsterdam,4.9482332,52.3511236,6,1055
+Markengouw Midden,Amsterdam,4.9558257,52.3934948,5,885
+Buurt 3,Amsterdam,4.825779,52.3815295,5,1300
+Buurt 5 Noord,Amsterdam,4.8192201,52.3724594,5,840
+Buurt 5 Zuid,Amsterdam,4.8192201,52.3724594,5,860
+Buurt 8,Amsterdam,4.7834602,52.3765795,5,880
+Buurt 9,Amsterdam,4.7834602,52.3765795,6,1300
+Osdorp Midden Zuid,Amsterdam,4.7901227,52.3576375,5,895
+Zuidwestkwadrant Osdorp Zuid,Amsterdam,4.7901227,52.3576375,7,1220
+De Punt,Amsterdam,4.7901227,52.3576375,6,1120
+De Aker Oost,Amsterdam,4.7882876,52.3470443,5,1070
+Overtoomse Veld Noord,Amsterdam,4.837568,52.3730438,6,1220
+F-buurt,Amsterdam,4.9547795,52.3135175,5,830
+Reigersbos Noord,Amsterdam,4.9740506,52.3007124,5,925
+Oude Gouw-Gommerwijk,Enkhuizen,5.2746228,52.7195107,6,1090
+Hoofddorp Overbos Noord,Haarlemmermeer,4.6394394,52.3076637,5,790
+Hoofddorp Overbos Zuid,Haarlemmermeer,4.6394394,52.3076637,5,885
+Hoofddorp Toolenburg West,Haarlemmermeer,4.6638765,52.2960432,6,1010
+Hoofddorp Toolenburg Oost,Haarlemmermeer,4.6638765,52.2960432,6,1305
+Hoofddorp Floriande West,Haarlemmermeer,4.6394394,52.3076637,6,2175
+Hoofddorp Floriande Oost,Haarlemmermeer,4.6394394,52.3076637,6,1845
+Nieuw-Vennep Getsewoud Noord,Haarlemmermeer,4.6358893,52.2864878,6,1990
+Nieuw-Vennep Getsewoud Zuid,Haarlemmermeer,4.6061706,52.2663418,5,1950
+Stad van de Zon,Heerhugowaard,4.8201698,52.6450591,5,1190
+Kerkelanden,Hilversum,5.143533,52.2201883,5,790
+Kleine Driftbuurt,Hilversum,5.1864416,52.2276307,5,810
+Liebergen,Hilversum,5.198227,52.2284437,6,925
+Astronomische Buurt,Hilversum,5.198227,52.2284437,5,1170
+Noord,Hilversum,5.1824071,52.2504485,7,1280
+Noord-Scharwoude,Langedijk,4.8108679,52.6986574,6,960
+Zuid-Scharwoude,Langedijk,4.7943409,52.6889687,6,955
+Broek op Langedijk,Langedijk,4.8124467,52.6775172,5,1130
+Sint Pancras,Langedijk,4.7867781,52.6655556,5,1050
+Kerkbuurt,Oostzaan,4.8757219,52.4404972,6,1085
+Ouderkerk aan de Amstel,Ouder-Amstel,4.915337,52.2947295,6,1490
+Duivendrecht,Ouder-Amstel,4.9412022,52.332886,5,755
+Overwhere-Zuid,Purmerend,4.9659138,52.5146124,7,955
+Wheermolen-Oost,Purmerend,4.9715908,52.5090271,6,960
+Gors-Noord,Purmerend,4.9550027,52.5003668,6,725
+De Graeffweg en omgeving,Purmerend,5.0081027,52.5168451,5,720
+Purmer-Zuid/Zuid,Purmerend,4.975815,52.4861298,6,930
+Afrika,Purmerend,4.9341712,52.4958915,5,1080
+Den Burg,Texel,4.7997253,53.0546266,6,865
+Zijdelwaard,Uithoorn,4.8299261,52.2440878,7,1180
+Legmeer,Uithoorn,4.8299261,52.2440878,6,1445
+Meerwijk,Uithoorn,4.8149669,52.2340482,5,840
+Bomenbuurt,Zaanstad,4.8482729,52.4246472,7,1345
+Burgemeestersbuurt,Zaanstad,4.8322084,52.4373198,7,1090
+Poelenburg,Zaanstad,4.8501344,52.435251,6,1870
+Peldersveld,Zaanstad,4.8387858,52.4463974,6,1050
+Hoornseveld,Zaanstad,4.8387858,52.4463974,5,880
+Rosmolenbuurt,Zaanstad,4.8274597,52.4481955,7,1255
+Kalf,Zaanstad,4.826445,52.4709411,6,800
+Westerwatering,Zaanstad,4.8039234,52.4371368,6,1360
+Oud Koog,Zaanstad,4.8047292,52.4607871,6,805
+Westerkoog,Zaanstad,4.8047292,52.4607871,6,870
+Wormerveer Noord,Zaanstad,4.7980674,52.4903502,7,1040
+Centrum,Zaanstad,4.7396672,52.4691062,6,910
+Parkrijk,Zaanstad,4.7480377,52.4888077,6,2755
+Vrijenburg,Barendrecht,4.5018768,51.8601475,5,1350
+Centrum Hoogkarspel,Drechterland,5.1652989,52.6925934,6,1325
+Crabbehof-Zuid,Dordrecht,4.6604207,51.7891497,6,1035
+De Korte Akkeren Oud,Gouda,4.7032818,52.0046635,6,1115
+Ouwe Gouwe,Gouda,4.7254646,52.0196976,5,905
+Belgisch Park,'s-Gravenhage,4.2948375,52.1118404,6,1230
+Archipelbuurt,'s-Gravenhage,4.3002696,52.0943777,6,835
+Scheveningen Badplaats,'s-Gravenhage,4.2814776,52.1096695,5,775
+Duindorp,'s-Gravenhage,4.2541606,52.090738,7,1090
+Statenkwartier,'s-Gravenhage,4.2757952,52.0939393,6,1735
+Sweelinckplein en omgeving,'s-Gravenhage,4.2865074,52.0895671,6,985
+Bloemenbuurt-Oost,'s-Gravenhage,4.2600138,52.0759228,6,1060
+Bomenbuurt,'s-Gravenhage,4.2600138,52.0759228,6,950
+Kraayenstein en Vroondaal,'s-Gravenhage,4.2182285,52.0468992,7,1100
+Houtwijk,'s-Gravenhage,4.2484934,52.0537747,7,2100
+Kom Loosduinen,'s-Gravenhage,4.2484934,52.0537747,5,595
+Nieuw Waldeck,'s-Gravenhage,4.2363825,52.0595187,7,1250
+Vruchtenbuurt,'s-Gravenhage,4.2587971,52.0680022,5,1365
+Heesterbuurt,'s-Gravenhage,4.2688992,52.0702918,6,1100
+Valkenboskwartier,'s-Gravenhage,4.2826458,52.0751033,6,1630
+Rond de Energiecentrale,'s-Gravenhage,4.2826458,52.0751033,5,825
+Koningsplein en omgeving,'s-Gravenhage,4.2826458,52.0751033,6,1085
+Zeeheldenkwartier,'s-Gravenhage,4.2899304,52.0801488,6,1505
+Landen,'s-Gravenhage,4.3632065,52.0907388,6,845
+Burgen en Horsten,'s-Gravenhage,4.3502495,52.0912173,6,870
+Bezuidenhout-Oost,'s-Gravenhage,4.3429446,52.0861751,7,1135
+Schildersbuurt-West,'s-Gravenhage,4.3032365,52.06108,5,2800
+Schildersbuurt-Noord,'s-Gravenhage,4.3076999,52.0688811,5,2030
+Schildersbuurt-Oost,'s-Gravenhage,4.3076999,52.0688811,5,1465
+Transvaalkwartier-Midden,'s-Gravenhage,4.2939462,52.0640732,6,1125
+Transvaalkwartier-Zuid,'s-Gravenhage,4.2939462,52.0640732,6,1495
+Rustenburg,'s-Gravenhage,4.278489,52.0639713,7,1030
+Oostbroek-Zuid,'s-Gravenhage,4.2842477,52.0644259,6,1545
+Leyenburg,'s-Gravenhage,4.2676802,52.062372,6,2170
+"Venen, Oorden en Raden",'s-Gravenhage,4.2460684,52.0379392,6,1850
+"Zijden, Steden en Zichten",'s-Gravenhage,4.2612031,52.0413737,6,1655
+Dreven en Gaarden,'s-Gravenhage,4.2704843,52.0383843,6,2265
+Morgenstond-Zuid,'s-Gravenhage,4.2809869,52.0433108,5,1210
+Morgenstond-West,'s-Gravenhage,4.269286,52.0516968,7,1495
+Morgenstond-Oost,'s-Gravenhage,4.2809869,52.0433108,5,975
+Moerwijk-West,'s-Gravenhage,4.28726,52.0523718,5,1370
+Moerwijk-Noord,'s-Gravenhage,4.3048307,52.0504046,6,1375
+Groente- en Fruitmarkt,'s-Gravenhage,4.3032365,52.06108,6,1105
+Laakhaven-West,'s-Gravenhage,4.3198159,52.0631285,5,1000
+Spoorwijk,'s-Gravenhage,4.3149385,52.0526894,6,925
+Laakkwartier-West,'s-Gravenhage,4.3180824,52.0572194,6,1410
+Laakkwartier-Oost,'s-Gravenhage,4.3291074,52.0601333,6,1900
+Noordpolderbuurt,'s-Gravenhage,4.3414621,52.0663158,5,1470
+Hoge Veld,'s-Gravenhage,4.2904563,52.0310257,7,2420
+Morgenweide,'s-Gravenhage,4.3713307,52.0492854,7,1585
+Singels,'s-Gravenhage,4.3631992,52.0389706,5,1085
+Waterbuurt,'s-Gravenhage,4.3631992,52.0389706,6,1045
+De Bras,'s-Gravenhage,4.3831807,52.0315953,5,1540
+De Lanen,'s-Gravenhage,4.4035413,52.0573774,5,1500
+De Vissen,'s-Gravenhage,4.4126867,52.0636724,6,1645
+Neder-Hardinxveld,Hardinxveld-Giessendam,4.8419741,51.8241471,5,965
+Giessendam,Hardinxveld-Giessendam,4.8419741,51.8241471,5,1185
+Dorp,Hendrik-Ido-Ambacht,4.6176106,51.8437526,5,1035
+Volgerlanden-West,Hendrik-Ido-Ambacht,4.6481189,51.8319652,6,1795
+Centrum Grootebroek,Stede Broec,5.2229184,52.6982227,5,975
+Plan Zuid en Princenhof,Stede Broec,5.2496041,52.6984453,5,940
+Kortland-Noord,Krimpen aan den IJssel,4.5910743,51.9189403,7,1170
+Kortland-Zuid,Krimpen aan den IJssel,4.6049682,51.9144235,7,1235
+Langeland,Krimpen aan den IJssel,4.6234097,51.9176753,6,1230
+De Kooi,Leiden,4.5086017,52.162336,5,955
+Slaaghwijk,Leiden,4.5093401,52.1769334,5,925
+Uitbreiding dorpskern Nieuwkoop,Nieuwkoop,4.777359,52.1500559,6,1215
+Dorpskern,Noordwijk,4.4408403,52.2194329,6,1400
+Noordwijkerhout,Noordwijk,4.4955838,52.2601939,6,1950
+Westpolder,Papendrecht,4.6803905,51.830686,6,1465
+Kraaihoek,Papendrecht,4.6914672,51.8289217,7,970
+Wilgendonk,Papendrecht,4.7024877,51.8364214,5,1030
+Oost,Ridderkerk,4.6027016,51.8615428,7,1000
+Drievliet,Ridderkerk,4.6266911,51.8592785,7,1155
+Slikkerveer,Ridderkerk,4.6052313,51.8865991,6,1565
+Bolnes,Ridderkerk,4.5793958,51.8876069,7,1045
+Stadsdriehoek,Rotterdam,4.4868516,51.9176582,7,1295
+Oude Westen,Rotterdam,4.4660891,51.919772,6,1260
+Delfshaven,Rotterdam,4.4585002,51.9028408,5,850
+Bospolder,Rotterdam,4.442312,51.9080879,5,1215
+Tussendijken,Rotterdam,4.4422433,51.9127262,5,1275
+Spangen,Rotterdam,4.4366362,51.9182359,6,2050
+Nieuwe Westen,Rotterdam,4.446733,51.9205044,5,3270
+Middelland,Rotterdam,4.4592135,51.9173832,6,1635
+Oud Mathenesse,Rotterdam,4.4233186,51.9160876,5,1040
+Schiemond,Rotterdam,4.4271047,51.9093228,7,1020
+Kleinpolder,Rotterdam,4.4327096,51.9342811,7,1515
+Overschie,Rotterdam,4.4242908,51.9425476,6,1120
+Blijdorp,Rotterdam,4.4562769,51.9294172,7,1200
+Liskwartier,Rotterdam,4.472285,51.9380852,7,1165
+Oude Noorden,Rotterdam,4.4819719,51.937717,5,2700
+Schiebroek,Rotterdam,4.4751291,51.9658091,7,3585
+Hillegersberg Zuid,Rotterdam,4.4767883,51.945865,6,1390
+Hillegersberg Noord,Rotterdam,4.4863536,51.9547782,7,1160
+Molenlaankwartier,Rotterdam,4.5065996,51.9593073,6,1925
+Rubroek,Rotterdam,4.4899558,51.9268133,5,1010
+Oud Crooswijk,Rotterdam,4.4958649,51.9332125,5,1435
+Kralingen West,Rotterdam,4.5061,51.9261967,6,2240
+Kralingen Oost,Rotterdam,4.5245068,51.9294658,7,1170
+De Esch,Rotterdam,4.524732,51.9109104,5,445
+Kop van Zuid - Entrepot,Rotterdam,4.5053635,51.911653,7,1460
+Vreewijk,Rotterdam,4.5075435,51.8850831,6,2275
+Bloemhof,Rotterdam,4.5005481,51.8919713,6,2690
+Hillesluis,Rotterdam,4.5138783,51.8941095,6,2335
+Katendrecht,Rotterdam,4.4842992,51.9018612,6,1005
+Afrikaanderwijk,Rotterdam,4.4842992,51.9018612,5,1560
+Feijenoord,Rotterdam,4.5053635,51.911653,5,1595
+Oud IJsselmonde,Rotterdam,4.5488395,51.8993857,5,785
+Lombardijen,Rotterdam,4.5251799,51.8738149,7,2610
+Groot IJsselmonde,Rotterdam,4.5453915,51.8783319,7,4865
+Beverwaard,Rotterdam,4.5488395,51.8993857,7,2510
+'s Gravenland,Rotterdam,4.5531555,51.9257119,7,1230
+Prinsenland,Rotterdam,4.5548838,51.9362452,7,1245
+Het Lage Land,Rotterdam,4.5501455,51.9470301,7,1400
+Ommoord,Rotterdam,4.545404,51.9578166,7,3595
+Zevenkamp,Rotterdam,4.545404,51.9578166,7,2720
+Oosterflank,Rotterdam,4.5501455,51.9470301,7,1435
+Nesselande,Rotterdam,4.5821069,51.9829108,6,3435
+Tarwewijk,Rotterdam,4.4848488,51.8952188,5,2255
+Carnisse,Rotterdam,4.4867975,51.8871996,6,1925
+Zuidwijk,Rotterdam,4.4911173,51.8737954,6,2405
+Oud Charlois,Rotterdam,4.467456,51.887935,6,2270
+Pendrecht,Rotterdam,4.4685611,51.8746537,6,2590
+Hoogvliet Noord,Rotterdam,4.3725491,51.8716399,7,2145
+Hoogvliet Zuid,Rotterdam,4.3600078,51.8535766,7,3375
+Dorp,Rotterdam,4.1341847,51.9806322,7,1015
+Rozenburg,Rotterdam,4.2471328,51.904422,7,1935
+Stervoorde,Rijswijk,4.315475,52.0248062,7,1055
+Nolensbuurt,Schiedam,4.3951437,51.9224408,5,895
+Wibautbuurt,Schiedam,4.3763809,51.9165164,5,810
+Groenoord-Midden,Schiedam,4.3706077,51.9313021,6,830
+Vettenoordse Polder Oost,Vlaardingen,4.336911,51.9126785,7,935
+Centrum,Vlaardingen,4.336911,51.9126785,7,820
+Oostbuurt,Vlaardingen,4.3554018,51.9066987,7,920
+Babberspolder Oost,Vlaardingen,4.3570546,51.9172329,6,1075
+Noord-Hofland,Voorschoten,4.4578084,52.1416688,7,975
+Zuidplas 80,Waddinxveen,4.6348713,52.0352383,5,825
+Groot Deijleroord en Ter Weer,Wassenaar,4.4196634,52.1484196,5,920
+Schilderskwartier,Woerden,4.8498876,52.0943097,7,1030
+Molenvliet-West,Woerden,4.8629719,52.0751734,5,995
+Stadscentrum,Zoetermeer,4.4923063,52.0619937,5,385
+Palenstein,Zoetermeer,4.5090727,52.0547166,7,885
+Driemanspolder,Zoetermeer,4.4845399,52.0543248,7,915
+Meerzicht-West,Zoetermeer,4.4507206,52.0569335,7,1680
+Meerzicht-Oost,Zoetermeer,4.474815,52.0546943,7,985
+Buytenwegh,Zoetermeer,4.4690508,52.069515,7,1870
+De Leyens,Zoetermeer,4.507733,52.0866321,6,1385
+Seghwaert-Zuid-West,Zoetermeer,4.5107895,52.0652707,7,1135
+Seghwaert-Noord-Oost,Zoetermeer,4.5102405,52.0719299,7,1640
+Noordhove-Oost,Zoetermeer,4.5208371,52.0768352,5,895
+Rokkeveen-West,Zoetermeer,4.4684647,52.0456444,6,945
+Rokkeveen-Oost,Zoetermeer,4.5000171,52.039136,6,1935
+Oosterheem-Zuid-West,Zoetermeer,4.541512,52.0534716,5,2125
+Oosterheem-Noord-Oost,Zoetermeer,4.5367495,52.0642748,6,3085
+Goes-Oost,Goes,3.8924636,51.5057781,5,785
+Goes-Noordwest,Goes,3.8813131,51.5166751,7,1205
+Kern Beneden-Leeuwen,West Maas en Waal,5.5178903,51.8823027,5,800
+Kapelle,Kapelle,3.9596313,51.4847546,6,1695
+Binnenstad,Middelburg,3.6135855,51.4989019,5,585
+Stromenwijk/'t Zand,Middelburg,3.5934135,51.4889979,7,1095
+Middelburg-Zuid,Middelburg,3.6115484,51.4831807,6,1175
+Dauwendaele,Middelburg,3.6310466,51.4878403,7,1075
+Arnemuiden,Middelburg,3.6759015,51.5011231,5,1005
+Kern Axel,Terneuzen,3.9094234,51.2668789,6,1025
+Tholen,Tholen,4.2162383,51.5332946,6,1395
+Burgum,Tytsjerksteradiel,5.9913642,53.1936901,6,1500
+Asten,Asten,5.7440776,51.4029943,6,1300
+Gageldonk-West,Bergen op Zoom,4.3022364,51.4927932,6,955
+Bergse Plaat,Bergen op Zoom,4.2694947,51.4768821,6,1135
+Boxtel-Centrum,Boxtel,5.288657,51.5750154,7,895
+Boxtel-Oost,Boxtel,5.341663,51.5963601,6,1575
+Biesdonk,Breda,4.7853845,51.6097996,5,855
+Brabantpark,Breda,4.8175264,51.5900222,7,1325
+Zandberg,Breda,4.7937111,51.5830857,5,960
+Ypelaar,Breda,4.8038298,51.5668526,6,825
+Ginneken,Breda,4.7864229,51.5688817,5,1040
+Boeimeer,Breda,4.7680893,51.5749006,6,985
+Heuvel,Breda,4.7534435,51.5741762,7,1170
+Tuinzigt,Breda,4.7433041,51.5904068,6,870
+Princenhage,Breda,4.739248,51.5760683,6,1595
+Bavel,Breda,4.8308114,51.5668739,5,905
+Prinsenbeek,Breda,4.7110517,51.5992106,5,1790
+Teteringen,Breda,4.8236992,51.6100996,6,1390
+Deurne-Centrum,Deurne,5.7863171,51.464512,5,655
+Oude Pekela,Pekela,7.0064744,53.1032425,6,1070
+Generalenbuurt,Eindhoven,5.4778796,51.4582607,5,715
+Woenselse Heide,Eindhoven,5.4755291,51.4794439,6,875
+Blixembosch-Oost,Eindhoven,5.4711208,51.490189,5,1325
+Vaartbroek,Eindhoven,5.4976308,51.4757749,7,860
+Grasrijk,Eindhoven,5.4092813,51.4403803,5,1485
+Het Hooghuis,Etten-Leur,4.6637777,51.5777721,5,815
+Raamsdonksveer,Geertruidenberg,4.8743833,51.693251,7,1010
+Hooipolder en De Hoeven,Geertruidenberg,4.8748407,51.7051197,5,1020
+Rijen,Gilze en Rijen,4.9313034,51.5747499,6,2610
+Gilze,Gilze en Rijen,4.9413872,51.5442814,6,975
+Rijpelberg-West,Helmond,5.6960332,51.4873818,5,865
+Binnenstad-Centrum,'s-Hertogenbosch,5.3003778,51.6880132,5,370
+De Kruiskamp,'s-Hertogenbosch,5.2583334,51.6991519,7,1445
+Venne-West,Heusden,5.122521,51.6800524,5,860
+Venne-Oost,Heusden,5.1437093,51.6712021,6,1070
+Vijfhoeven,Heusden,5.2123541,51.6893101,5,980
+Hilvarenbeek,Hilvarenbeek,5.1384062,51.4856827,6,1235
+Nuenen-Zuid,"Nuenen, Gerwen en Nederwetten",5.551021,51.4653555,5,1070
+Nuenen-Oost,"Nuenen, Gerwen en Nederwetten",5.5649967,51.4699615,6,990
+Centrum,Oosterhout,4.8633595,51.6488179,5,445
+Sint Willebrord,Rucphen,4.5897498,51.5517785,7,1060
+Someren,Someren,5.7027101,51.392245,6,1650
+Dinteloord,Steenbergen,4.3710842,51.6354752,5,805
+Hoenderbos-Velmolen,Uden,5.5891305,51.6719817,5,1110
+Waalre,Waalre,5.4404849,51.3836688,5,1115
+Zanddonk,Waalwijk,5.0633742,51.6773339,6,930
+Hoogerheide,Woensdrecht,4.3236734,51.4242798,5,750
+Zundert,Zundert,4.6681631,51.4695945,6,995
+Beek,Beek,5.7956471,50.9393162,6,995
+Reuver,Beesel,6.0828226,51.2862173,6,840
+Kerkrade-Centrum,Kerkrade,6.0620342,50.8629487,5,395
+Daalhof,Maastricht,5.6503193,50.840555,6,725
+Scharn,Maastricht,5.7368362,50.848074,5,790
+Amby,Maastricht,5.7373692,50.8663185,6,895
+Heer,Maastricht,5.7283631,50.8380525,7,845
+De Heeg,Maastricht,5.7288931,50.8249814,6,780
+Meerssen,Meerssen,5.7526367,50.8849427,5,725
+Nederweert,Nederweert,5.7527014,51.2865631,6,985
+Elsloo,Stein,5.7696738,50.9484656,6,925
+Vaals,Vaals,6.0112743,50.7732182,5,720
+Kern Belfeld,Venlo,6.1209199,51.3136515,5,810
+Sassenheim,Teylingen,4.5097116,52.2194839,6,2495
+Oosthout,Teylingen,4.4863318,52.2223012,5,805
+Wildbaan-Dennenburg,Utrechtse Heuvelrug,5.2778915,52.0360718,6,1000
+Leersum,Utrechtse Heuvelrug,5.4295484,52.0120583,6,1005
+Gemert-Oost,Gemert-Bakel,5.6828876,51.5513033,5,1115
+Oud Gastel,Halderberge,4.4629309,51.5839216,5,810
+Heeze,Heeze-Leende,5.5758263,51.3809718,6,1280
+Beek,Laarbeek,5.6302688,51.5394924,5,890
+Reusel,Reusel-De Mierden,5.1728762,51.3659873,6,1145
+Kalsdonk,Roosendaal,4.4744453,51.5403381,5,855
+Cuijk Heeswijkse Kampen,Cuijk,5.8573828,51.7408809,6,1280
+Schaijk,Landerd,5.6297284,51.7484858,5,930
+"Rade, Oranjebuurt, Munniksveen en omgeving",Wijdemeren,5.09164,52.2299147,6,925
+Nieuw-Loosdrechtsedijk,Wijdemeren,5.066667,52.216667,6,1035
+Roden,Noordenveld,6.4371719,53.1358984,6,945
+Roden West,Noordenveld,6.4371719,53.1358984,6,1270
+Bemmel,Lingewaard,5.8953743,51.889401,6,1945
+Gendt,Lingewaard,5.9732173,51.8746119,5,880
+Uitbreiding Stad Huissen,Lingewaard,5.949701,51.9403084,6,965
+Zilverkamp,Lingewaard,5.9271487,51.9441013,5,840
+Budel,Cranendonck,5.5763506,51.2741027,6,1105
+Klundert,Moerdijk,4.5328828,51.6643563,5,880
+Made,Drimmelen,4.7943492,51.6807586,6,1700
+Terheijden,Drimmelen,4.7512386,51.6443817,5,850
+Bladel,Bladel,5.2136395,51.362963,6,1455
+Eelde,Tynaarlo,6.564273,53.1331083,6,1100
+Beilen,Midden-Drenthe,6.4983409,52.8629348,6,1380
+Elst-Zuidwest,Overbetuwe,5.8484157,51.9029351,6,1025
+Elst-Noordoost,Overbetuwe,5.8286929,51.9357513,6,2015
+Opheusden,Neder-Betuwe,5.629707,51.9330254,6,1280
+De Delle,Rijssen-Holten,6.4883453,52.2951944,6,1160
+Coevering,Geldrop-Mierlo,5.580405,51.4165601,6,825
+Mierlo,Geldrop-Mierlo,5.6200096,51.4389663,6,1475
+Den Hoorn,Midden-Delfland,4.3301033,51.9995814,6,1605
+Borculo overige komgebieden,Berkelland,6.5203603,52.1135036,6,895
+Eibergen-Centrum en -Oost,Berkelland,6.626016,52.1008905,5,810
+Neede,Berkelland,6.6293318,52.133808,6,1065
+Ruurlo,Berkelland,6.4548904,52.081603,6,810
+Zelhem,Bronckhorst,6.3495613,52.0059816,5,770
+Limbrichterveld,Sittard-Geleen,5.8455184,50.9994599,7,865
+Kemperkoul,Sittard-Geleen,5.8881304,50.9868541,6,810
+Lindenheuvel,Sittard-Geleen,5.8166966,50.985204,7,1035
+Geleen-Zuid,Sittard-Geleen,5.8293893,50.9531912,5,625
+Damwâld,Dantumadiel,6.0,53.283333,5,905
+Panningen,Peel en Maas,5.9794342,51.3288575,7,815
+Broekvelden,Bodegraven-Reeuwijk,4.7460844,52.0823259,5,1160
+Kleine Sluis inclusief Spoorbuurt,Hollands Kroon,4.8238091,52.8616158,6,1170
+Prinsenhof hoog,Leidschendam-Voorburg,4.4120868,52.100873,5,820
+De Venen Centrum,Pijnacker-Nootdorp,4.4121456,52.039803,5,930
+Didam-Noord,Montferland,6.1558917,51.9350045,7,1000
+Leerdam-West,Vijfheerenlanden,5.0822693,51.8881603,7,1160
+Leerdam-Noord,Vijfheerenlanden,5.0954114,51.9061425,5,970
+Monnikenhof en Amaliastein,Vijfheerenlanden,5.0697869,51.9815011,6,1315
+Oud-Beijerland Zoomwijck,Hoeksche Waard,4.3926088,51.8245814,5,885
+Puttershoek Woonkern,Hoeksche Waard,4.5664733,51.8053785,6,1060
+'s-Gravendeel Woonkern,Hoeksche Waard,4.6180902,51.7792843,6,1315
+Strijen Woonkern,Hoeksche Waard,4.5539197,51.7446835,6,950
+Numansdorp Woonkern,Hoeksche Waard,4.4382137,51.734768,6,1110
+Bedum,Het Hogeland,6.5998288,53.3016754,6,1205
+Marum,Westerkwartier,6.2673259,53.1462522,5,910
+Zuidhorn,Westerkwartier,6.4081044,53.2431482,6,1475
+Nieuw-Lekkerland-Dorp,Molenlanden,4.6858964,51.8872759,5,1055
