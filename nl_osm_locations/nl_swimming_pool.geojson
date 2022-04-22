@@ -1,0 +1,4719 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-22T07:05:38Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29840862",
+        "leisure": "swimming_pool",
+        "name": "Merwestein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0915772,
+          52.0261347
+        ]
+      },
+      "id": "node/29840862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34046695",
+        "addr:city": "Leimuiden",
+        "addr:housenumber": "3",
+        "addr:postcode": "2451GG",
+        "addr:street": "Tuinderij",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Kleine Oase",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.675678,
+          52.2222353
+        ]
+      },
+      "id": "node/34046695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34046748",
+        "access": "yes",
+        "addr:city": "Roermond",
+        "addr:housenumber": "2C",
+        "addr:postcode": "6042JV",
+        "addr:street": "Achilleslaan",
+        "alt_name": "Zwembad De Roerdomp (indoor)",
+        "leisure": "swimming_pool",
+        "name": "De Roerdomp",
+        "source": "BAG",
+        "source:date": "2014-06-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0113046,
+          51.1930897
+        ]
+      },
+      "id": "node/34046748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34049996",
+        "addr:city": "Baarn",
+        "addr:housename": "Zwembad de Trits",
+        "addr:housenumber": "2",
+        "addr:postcode": "3741CR",
+        "addr:street": "Goeman Borgesiuslaan",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Trits",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.286928,
+          52.2198361
+        ]
+      },
+      "id": "node/34049996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/205455153",
+        "leisure": "swimming_pool",
+        "name": "Van Maanenbad",
+        "operator": "Sportfondsen Nederland",
+        "sport": "swimming",
+        "website": "https://www.vanmaanenbad.nl/",
+        "wikidata": "Q2348778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4647269,
+          51.932225
+        ]
+      },
+      "id": "node/205455153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388313697",
+        "addr:city": "Joure",
+        "addr:housenumber": "4",
+        "addr:postcode": "8501KC",
+        "addr:street": "Zuiderveldstraat",
+        "leisure": "swimming_pool",
+        "name": "Swimfun Joure",
+        "source": "BAG",
+        "source:date": "2014-06-09",
+        "sport": "swimming",
+        "website": "http://www.zwembad-joure.nl/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7979578,
+          52.9568915
+        ]
+      },
+      "id": "node/388313697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/393135967",
+        "access": "customers",
+        "addr:city": "Amsterdam",
+        "addr:country": "NL",
+        "addr:housenumber": "44",
+        "addr:postcode": "1093KT",
+        "addr:street": "Land van Cocagneplein",
+        "leisure": "swimming_pool",
+        "name": "Sportfondsenbad Oost",
+        "operator": "Sportfondsen",
+        "sport": "swimming",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9284867,
+          52.3567816
+        ]
+      },
+      "id": "node/393135967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/415917835",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Polderbad Buitenbad",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6014854,
+          51.962265
+        ]
+      },
+      "id": "node/415917835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/435237716",
+        "leisure": "swimming_pool",
+        "name": "Sijsjesberg",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2181561,
+          52.2896603
+        ]
+      },
+      "id": "node/435237716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/540873472",
+        "leisure": "swimming_pool",
+        "name": "De Wilgenring",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.472115,
+          51.9487345
+        ]
+      },
+      "id": "node/540873472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/637807265",
+        "addr:city": "Mijdrecht",
+        "addr:housenumber": "1",
+        "addr:postcode": "3641SV",
+        "addr:street": "Ontspanningsweg",
+        "leisure": "swimming_pool",
+        "name": "Optisport Veenweidebad",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.887503,
+          52.2078357
+        ]
+      },
+      "id": "node/637807265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/933713578",
+        "leisure": "swimming_pool",
+        "name": "de overtoom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0481888,
+          52.6221002
+        ]
+      },
+      "id": "node/933713578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1155232705",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Groenoord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3777833,
+          51.9277941
+        ]
+      },
+      "id": "node/1155232705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1245235120",
+        "leisure": "swimming_pool",
+        "name": "Wylerbergmeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9437482,
+          51.8271529
+        ]
+      },
+      "id": "node/1245235120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1251043413",
+        "covered": "yes",
+        "designation": "Indoor Swimmingpool",
+        "leisure": "swimming_pool",
+        "name": "Polderbad",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.601909,
+          51.962584
+        ]
+      },
+      "id": "node/1251043413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1257641472",
+        "leisure": "swimming_pool",
+        "name": "De Lockhorst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7823437,
+          51.8279706
+        ]
+      },
+      "id": "node/1257641472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1262177579",
+        "leisure": "swimming_pool",
+        "name": "Slobbeland بلاج جميل"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0701034,
+          52.4905962
+        ]
+      },
+      "id": "node/1262177579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269938099",
+        "leisure": "swimming_pool",
+        "name": "Openluchtzwembad Het Run"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1408635,
+          51.6719114
+        ]
+      },
+      "id": "node/1269938099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1284653087",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Bestevaer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0408505,
+          52.6162997
+        ]
+      },
+      "id": "node/1284653087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292014685",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Het Derde Haad",
+        "operator": "Optifit",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.428465,
+          53.163475
+        ]
+      },
+      "id": "node/1292014685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1303776511",
+        "leisure": "swimming_pool",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.213736,
+          51.480661
+        ]
+      },
+      "id": "node/1303776511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1322210320",
+        "addr:city": "Baarlo",
+        "addr:housenumber": "4",
+        "addr:postcode": "5991NV",
+        "addr:street": "Napoleonsbaan Noord",
+        "leisure": "swimming_pool",
+        "source": "BAG",
+        "source:date": "2017-02-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1044771,
+          51.3457618
+        ]
+      },
+      "id": "node/1322210320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1330177518",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Reeshof",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0063727,
+          51.5796967
+        ]
+      },
+      "id": "node/1330177518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1335990688",
+        "access": "yes",
+        "leisure": "swimming_pool",
+        "location": "outdoor",
+        "name": "De Wedert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4534329,
+          51.3664098
+        ]
+      },
+      "id": "node/1335990688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339643560",
+        "leisure": "swimming_pool",
+        "name": "Smeltehal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4443401,
+          52.9420561
+        ]
+      },
+      "id": "node/1339643560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1372904533",
+        "leisure": "swimming_pool",
+        "name": "In de Bandert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8866118,
+          51.106914
+        ]
+      },
+      "id": "node/1372904533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1421793228",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6903379,
+          51.5189908
+        ]
+      },
+      "id": "node/1421793228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422470986",
+        "leisure": "swimming_pool",
+        "name": "'t Mirnser Klif",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4810399,
+          52.8506051
+        ]
+      },
+      "id": "node/1422470986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1433734413",
+        "leisure": "swimming_pool",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0802581,
+          53.1563724
+        ]
+      },
+      "id": "node/1433734413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1434329439",
+        "access": "yes",
+        "fee": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Bronspot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9707567,
+          50.9484676
+        ]
+      },
+      "id": "node/1434329439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1455146468",
+        "addr:city": "Gorinchem",
+        "addr:housenumber": "8",
+        "addr:postcode": "4204AX",
+        "addr:street": "Bataafsekade",
+        "leisure": "swimming_pool",
+        "name": "Cariba-bad",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9451003,
+          51.8421251
+        ]
+      },
+      "id": "node/1455146468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1484606609",
+        "addr:city": "Hendrik-Ido-Ambacht",
+        "addr:housenumber": "70",
+        "addr:postcode": "3341BE",
+        "addr:street": "Hoge Kade",
+        "leisure": "swimming_pool",
+        "name": "De Louwert",
+        "operator": "Optisport",
+        "phone": "+31(0)78-6812260",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.optisport.nl/louwert/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6392157,
+          51.842915
+        ]
+      },
+      "id": "node/1484606609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1488661842",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Broene ‘eugte",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2260764,
+          52.6272741
+        ]
+      },
+      "id": "node/1488661842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1494561642",
+        "leisure": "swimming_pool",
+        "name": "De Meent",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0312874,
+          52.1739043
+        ]
+      },
+      "id": "node/1494561642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1558246587",
+        "leisure": "swimming_pool",
+        "name": "Vondersweijde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9166602,
+          52.310657
+        ]
+      },
+      "id": "node/1558246587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1563455601",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Mors",
+        "sport": "swimming",
+        "website": "https://www.zwembad-demors.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7256843,
+          52.2545653
+        ]
+      },
+      "id": "node/1563455601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1565041264",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5283654,
+          53.06304
+        ]
+      },
+      "id": "node/1565041264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1582847794",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5886361,
+          53.1108206
+        ]
+      },
+      "id": "node/1582847794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1604251489",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Borghoorns",
+        "operator": "Gemeente Aa en Hunze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7138662,
+          53.0569243
+        ]
+      },
+      "id": "node/1604251489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1614055580",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9273769,
+          51.5901147
+        ]
+      },
+      "id": "node/1614055580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1618233446",
+        "leisure": "swimming_pool",
+        "location": "indoor",
+        "name": "Victoriabad",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0269095,
+          52.2987219
+        ]
+      },
+      "id": "node/1618233446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1619120420",
+        "addr:city": "Horst",
+        "addr:housenumber": "14",
+        "addr:postcode": "5961GZ",
+        "addr:street": "Kranestraat",
+        "description": "[Horst] Zwembad de Berkel",
+        "leisure": "swimming_pool",
+        "name": "Zwembad \"De Berkel\"",
+        "note": "Combinatie Sporthal en zwembad de Berkel Horst",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0510102,
+          51.449647
+        ]
+      },
+      "id": "node/1619120420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624019200",
+        "addr:city": "Delfzijl",
+        "addr:housenumber": "60",
+        "addr:postcode": "9932BT",
+        "addr:street": "Zwet",
+        "leisure": "swimming_pool",
+        "name": "Dubbelslag",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8870984,
+          53.3213975
+        ]
+      },
+      "id": "node/1624019200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1633891665",
+        "email": "tongelreep@eindhoven.nl",
+        "leisure": "swimming_pool",
+        "name": "Nationaal Zwemcentrum de Tongelreep",
+        "opening_hours": "Mo-Fr 07:00-22:00, Sa 10:30-14:00, Su 10:00-14:00",
+        "phone": "+31-(0)402381112",
+        "sport": "swimming",
+        "website": "http://tongelreep.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4781216,
+          51.4163084
+        ]
+      },
+      "id": "node/1633891665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1642476526",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0779515,
+          53.300516
+        ]
+      },
+      "id": "node/1642476526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1665560409",
+        "leisure": "swimming_pool",
+        "name": "De Woudfennen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7663747,
+          52.9642983
+        ]
+      },
+      "id": "node/1665560409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1665653473",
+        "addr:city": "Oosterbeek",
+        "addr:housenumber": "1",
+        "addr:postcode": "6862CJ",
+        "addr:street": "Lukassenpad",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad oosterbeek",
+        "source": "BAG",
+        "source:date": "2014-08-13",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8414556,
+          51.9867778
+        ]
+      },
+      "id": "node/1665653473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686637378",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1322501,
+          52.1164941
+        ]
+      },
+      "id": "node/1686637378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709808374",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "sport center swimming pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4903716,
+          51.4519913
+        ]
+      },
+      "id": "node/1709808374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723884964",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Peppel",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.511428,
+          52.8552534
+        ]
+      },
+      "id": "node/1723884964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1738605893",
+        "addr:city": "Pernis Rotterdam",
+        "addr:housenumber": "220",
+        "addr:postcode": "3195XR",
+        "addr:street": "Ring",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Pernis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3881846,
+          51.8850681
+        ]
+      },
+      "id": "node/1738605893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759732444",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0029184,
+          52.1370877
+        ]
+      },
+      "id": "node/1759732444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1771320871",
+        "leisure": "swimming_pool",
+        "name": "Laco Sportcentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3147329,
+          51.4952222
+        ]
+      },
+      "id": "node/1771320871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1790148703",
+        "addr:city": "Monnickendam",
+        "addr:housenumber": "54",
+        "addr:postcode": "1141CW",
+        "addr:street": "Wilhelminalaan",
+        "indoor": "yes",
+        "leisure": "swimming_pool",
+        "name": "Sportfondsenbad Monnickendam",
+        "operator": "Sportfondsenbad",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0363016,
+          52.4558222
+        ]
+      },
+      "id": "node/1790148703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1801017773",
+        "access": "yes",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "outdoor",
+        "name": "Natuurlijk De Loete",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7825097,
+          51.9943129
+        ]
+      },
+      "id": "node/1801017773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858497705",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3337365,
+          51.7766686
+        ]
+      },
+      "id": "node/1858497705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1893908850",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Laco",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5446837,
+          51.6150837
+        ]
+      },
+      "id": "node/1893908850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1910203662",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1586002,
+          53.3755407
+        ]
+      },
+      "id": "node/1910203662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1924077363",
+        "addr:city": "Aalsmeer",
+        "addr:housenumber": "1",
+        "addr:postcode": "1432CA",
+        "addr:street": "Meester Jac. Takkade",
+        "leisure": "swimming_pool",
+        "name": "Het Oosterbad",
+        "sport": "swimming",
+        "website": "http://www.hetoosterbad.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7998872,
+          52.2860747
+        ]
+      },
+      "id": "node/1924077363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1974999021",
+        "access": "private",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Landal zwembad",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4146328,
+          52.3803287
+        ]
+      },
+      "id": "node/1974999021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1976592832",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Zuid",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3955318,
+          51.905963
+        ]
+      },
+      "id": "node/1976592832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977721800",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "de Brake",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7936987,
+          52.386507
+        ]
+      },
+      "id": "node/1977721800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1982643894",
+        "leisure": "swimming_pool",
+        "name": "Het Buitendiep",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4482165,
+          51.6899513
+        ]
+      },
+      "id": "node/1982643894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1990044314",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Blankershove",
+        "source": "http://www.zwembadblankershove.nl/",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4526033,
+          51.5884783
+        ]
+      },
+      "id": "node/1990044314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2025239916",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "De Stok",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4309939,
+          51.5339867
+        ]
+      },
+      "id": "node/2025239916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2029306301",
+        "leisure": "swimming_pool",
+        "name": "Ariën Prins van Wijngaarden Bad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0868144,
+          52.5885033
+        ]
+      },
+      "id": "node/2029306301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2068983041",
+        "access": "private",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "source": "local knowlegde",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1393134,
+          52.7903657
+        ]
+      },
+      "id": "node/2068983041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2078473524",
+        "leisure": "swimming_pool",
+        "name": "De Treffer",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7056968,
+          50.7796367
+        ]
+      },
+      "id": "node/2078473524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2092633063",
+        "access": "yes",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Bosbad",
+        "sport": "swimming",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4382395,
+          52.0184727
+        ]
+      },
+      "id": "node/2092633063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2092745434",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Fun Valley",
+        "source": "http://www.funvalleymaastricht.nl",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7045603,
+          50.804482
+        ]
+      },
+      "id": "node/2092745434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2096660307",
+        "addr:city": "Made",
+        "addr:housenumber": "50",
+        "addr:postcode": "4921XR",
+        "addr:street": "Stuivezandsestraat",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "De Randoet",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.781696,
+          51.6667168
+        ]
+      },
+      "id": "node/2096660307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2106722879",
+        "access": "yes",
+        "addr:city": "Monster",
+        "addr:housename": "Zwem- en recreatiecentrum De Boetzelaer",
+        "addr:housenumber": "36",
+        "addr:postcode": "2681PM",
+        "addr:street": "Madeweg",
+        "covered": "yes",
+        "horse": "no",
+        "leisure": "swimming_pool",
+        "motor_vehicle": "no",
+        "name": "Zwem- en recreatiecentrum De Boetzelaer",
+        "phone": "+31 (0) 174 28 66 10",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming",
+        "website": "https://www.deboetzelaer.nl/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1858082,
+          52.0312889
+        ]
+      },
+      "id": "node/2106722879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2130467599",
+        "leisure": "swimming_pool",
+        "name": "Wedex Zwemscholen Locatie Veldhoven",
+        "website": "https://www.wedex.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3763217,
+          51.4206572
+        ]
+      },
+      "id": "node/2130467599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2165111809",
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2137597,
+          53.3894661
+        ]
+      },
+      "id": "node/2165111809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2173841026",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5977343,
+          52.9070809
+        ]
+      },
+      "id": "node/2173841026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2245306812",
+        "addr:city": "Maarssen",
+        "addr:housenumber": "237",
+        "addr:postcode": "3605JM",
+        "addr:street": "Bisonspoor",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Safari",
+        "operator": "Sportfondsen Stichtse Vecht",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0269833,
+          52.1355063
+        ]
+      },
+      "id": "node/2245306812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2247204608",
+        "leisure": "swimming_pool",
+        "name": "Het Koggebad",
+        "operator": "Koggenland",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9461727,
+          52.6266372
+        ]
+      },
+      "id": "node/2247204608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261718037",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad \"de Zandzee\"",
+        "source": "local knowlegde",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.155431,
+          52.2663997
+        ]
+      },
+      "id": "node/2261718037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2262047856",
+        "leisure": "swimming_pool",
+        "name": "De Parel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4909431,
+          51.5606042
+        ]
+      },
+      "id": "node/2262047856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2280547998",
+        "covered": "yes",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0399647,
+          52.4552955
+        ]
+      },
+      "id": "node/2280547998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292524738",
+        "leisure": "swimming_pool",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7863689,
+          52.2185241
+        ]
+      },
+      "id": "node/2292524738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297696290",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9590906,
+          51.8719172
+        ]
+      },
+      "id": "node/2297696290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297696952",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9490699,
+          51.9375682
+        ]
+      },
+      "id": "node/2297696952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297865867",
+        "leisure": "swimming_pool",
+        "name": "Het Baafje",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6876658,
+          52.6088605
+        ]
+      },
+      "id": "node/2297865867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297866261",
+        "leisure": "swimming_pool",
+        "name": "Oefenbad Loos (overdekt)",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6885885,
+          52.6086683
+        ]
+      },
+      "id": "node/2297866261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2298667090",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.794698,
+          52.189477
+        ]
+      },
+      "id": "node/2298667090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2309682087",
+        "leisure": "swimming_pool",
+        "name": "De Kleine Wolf",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4953017,
+          52.5451539
+        ]
+      },
+      "id": "node/2309682087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2315630138",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4336202,
+          52.4063711
+        ]
+      },
+      "id": "node/2315630138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2317610322",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Koerbelt",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5234744,
+          52.2954924
+        ]
+      },
+      "id": "node/2317610322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318039973",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Aquadintel",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36702,
+          51.6311578
+        ]
+      },
+      "id": "node/2318039973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2332332451",
+        "leisure": "swimming_pool",
+        "name": "De Vennen",
+        "sport": "swimming",
+        "sport_1": "fitness",
+        "website": "https://vennen.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9502631,
+          51.6195635
+        ]
+      },
+      "id": "node/2332332451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2383907390",
+        "addr:city": "Uden",
+        "addr:housenumber": "10A",
+        "addr:postcode": "5401GT",
+        "addr:street": "Pastoor Spieringsstraat",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Drie Essen",
+        "source": "BAG",
+        "source:date": "2014-08-11",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6139857,
+          51.6599025
+        ]
+      },
+      "id": "node/2383907390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2413027132",
+        "leisure": "swimming_pool",
+        "location": "outdoor",
+        "name": "Zwembad Bijtelskil",
+        "sport": "swimming",
+        "website": "https://zwembadbijtelskil.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9561831,
+          51.8154849
+        ]
+      },
+      "id": "node/2413027132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2423055024",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "De Hoefse Vonder",
+        "source": "Local knowledge",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3870892,
+          51.6878618
+        ]
+      },
+      "id": "node/2423055024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446451839",
+        "leisure": "swimming_pool",
+        "source": "survey",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6729788,
+          51.5915259
+        ]
+      },
+      "id": "node/2446451839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2478762324",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8573438,
+          53.1525025
+        ]
+      },
+      "id": "node/2478762324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2505065755",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5433831,
+          51.4014695
+        ]
+      },
+      "id": "node/2505065755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558835405",
+        "access": "customers",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "name": "Junglebad",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1383887,
+          51.5218752
+        ]
+      },
+      "id": "node/2558835405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580734254",
+        "leisure": "swimming_pool",
+        "name": "Hispohal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.133025,
+          51.489619
+        ]
+      },
+      "id": "node/2580734254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623091469",
+        "access": "yes",
+        "addr:city": "'s-Gravendeel",
+        "addr:housenumber": "7B",
+        "addr:postcode": "3295KK",
+        "addr:street": "Schenkeltje",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "De Wellen",
+        "operator": "De Wellen",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6188901,
+          51.7753773
+        ]
+      },
+      "id": "node/2623091469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2667706158",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8353393,
+          50.8585773
+        ]
+      },
+      "id": "node/2667706158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669329168",
+        "addr:city": "Doetinchem",
+        "addr:housenumber": "115",
+        "addr:postcode": "7002CC",
+        "addr:street": "Bezelhorstweg",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Rozengaarde",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.302595,
+          51.9748787
+        ]
+      },
+      "id": "node/2669329168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2693539815",
+        "addr:city": "Hazerswoude-Dorp",
+        "addr:housenumber": "17",
+        "addr:postcode": "2391AX",
+        "addr:street": "Sportparklaan",
+        "leisure": "swimming_pool",
+        "name": "De Hazelaar",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "http://www.zwembad-dehazelaar.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5936623,
+          52.102826
+        ]
+      },
+      "id": "node/2693539815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2693809631",
+        "leisure": "swimming_pool",
+        "name": "Jan Thiel Beach",
+        "sport": "swimming",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8791392,
+          12.074686
+        ]
+      },
+      "id": "node/2693809631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2704249646",
+        "access": "customers",
+        "addr:city": "Zwartsluis",
+        "addr:housenumber": "24a",
+        "addr:postcode": "8064CD",
+        "addr:street": "Julianastraat",
+        "leisure": "swimming_pool",
+        "name": "Zwembad 'De Kragge'",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0673908,
+          52.6440646
+        ]
+      },
+      "id": "node/2704249646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709385522",
+        "addr:city": "Ommen",
+        "addr:housenumber": "5",
+        "addr:postcode": "7731EH",
+        "addr:street": "van Reeuwijkstraat",
+        "leisure": "swimming_pool",
+        "name": "Carrousel",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4194989,
+          52.5258162
+        ]
+      },
+      "id": "node/2709385522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2711670954",
+        "access": "private",
+        "addr:city": "Leidschendam",
+        "addr:housenumber": "7",
+        "addr:postcode": "2264ZD",
+        "addr:street": "Neherpark",
+        "leisure": "swimming_pool",
+        "location": "indoor",
+        "name": "Zwembad Neherpark",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.388441,
+          52.0857149
+        ]
+      },
+      "id": "node/2711670954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716120184",
+        "addr:city": "Varsseveld",
+        "addr:country": "NL",
+        "addr:housenumber": "4",
+        "addr:postcode": "7051DE",
+        "addr:street": "van Pallandtstraat",
+        "leisure": "swimming_pool",
+        "location": "indoor",
+        "name": "Zwembad van Pallandt",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "sport": "swimming",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4663247,
+          51.9441298
+        ]
+      },
+      "id": "node/2716120184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2728928156",
+        "addr:city": "Breda",
+        "addr:housenumber": "494",
+        "addr:postcode": "4826AB",
+        "addr:street": "Terheijdenseweg",
+        "contact:phone": "+31765874597",
+        "contact:website": "http://www.optisport.nl/",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "indoor",
+        "name": "Zwembad De Wisselaar",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7741807,
+          51.6138369
+        ]
+      },
+      "id": "node/2728928156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731121376",
+        "addr:city": "Wateringen",
+        "addr:housenumber": "57",
+        "addr:postcode": "2291HP",
+        "addr:street": "Dorpskade",
+        "leisure": "swimming_pool",
+        "name": "De Waterman",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2781088,
+          52.0200461
+        ]
+      },
+      "id": "node/2731121376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2736643341",
+        "leisure": "swimming_pool",
+        "name": "Sportfondsenbad Hellevoetsluis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1363686,
+          51.8359046
+        ]
+      },
+      "id": "node/2736643341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737803188",
+        "addr:city": "Best",
+        "addr:housenumber": "7",
+        "addr:postcode": "5683CS",
+        "addr:street": "Sportlaan",
+        "email": "zwembad@gembest.nl",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Dolfijn",
+        "phone": "+31 499 360 911",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.gemeentebest.nl/zwembad-de-dolfijn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4000082,
+          51.5008207
+        ]
+      },
+      "id": "node/2737803188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2738203286",
+        "addr:city": "Breda",
+        "addr:housenumber": "2",
+        "addr:postcode": "4811PS",
+        "addr:street": "Pieter-Christiaanstraat",
+        "contact:email": "sonsbeeck@optisport.nl",
+        "contact:facebook": "https://www.facebook.com/OptisportSonsbeeck/",
+        "contact:instagram": "https://www.instagram.com/optisportsonsbeeck/",
+        "contact:phone": "+31765246500",
+        "contact:website": "https://www.optisport.nl/",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Sonsbeeck",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7678289,
+          51.5799385
+        ]
+      },
+      "id": "node/2738203286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2742720651",
+        "leisure": "swimming_pool",
+        "name": "'t Kommetje",
+        "operator": "ZV De Kempvis",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3231418,
+          51.8542693
+        ]
+      },
+      "id": "node/2742720651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2742725613",
+        "addr:city": "Spijkenisse",
+        "addr:housenumber": "21",
+        "addr:postcode": "3202ST",
+        "addr:street": "Groene Kruisweg",
+        "leisure": "swimming_pool",
+        "name": "Rivierabad",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3230272,
+          51.8538668
+        ]
+      },
+      "id": "node/2742725613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2747853619",
+        "addr:city": "Soest",
+        "addr:housenumber": "181",
+        "addr:postcode": "3762AW",
+        "addr:street": "Dalweg",
+        "leisure": "swimming_pool",
+        "name": "Optisport De Engh",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2965795,
+          52.1764271
+        ]
+      },
+      "id": "node/2747853619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2747968481",
+        "addr:city": "Leerdam",
+        "addr:housenumber": "9",
+        "addr:postcode": "4142EG",
+        "addr:street": "Tiendweg",
+        "leisure": "swimming_pool",
+        "name": "Laco Leerdam",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.laco.eu/locatie/leerdam/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0877351,
+          51.8907878
+        ]
+      },
+      "id": "node/2747968481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757345655",
+        "addr:city": "Wieringerwerf",
+        "addr:housenumber": "1",
+        "addr:postcode": "1771RV",
+        "addr:street": "Badweg",
+        "leisure": "swimming_pool",
+        "length": "20",
+        "lit": "yes",
+        "location": "indoor",
+        "name": "De Terp",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0249228,
+          52.8438042
+        ]
+      },
+      "id": "node/2757345655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2758640845",
+        "access": "customers",
+        "addr:city": "Enschede",
+        "addr:housenumber": "112",
+        "addr:postcode": "7511ZD",
+        "addr:street": "Hoge Bothofstraat",
+        "education": "swimming",
+        "leisure": "swimming_pool",
+        "name": "Zwemschool Schonewille",
+        "office": "educational_institution",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://www.zwemschool-schonewille.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9064825,
+          52.2223353
+        ]
+      },
+      "id": "node/2758640845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2767276502",
+        "addr:city": "Dwingeloo",
+        "addr:housenumber": "2",
+        "addr:postcode": "7991SC",
+        "addr:street": "Anserpad",
+        "leisure": "swimming_pool",
+        "name": "De Paasbergen",
+        "phone": "+31 521 591498",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3669346,
+          52.8198926
+        ]
+      },
+      "id": "node/2767276502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2770726950",
+        "addr:city": "Zwaag",
+        "addr:housenumber": "57",
+        "addr:postcode": "1689GM",
+        "addr:street": "Pastoor Nuijenstraat",
+        "email": "wijzend@optisport.nl",
+        "leisure": "swimming_pool",
+        "name": "De Wijzend",
+        "phone": "+31229237422",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming",
+        "website": "https://optisport.nl/locaties/wijzend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0782995,
+          52.6657674
+        ]
+      },
+      "id": "node/2770726950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2772353996",
+        "access": "public",
+        "addr:city": "Vught",
+        "addr:housenumber": "32",
+        "addr:postcode": "5262VM",
+        "addr:street": "Maarten Trompstraat",
+        "leisure": "swimming_pool",
+        "name": "Sportcentrum Vught",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2908726,
+          51.6491969
+        ]
+      },
+      "id": "node/2772353996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2772547542",
+        "addr:city": "Bathmen",
+        "addr:housenumber": "6",
+        "addr:postcode": "7437SL",
+        "addr:street": "Oudendijk",
+        "leisure": "swimming_pool",
+        "name": "Looermark",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3559529,
+          52.254209
+        ]
+      },
+      "id": "node/2772547542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2779149458",
+        "addr:city": "Losser",
+        "addr:housenumber": "11",
+        "addr:postcode": "7581BB",
+        "addr:street": "Bookholtlaan",
+        "covered": "yes",
+        "facebook": "https://www.facebook.com/zwembad.brilmansdennen/",
+        "leisure": "swimming_pool",
+        "length": "25",
+        "location": "indoor",
+        "name": "Brilmansdennen",
+        "operator": "community",
+        "phone": "+31535381800",
+        "source": "BAG;http://www.losser.nl/brilmansdennen",
+        "source:date": "2014-03-24",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0148652,
+          52.2682202
+        ]
+      },
+      "id": "node/2779149458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2785342636",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9770149,
+          51.3836836
+        ]
+      },
+      "id": "node/2785342636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2785499061",
+        "leisure": "swimming_pool",
+        "name": "Aqua Mundo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9628828,
+          51.4480176
+        ]
+      },
+      "id": "node/2785499061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786441857",
+        "addr:city": "Sint Maartensvlotbrug",
+        "addr:housenumber": "54a",
+        "addr:postcode": "1753GD",
+        "addr:street": "Belkmerweg",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Campanula",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6958948,
+          52.7820494
+        ]
+      },
+      "id": "node/2786441857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2789437855",
+        "addr:city": "Rucphen",
+        "addr:housenumber": "21",
+        "addr:postcode": "4715RE",
+        "addr:street": "Kozijnenhoek",
+        "leisure": "swimming_pool",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5745865,
+          51.5388201
+        ]
+      },
+      "id": "node/2789437855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2791495529",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "80",
+        "addr:postcode": "3078JD",
+        "addr:street": "Dwarsdijk",
+        "leisure": "swimming_pool",
+        "name": "Zwembad IJsselmonde",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5418373,
+          51.8916837
+        ]
+      },
+      "id": "node/2791495529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2793254537",
+        "addr:city": "Hardinxveld-Giessendam",
+        "addr:housenumber": "142A",
+        "addr:postcode": "3371EX",
+        "addr:street": "Sluisweg",
+        "leisure": "swimming_pool",
+        "location": "indoor",
+        "name": "De Duikelaar",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8552507,
+          51.8287382
+        ]
+      },
+      "id": "node/2793254537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2796107094",
+        "addr:city": "Sint-Oedenrode",
+        "addr:housenumber": "20",
+        "addr:postcode": "5492DX",
+        "addr:street": "Dommelstraat",
+        "fixme": "currently being replaced with a new building",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "indoor",
+        "name": "Zwembad De Neul",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4588527,
+          51.5662481
+        ]
+      },
+      "id": "node/2796107094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2796889767",
+        "addr:city": "Gennep",
+        "addr:housenumber": "34",
+        "addr:postcode": "6591JE",
+        "addr:street": "Picardie",
+        "leisure": "swimming_pool",
+        "name": "Pica Mare",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.optisport.nl/picamare/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9760485,
+          51.6992105
+        ]
+      },
+      "id": "node/2796889767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798745510",
+        "access": "yes",
+        "addr:city": "Hoornaar",
+        "addr:housenumber": "2",
+        "addr:postcode": "4223NZ",
+        "addr:street": "Lutjeswaardsemiddenweg",
+        "leisure": "swimming_pool",
+        "name": "Natuurbad De Donk",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "swimming_pool": "outdoor",
+        "website": "https://www.zwemwater.nl/?id=1774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9379513,
+          51.8820187
+        ]
+      },
+      "id": "node/2798745510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2799294036",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6100547,
+          52.2462164
+        ]
+      },
+      "id": "node/2799294036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801586111",
+        "access": "permissive",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "11",
+        "addr:postcode": "3063NB",
+        "addr:street": "Kralinger Esch",
+        "leisure": "swimming_pool",
+        "lit": "no",
+        "location": "outdoor",
+        "name": "Vereniging Kralings Zwembad",
+        "source": "BAG;local knowledge",
+        "source:date": "2014-03-24",
+        "swimming_pool": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.524792,
+          51.912922
+        ]
+      },
+      "id": "node/2801586111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2805093816",
+        "addr:city": "'s-Heerenberg",
+        "addr:housenumber": "43a",
+        "addr:postcode": "7041DB",
+        "addr:street": "Oude Doetinchemseweg",
+        "leisure": "swimming_pool",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2550347,
+          51.8800146
+        ]
+      },
+      "id": "node/2805093816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2805741934",
+        "addr:city": "Coevorden",
+        "addr:housenumber": "2",
+        "addr:postcode": "7742VV",
+        "addr:street": "Pampert",
+        "leisure": "swimming_pool",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7460338,
+          52.6594956
+        ]
+      },
+      "id": "node/2805741934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2806289874",
+        "addr:city": "Grootebroek",
+        "addr:housenumber": "8",
+        "addr:postcode": "1613KR",
+        "addr:street": "Raadhuislaan",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Kloet",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2160243,
+          52.6937302
+        ]
+      },
+      "id": "node/2806289874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2808920468",
+        "addr:city": "Nieuwerkerk",
+        "addr:housenumber": "9",
+        "addr:postcode": "4306CT",
+        "addr:street": "Wethouder van Klinkenstraat",
+        "leisure": "swimming_pool",
+        "location": "indoor",
+        "name": "Dol-fijn",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0008637,
+          51.6509039
+        ]
+      },
+      "id": "node/2808920468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2809735830",
+        "addr:city": "Castricum",
+        "addr:housenumber": "1",
+        "addr:postcode": "1901RG",
+        "addr:street": "Jacob Rensdorpstraat",
+        "leisure": "swimming_pool",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6692266,
+          52.5458524
+        ]
+      },
+      "id": "node/2809735830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810144849",
+        "addr:city": "Klundert",
+        "addr:housenumber": "7",
+        "addr:postcode": "4791GB",
+        "addr:street": "Molenvliet",
+        "leisure": "swimming_pool",
+        "name": "Optisport zwembad De Niervaert",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://optisport.nl/locaties/niervaert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5369239,
+          51.6701029
+        ]
+      },
+      "id": "node/2810144849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2820323867",
+        "addr:city": "Gytsjerk",
+        "addr:housenumber": "57A",
+        "addr:postcode": "9061AD",
+        "addr:street": "Rinia van Nautaweg",
+        "leisure": "swimming_pool",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8934282,
+          53.2441885
+        ]
+      },
+      "id": "node/2820323867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2820718599",
+        "addr:city": "Uithoorn",
+        "addr:housenumber": "66",
+        "addr:postcode": "1421TE",
+        "addr:street": "Sportlaan",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Otter",
+        "name_1": "Aqua Uithoorn",
+        "phone": "+31 297 560375",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://www.aqua-uithoorn.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8161179,
+          52.2435007
+        ]
+      },
+      "id": "node/2820718599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2827403813",
+        "addr:city": "Ouderkerk aan de Amstel",
+        "addr:housenumber": "10",
+        "addr:postcode": "1191EB",
+        "addr:street": "Wethouder Koolhaasweg",
+        "leisure": "swimming_pool",
+        "name": "Amstelbad",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.amstelbad.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9208205,
+          52.30256
+        ]
+      },
+      "id": "node/2827403813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828954311",
+        "access": "yes",
+        "addr:city": "Valkenswaard",
+        "addr:housenumber": "29",
+        "addr:postcode": "5552BG",
+        "addr:street": "Pastoor Heerkensdreef",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "indoor",
+        "name": "De Wedert",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4545883,
+          51.3654686
+        ]
+      },
+      "id": "node/2828954311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829175945",
+        "addr:city": "Valkenswaard",
+        "addr:housenumber": "30",
+        "addr:postcode": "5551BJ",
+        "addr:street": "Helenadal",
+        "leisure": "swimming_pool",
+        "name": "De Dommelbron",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://www.dedommelbron.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4296932,
+          51.3541187
+        ]
+      },
+      "id": "node/2829175945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2831609759",
+        "addr:city": "Diemen",
+        "addr:housenumber": "17",
+        "addr:postcode": "1111PT",
+        "addr:street": "Kriekenoord",
+        "leisure": "swimming_pool",
+        "name": "AGO-Zwembad",
+        "note": "alleen met medische indicatie",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "swimming",
+        "website": "https://www.agozwembad.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9751232,
+          52.3366038
+        ]
+      },
+      "id": "node/2831609759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2831952513",
+        "addr:city": "Hoogerheide",
+        "addr:housenumber": "4",
+        "addr:postcode": "4631CR",
+        "addr:street": "Sportlaan",
+        "contact:email": "hoogerheide@laco.eu",
+        "leisure": "swimming_pool",
+        "name": "Laco",
+        "note": "Binnen en buitenbad. In de zomerperiode van 01 mei t/m 31 augustus is ons buitenbad onder voorwaarden geopend.",
+        "phone": "+31 164 612590",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.laco.eu/locatie/hoogerheide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3354006,
+          51.4190654
+        ]
+      },
+      "id": "node/2831952513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832725365",
+        "addr:city": "Tijnje",
+        "addr:housenumber": "16",
+        "addr:postcode": "8406AZ",
+        "addr:street": "De Wispel",
+        "leisure": "swimming_pool",
+        "name": "Natuurbad De Wispel",
+        "source": "BAG",
+        "source:date": "2014-06-21",
+        "sport": "swimming",
+        "website": "http://www.tynje.nl/zwembad/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9982235,
+          53.0234018
+        ]
+      },
+      "id": "node/2832725365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841834088",
+        "addr:city": "Udenhout",
+        "addr:housenumber": "39",
+        "addr:postcode": "5071EA",
+        "addr:street": "Groenstraat",
+        "leisure": "swimming_pool",
+        "name": "Groene Wellen",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1423978,
+          51.6166441
+        ]
+      },
+      "id": "node/2841834088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2843669180",
+        "access": "customers",
+        "addr:city": "Wierden",
+        "addr:housenumber": "3",
+        "addr:postcode": "7641CC",
+        "addr:street": "Dikkensweg",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Kolk",
+        "phone": "0546 572 490",
+        "source": "BAG;local knowledge",
+        "source:date": "2014-05-07",
+        "sport": "swimming",
+        "website": "http://www.dekolk.nl",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5938477,
+          52.3601529
+        ]
+      },
+      "id": "node/2843669180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2851546942",
+        "addr:city": "Ommel",
+        "addr:housenumber": "31",
+        "addr:postcode": "5724PL",
+        "addr:street": "Beekstraat",
+        "leisure": "swimming_pool",
+        "name": "Zwemparadijs Prinsenmeer",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.dagjeprinsenmeer.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7357169,
+          51.4234651
+        ]
+      },
+      "id": "node/2851546942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2853006852",
+        "addr:city": "Valthermond",
+        "addr:housenumber": "337",
+        "addr:postcode": "7876CR",
+        "addr:street": "Noorderdiep",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Zwaoi",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9538389,
+          52.8782025
+        ]
+      },
+      "id": "node/2853006852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861707398",
+        "leisure": "swimming_pool",
+        "name": "Coenders Zwemschool Sauna & Fitness",
+        "website": "http://www.saunacoenders.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9149883,
+          51.6010867
+        ]
+      },
+      "id": "node/2861707398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864294099",
+        "addr:city": "Oegstgeest",
+        "addr:housenumber": "273",
+        "addr:postcode": "2343CE",
+        "addr:street": "Lange Voort",
+        "leisure": "swimming_pool",
+        "name": "Optisport Zwembad Poelmeer",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4867759,
+          52.1840185
+        ]
+      },
+      "id": "node/2864294099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2865665125",
+        "addr:city": "Loosdrecht",
+        "addr:housenumber": "62",
+        "addr:postcode": "1231XH",
+        "addr:street": "Prinses Margrietstraat",
+        "leisure": "swimming_pool",
+        "name": "Zwemschool Walderveenbad Loosdrecht",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1414,
+          52.198544
+        ]
+      },
+      "id": "node/2865665125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2872481941",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "De Albatros",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3105489,
+          51.3588225
+        ]
+      },
+      "id": "node/2872481941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2876876135",
+        "addr:city": "Mierlo",
+        "addr:housenumber": "107",
+        "addr:postcode": "5731EH",
+        "addr:street": "Heer van Scherpenzeelweg",
+        "leisure": "swimming_pool",
+        "name": "Zwemschool Sauna Mierlo",
+        "source": "BAG",
+        "source:date": "2014-05-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6214095,
+          51.437394
+        ]
+      },
+      "id": "node/2876876135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2877886159",
+        "addr:city": "Nunspeet",
+        "addr:housenumber": "19",
+        "addr:postcode": "8072ZN",
+        "addr:street": "Oosteinderweg",
+        "leisure": "swimming_pool",
+        "name": "De Brake",
+        "source": "BAG",
+        "source:date": "2014-05-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7936835,
+          52.3860194
+        ]
+      },
+      "id": "node/2877886159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2880466276",
+        "addr:city": "Zwolle",
+        "addr:housenumber": "1",
+        "addr:postcode": "8023XK",
+        "addr:street": "Ceintuurbaan",
+        "leisure": "swimming_pool",
+        "name": "Openluchtbad Zwolle",
+        "source": "BAG",
+        "source:date": "2014-05-25",
+        "website": "http://www.natnatnat.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1186815,
+          52.5170638
+        ]
+      },
+      "id": "node/2880466276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2887393731",
+        "addr:city": "Arcen",
+        "addr:housenumber": "9",
+        "addr:postcode": "5944EX",
+        "addr:street": "Klein Vink",
+        "leisure": "swimming_pool",
+        "name": "Zwembad",
+        "source": "BAG",
+        "source:date": "2014-05-29",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1852192,
+          51.4967151
+        ]
+      },
+      "id": "node/2887393731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903186251",
+        "addr:city": "Helmond",
+        "addr:housenumber": "1",
+        "addr:postcode": "5702NR",
+        "addr:street": "Keizerin Marialaan",
+        "leisure": "swimming_pool",
+        "name": "Laco sportcentrum \"De Wissen\"",
+        "source": "BAG",
+        "source:date": "2014-06-06",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6562541,
+          51.4883203
+        ]
+      },
+      "id": "node/2903186251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2914680824",
+        "addr:city": "Scheemda",
+        "addr:housenumber": "6",
+        "addr:postcode": "9679HK",
+        "addr:street": "Badhuislaan",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Ringberg",
+        "source": "BAG",
+        "source:date": "2014-06-13",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9721122,
+          53.1709925
+        ]
+      },
+      "id": "node/2914680824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2931255181",
+        "addr:city": "Haelen",
+        "addr:housenumber": "50",
+        "addr:postcode": "6081NP",
+        "addr:street": "Roggelseweg",
+        "designation": "swimming",
+        "leisure": "swimming_pool",
+        "name": "Laco Zwembad",
+        "source": "BAG",
+        "source:date": "2014-06-22",
+        "website": "https://www.laco.eu/locatie/haelen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9443819,
+          51.2393918
+        ]
+      },
+      "id": "node/2931255181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973875669",
+        "access": "private",
+        "leisure": "swimming_pool",
+        "name": "Jakuzzi",
+        "source": "Bing, Connaissances du terrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0593236,
+          18.0163112
+        ]
+      },
+      "id": "node/2973875669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2987826794",
+        "leisure": "swimming_pool",
+        "name": "De Dubbel",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7093362,
+          51.7916961
+        ]
+      },
+      "id": "node/2987826794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3009301209",
+        "addr:city": "Helden",
+        "addr:housenumber": "6",
+        "addr:postcode": "5988NH",
+        "addr:street": "De Heldense Bossen",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Heldense Bossen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0183752,
+          51.3175721
+        ]
+      },
+      "id": "node/3009301209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3032301023",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3479518,
+          51.4151129
+        ]
+      },
+      "id": "node/3032301023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3050199691",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Hoogland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3766036,
+          52.1844763
+        ]
+      },
+      "id": "node/3050199691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3063420148",
+        "addr:city": "Franeker",
+        "addr:housenumber": "11",
+        "addr:postcode": "8801PG",
+        "addr:street": "Burgemeester J Dijkstraweg",
+        "leisure": "swimming_pool",
+        "name": "zwembad Bloemketerp",
+        "source": "BAG",
+        "source:date": "2014-09-06",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5524634,
+          53.1898542
+        ]
+      },
+      "id": "node/3063420148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3064779799",
+        "addr:city": "Stiens",
+        "addr:housenumber": "1",
+        "addr:postcode": "9051LP",
+        "addr:street": "Ieleane",
+        "leisure": "swimming_pool",
+        "name": "It Gryn",
+        "operator": "bv SPORT",
+        "source": "BAG",
+        "source:date": "2014-09-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7699706,
+          53.2617586
+        ]
+      },
+      "id": "node/3064779799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3189669890",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Hemrik",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1382954,
+          53.0281971
+        ]
+      },
+      "id": "node/3189669890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3298505780",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Horsten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0147878,
+          52.9389633
+        ]
+      },
+      "id": "node/3298505780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3309705121",
+        "addr:city": "Brielle",
+        "addr:housenumber": "2a",
+        "addr:postcode": "3232CV",
+        "addr:street": "Reede",
+        "leisure": "swimming_pool",
+        "name": "zwembad dukdalf",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1595685,
+          51.8957075
+        ]
+      },
+      "id": "node/3309705121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3416652019",
+        "leisure": "swimming_pool",
+        "name": "Schoonenburg",
+        "sport": "swimming",
+        "website": "https://www.sportfondsen.nl/Accommodatie/Zwembad%20Schoonenburg/Paginas/Home.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6617702,
+          51.8833524
+        ]
+      },
+      "id": "node/3416652019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3420089107",
+        "addr:city": "Exloo",
+        "addr:housenumber": "36",
+        "addr:postcode": "7875CD",
+        "addr:street": "Zuideinde",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Leewal",
+        "phone": "+31591549135",
+        "sport": "swimming",
+        "website": "http://www.exloo.info/bedrijven/dagje-uit/item/zwembad-de-leewal",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8585588,
+          52.8696491
+        ]
+      },
+      "id": "node/3420089107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3421559358",
+        "access": "customers",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "indoor",
+        "name": "Zwembad de Waterstee",
+        "sport": "swimming",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4317586,
+          51.7279597
+        ]
+      },
+      "id": "node/3421559358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3546568571",
+        "access": "customers",
+        "leisure": "swimming_pool",
+        "operator": "Landal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5183737,
+          52.0300885
+        ]
+      },
+      "id": "node/3546568571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3629225134",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Drie Essen Zetten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7228374,
+          51.9180743
+        ]
+      },
+      "id": "node/3629225134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3639450677",
+        "access": "permissive",
+        "designation": "swimming pool",
+        "horse": "no",
+        "leisure": "swimming_pool",
+        "motor_vehicle": "designated",
+        "name": "\"de Plantage\" Sportlaan 4",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.334439,
+          51.4195238
+        ]
+      },
+      "id": "node/3639450677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3658098571",
+        "leisure": "swimming_pool",
+        "name": "Waal-en Weidebad",
+        "sport": "swimming",
+        "website": "http://www.waalenweidebad.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5691779,
+          51.8420682
+        ]
+      },
+      "id": "node/3658098571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3659473573",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7252035,
+          52.7943229
+        ]
+      },
+      "id": "node/3659473573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3751998452",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8854752,
+          51.0690056
+        ]
+      },
+      "id": "node/3751998452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3758773689",
+        "access": "private",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8933317,
+          52.2230366
+        ]
+      },
+      "id": "node/3758773689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3808896576",
+        "leisure": "swimming_pool",
+        "name": "Warande",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8465962,
+          51.6340518
+        ]
+      },
+      "id": "node/3808896576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3854132137",
+        "leisure": "swimming_pool",
+        "name": "De Groene Ster Naaktstrand",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8643032,
+          53.2134591
+        ]
+      },
+      "id": "node/3854132137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3854132138",
+        "leisure": "swimming_pool",
+        "name": "De Potten Naaktstrand",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7272642,
+          53.0361561
+        ]
+      },
+      "id": "node/3854132138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3854615585",
+        "leisure": "swimming_pool",
+        "name": "Naaktstrand Engelgaarde",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2316901,
+          52.7029375
+        ]
+      },
+      "id": "node/3854615585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3917302495",
+        "addr:city": "Zoeterwoude",
+        "addr:housenumber": "2-53",
+        "addr:postcode": "2381AD",
+        "addr:street": "Blankaartweg",
+        "leisure": "swimming_pool",
+        "name": "De Duiker",
+        "source": "BAG",
+        "source:date": "2015-12-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5007094,
+          52.1144405
+        ]
+      },
+      "id": "node/3917302495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3931232947",
+        "leisure": "swimming_pool",
+        "name": "De Smelen",
+        "operator": "Laco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5535241,
+          51.4079472
+        ]
+      },
+      "id": "node/3931232947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3937224283",
+        "leisure": "swimming_pool",
+        "name": "Sportcentrum Laco Bemmel",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9183884,
+          51.8921968
+        ]
+      },
+      "id": "node/3937224283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999659722",
+        "access": "yes",
+        "leisure": "swimming_pool",
+        "location": "outdoor",
+        "name": "Natuurlijk Heidepark",
+        "operator": "Stichting Natuurlijk Heidepark",
+        "swimming_pool": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3512359,
+          52.4417428
+        ]
+      },
+      "id": "node/3999659722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144580994",
+        "access": "customers",
+        "leisure": "swimming_pool",
+        "operator": "Landal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9559535,
+          51.5649016
+        ]
+      },
+      "id": "node/4144580994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4164446496",
+        "leisure": "swimming_pool",
+        "name": "Zwembad \"De Bosbadhal\"",
+        "wikidata": "Q13442619",
+        "wikipedia": "nl:Bosbad (Emmeloord)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7547464,
+          52.71726
+        ]
+      },
+      "id": "node/4164446496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4166301502",
+        "access": "private",
+        "leisure": "swimming_pool",
+        "operator": "ACLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5344822,
+          53.2419309
+        ]
+      },
+      "id": "node/4166301502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4169785601",
+        "addr:city": "Pijnacker",
+        "addr:housenumber": "79",
+        "addr:postcode": "2641ZA",
+        "addr:street": "Noordweg",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Viergang",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4218075,
+          52.0250489
+        ]
+      },
+      "id": "node/4169785601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4180308389",
+        "addr:city": "Culemborg",
+        "addr:housenumber": "5",
+        "addr:postcode": "4103NM",
+        "addr:street": "Multatulilaan",
+        "leisure": "swimming_pool",
+        "name": "de Waterlinie",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2361523,
+          51.9453539
+        ]
+      },
+      "id": "node/4180308389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4272069531",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5457412,
+          52.5124161
+        ]
+      },
+      "id": "node/4272069531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338085258",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3089551,
+          52.4273507
+        ]
+      },
+      "id": "node/4338085258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4431057185",
+        "covered": "yes",
+        "leisure": "swimming_pool",
+        "name": "Zwembad de Golfslag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8048753,
+          53.4527749
+        ]
+      },
+      "id": "node/4431057185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442163269",
+        "addr:city": "Geldermalsen",
+        "addr:housenumber": "17",
+        "addr:street": "Van Hogendorpstraat",
+        "leisure": "swimming_pool",
+        "name": "Het Wiel",
+        "operator": "Laco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2943628,
+          51.878856
+        ]
+      },
+      "id": "node/4442163269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547576014",
+        "addr:city": "Venlo",
+        "addr:housenumber": "52",
+        "addr:postcode": "5921AC",
+        "addr:street": "Drie Decembersingel",
+        "leisure": "swimming_pool",
+        "location": "indoor",
+        "name": "De Wisselslag",
+        "source": "BAG",
+        "source:date": "2014-06-12",
+        "sport": "swimming",
+        "website": "http://www.dewisselslag.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1372767,
+          51.3671475
+        ]
+      },
+      "id": "node/4547576014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4552219103",
+        "addr:city": "Andel",
+        "addr:housenumber": "1",
+        "addr:postcode": "4281KH",
+        "addr:street": "Middenweg",
+        "leisure": "swimming_pool",
+        "name": "Aqua Altena",
+        "source": "BAG",
+        "source:date": "2016-12-13",
+        "website": "https://www.optisport.nl/aquaaltena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0563628,
+          51.7770831
+        ]
+      },
+      "id": "node/4552219103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4745777750",
+        "leisure": "swimming_pool",
+        "swimming_pool": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6172822,
+          52.1741576
+        ]
+      },
+      "id": "node/4745777750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4786514028",
+        "access": "customers",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7065721,
+          52.3832997
+        ]
+      },
+      "id": "node/4786514028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4809095453",
+        "leisure": "swimming_pool",
+        "name": "Afrikaanderplein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5015583,
+          51.9020533
+        ]
+      },
+      "id": "node/4809095453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856576339",
+        "addr:city": "Amstelveen",
+        "addr:housenumber": "239",
+        "addr:postcode": "1185LN",
+        "addr:street": "Van der Hooplaan",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Meerkamp",
+        "phone": "+31 88 858 5185",
+        "website": "https://www.meerkamp.nl/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8524345,
+          52.2880378
+        ]
+      },
+      "id": "node/4856576339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4888386025",
+        "access": "customers",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1367674,
+          51.3306929
+        ]
+      },
+      "id": "node/4888386025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909818714",
+        "access": "private",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9857744,
+          12.1392478
+        ]
+      },
+      "id": "node/4909818714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006520087",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Ligteveld",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.996453,
+          51.2665732
+        ]
+      },
+      "id": "node/5006520087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5224121192",
+        "leisure": "swimming_pool",
+        "name": "Zwembad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.753726,
+          52.2011786
+        ]
+      },
+      "id": "node/5224121192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333001656",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Zijl",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5146352,
+          52.1668344
+        ]
+      },
+      "id": "node/5333001656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5453743009",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074124,
+          52.4286734
+        ]
+      },
+      "id": "node/5453743009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5576114269",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0337691,
+          52.0920737
+        ]
+      },
+      "id": "node/5576114269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5748452184",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.490813,
+          52.5434525
+        ]
+      },
+      "id": "node/5748452184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5782000632",
+        "leisure": "swimming_pool",
+        "name": "Het Streekbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1847298,
+          52.6913688
+        ]
+      },
+      "id": "node/5782000632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5851559848",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2814548,
+          52.4395008
+        ]
+      },
+      "id": "node/5851559848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863570903",
+        "access": "customers",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6667066,
+          52.8344143
+        ]
+      },
+      "id": "node/5863570903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6091096453",
+        "leisure": "swimming_pool",
+        "name": "Zwarte Plasje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4915852,
+          51.9591966
+        ]
+      },
+      "id": "node/6091096453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124591374",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "indoor",
+        "name": "Zwembad De Haamen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8076823,
+          50.9453159
+        ]
+      },
+      "id": "node/6124591374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6213544589",
+        "addr:city": "Volendam",
+        "addr:housenumber": "25",
+        "addr:postcode": "1131JP",
+        "addr:street": "Harlingenlaan",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Waterdam",
+        "phone": "+31299-365003",
+        "source": "BAG",
+        "source:date": "2019-01-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0728315,
+          52.5087865
+        ]
+      },
+      "id": "node/6213544589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6222911242",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5886274,
+          52.9006761
+        ]
+      },
+      "id": "node/6222911242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6325721854",
+        "leisure": "swimming_pool",
+        "name": "Landal",
+        "sport": "swimming",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2673528,
+          51.9319649
+        ]
+      },
+      "id": "node/6325721854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6339206559",
+        "access": "private",
+        "leisure": "swimming_pool",
+        "location": "outdoor",
+        "name": "Zwemsteiger",
+        "swimming_pool": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8938593,
+          53.1502654
+        ]
+      },
+      "id": "node/6339206559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6386270611",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9087909,
+          51.8233068
+        ]
+      },
+      "id": "node/6386270611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6401882976",
+        "leisure": "swimming_pool",
+        "name": "Bosbad Hoogersmilde",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3825683,
+          52.9048889
+        ]
+      },
+      "id": "node/6401882976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6477526763",
+        "leisure": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9000853,
+          52.1288098
+        ]
+      },
+      "id": "node/6477526763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983397931",
+        "contact:mail": "info@heerhugowaardsport.nl",
+        "contact:phone": "+31 72 5675040",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "indoor",
+        "name": "Zwembad Waardergolf",
+        "opening_hours": "Mo 12:00-15:00,20:15-22:00; Tu 07:00-15:00; We 08:00-13:00,14:00-16:00,20:15-22:00; Th 07:00-08:30,09:00-15:00; Fr 12:00-13:15,19:00-21:30; Sa 13:15-16:00; Su 09:30-15:30",
+        "operator": "Heerhugowaard Sport N.V.",
+        "swimming_pool": "indoor",
+        "website": "https://heerhugowaardsport.nl/zwembadwaardergolf/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8492709,
+          52.6649592
+        ]
+      },
+      "id": "node/6983397931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7099363774",
+        "access": "customers",
+        "leisure": "swimming_pool",
+        "lit": "yes",
+        "location": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1461176,
+          51.3067817
+        ]
+      },
+      "id": "node/7099363774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103240701",
+        "indoor": "yes",
+        "leisure": "swimming_pool",
+        "name": "'t Wolfsbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5879875,
+          51.4391525
+        ]
+      },
+      "id": "node/7103240701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7124689688",
+        "access": "customers",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.067145,
+          51.6578473
+        ]
+      },
+      "id": "node/7124689688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7402677563",
+        "addr:city": "Tiel",
+        "addr:housenumber": "99",
+        "addr:postcode": "4002GW",
+        "addr:street": "Laan van Westroijen",
+        "leisure": "swimming_pool",
+        "name": "Groenendaal Plus",
+        "source": "BAG",
+        "source:date": "2020-04-14;2014-08-16",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4175197,
+          51.895579
+        ]
+      },
+      "id": "node/7402677563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721830085",
+        "access": "customers",
+        "description": "Zwembad bij domein Roompot Cadzand",
+        "leisure": "swimming_pool",
+        "name": "Zwembad Roompot",
+        "opening_hours": "08:00-20:00",
+        "survey:date": "2020-07-20",
+        "swimming_pool": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3911394,
+          51.3754539
+        ]
+      },
+      "id": "node/7721830085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7727391706",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5156315,
+          51.5555467
+        ]
+      },
+      "id": "node/7727391706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7892377626",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4595304,
+          52.2005878
+        ]
+      },
+      "id": "node/7892377626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7917706024",
+        "access": "customers",
+        "leisure": "swimming_pool",
+        "name": "Zwemles op Maat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.749927,
+          52.6288097
+        ]
+      },
+      "id": "node/7917706024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051281564",
+        "access": "customers",
+        "leisure": "swimming_pool",
+        "name": "Zwembad De Elsgraven",
+        "operator": "Landal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5671532,
+          52.3112296
+        ]
+      },
+      "id": "node/8051281564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8344943750",
+        "leisure": "swimming_pool",
+        "name": "Zwembad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5470154,
+          53.2365536
+        ]
+      },
+      "id": "node/8344943750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8919178783",
+        "leisure": "swimming_pool",
+        "name": "Naaktstrandje Kraaijenbergse Plassen",
+        "nudism": "designated",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8020327,
+          51.7487201
+        ]
+      },
+      "id": "node/8919178783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8985247144",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2515395,
+          52.2856357
+        ]
+      },
+      "id": "node/8985247144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9050091625",
+        "leisure": "swimming_pool",
+        "name": "Zwembad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7290458,
+          52.8932765
+        ]
+      },
+      "id": "node/9050091625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9265154914",
+        "access": "private",
+        "description": "Different opening hours for type of membership, see website",
+        "leisure": "swimming_pool",
+        "length": "16.67",
+        "lit": "yes",
+        "location": "indoor",
+        "opening_hours": "Mo 11:30-14:00; Tu 10:00-14:00,15:00-18:00; We,Fr 11:00-14:00; Th 12:00-14:00,15:00-18:00; Su 15:00-17:00",
+        "sport": "swimming",
+        "swimming_pool": "indoor",
+        "website": "https://www.utwente.nl/en/sport/sports/swimming/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8507869,
+          52.2436965
+        ]
+      },
+      "id": "node/9265154914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521527470",
+        "leisure": "swimming_pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4546848,
+          52.3507892
+        ]
+      },
+      "id": "node/9521527470"
+    }
+  ]
+}

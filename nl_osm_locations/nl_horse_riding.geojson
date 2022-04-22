@@ -1,0 +1,2868 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-22T07:04:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/90133310",
+        "addr:city": "Amstelveen",
+        "addr:housenumber": "17",
+        "addr:postcode": "1182AC",
+        "addr:street": "Jan Tooropplantsoen",
+        "amenity": "riding_school",
+        "leisure": "horse_riding",
+        "name": "Manege Nieuw Amstelland",
+        "phone": "020 643 2468",
+        "sport": "equestrian",
+        "website": "http://nieuwamstelland.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8552175,
+          52.3227717
+        ]
+      },
+      "id": "node/90133310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/467041845",
+        "leisure": "horse_riding",
+        "sport": "horse_racing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6410138,
+          51.9578065
+        ]
+      },
+      "id": "node/467041845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/933637673",
+        "leisure": "horse_riding",
+        "name": "Hippisch Centrum Zwartewaterruiters",
+        "shop": "manege",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0347558,
+          52.615755
+        ]
+      },
+      "id": "node/933637673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987735523",
+        "addr:city": "Almere",
+        "addr:housenumber": "4",
+        "addr:postcode": "1338GA",
+        "addr:street": "Trekweg",
+        "leisure": "horse_riding",
+        "name": "Almeersch Hippisch Centrum",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2838454,
+          52.3785076
+        ]
+      },
+      "id": "node/987735523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1643590071",
+        "addr:city": "Glimmen",
+        "addr:housenumber": "132",
+        "addr:postcode": "9756AK",
+        "addr:street": "Rijksstraatweg",
+        "contact:email": "info@manegedebongerd.nl",
+        "contact:fax": "+31 50 4063254",
+        "contact:phone": "+31 50 4061454",
+        "leisure": "horse_riding",
+        "name": "Manege De Bongerd",
+        "sport": "equestrian",
+        "website": "https://www.manegedebongerd.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6251708,
+          53.1305834
+        ]
+      },
+      "id": "node/1643590071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1646271759",
+        "description": "Manege De Tempeliers",
+        "leisure": "horse_riding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9475597,
+          52.7730098
+        ]
+      },
+      "id": "node/1646271759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783171624",
+        "addr:city": "Zeijen",
+        "addr:housenumber": "6",
+        "addr:postcode": "9491TH",
+        "addr:street": "Zuiderstraat",
+        "contact:email": "info@rosworld.nl",
+        "contact:phone": "+31 592 612686",
+        "contact:website": "http://www.rosworld.nl/",
+        "leisure": "horse_riding",
+        "name": "Rosworld",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5171831,
+          53.0484456
+        ]
+      },
+      "id": "node/1783171624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1787001649",
+        "leisure": "horse_riding",
+        "name": "Stoeterij Het Swarte Paert",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1291809,
+          53.0330081
+        ]
+      },
+      "id": "node/1787001649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2377321272",
+        "addr:city": "Markelo",
+        "addr:country": "NL",
+        "addr:housenumber": "10",
+        "addr:postcode": "7475SZ",
+        "addr:street": "Enterbroekweg",
+        "leisure": "horse_riding",
+        "name": "Het Lamoen",
+        "website": "http://www.hetlamoen.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5402571,
+          52.2784113
+        ]
+      },
+      "id": "node/2377321272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378466721",
+        "addr:city": "Mariënheem",
+        "addr:country": "NL",
+        "addr:housenumber": "12",
+        "addr:postcode": "8106RK",
+        "addr:street": "Raamsweg",
+        "leisure": "horse_riding",
+        "name": "Manege Bartels",
+        "website": "https://www.manegebartels.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3164409,
+          52.3720946
+        ]
+      },
+      "id": "node/2378466721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395007116",
+        "leisure": "horse_riding",
+        "name": "Manege Hoogvliet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3773933,
+          51.8479816
+        ]
+      },
+      "id": "node/2395007116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2469296304",
+        "addr:city": "Vries",
+        "addr:housenumber": "1",
+        "addr:postcode": "9481AV",
+        "addr:street": "Verlengde Noordenveldweg",
+        "contact:email": "jandolfing@planet.nl",
+        "contact:phone": "+31 592 41301",
+        "contact:website": "http://www.paardensportcentrum.nl/",
+        "leisure": "horse_riding",
+        "name": "Paardensportcentrum Jan Dolfing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5903428,
+          53.0800022
+        ]
+      },
+      "id": "node/2469296304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564756171",
+        "leisure": "horse_riding",
+        "name": "Manege Oosterhoffruiters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5071161,
+          52.299193
+        ]
+      },
+      "id": "node/2564756171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2619685325",
+        "leisure": "horse_riding",
+        "name": "Manege M. Meijer",
+        "website": "http://manegemeijer.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7463024,
+          50.9060765
+        ]
+      },
+      "id": "node/2619685325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2635953158",
+        "addr:city": "Nootdorp",
+        "addr:housenumber": "62",
+        "addr:postcode": "2631PB",
+        "addr:street": "Oudeweg",
+        "leisure": "horse_riding",
+        "name": "Hippisch Centrum Nootdorp",
+        "source": "BAG",
+        "source:date": "2014-01-22",
+        "website": "http://www.hcnkids.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4009982,
+          52.0371583
+        ]
+      },
+      "id": "node/2635953158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2637989474",
+        "addr:city": "IJsselmuiden",
+        "addr:housenumber": "11B",
+        "addr:postcode": "8271PS",
+        "addr:street": "Oosterholtseweg",
+        "leisure": "horse_riding",
+        "name": "Stichting Paardrijden Gehandicapten IJsselmuiden",
+        "source": "BAG",
+        "source:date": "2014-01-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9364655,
+          52.5616665
+        ]
+      },
+      "id": "node/2637989474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2704692683",
+        "addr:city": "Staphorst",
+        "addr:housenumber": "3",
+        "addr:postcode": "7951KZ",
+        "addr:street": "Schuthekkeweg",
+        "leisure": "horse_riding",
+        "name": "Manege RV-Staphorst",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "sport": "equestrian",
+        "surface": "sand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1989412,
+          52.645041
+        ]
+      },
+      "id": "node/2704692683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2708365639",
+        "addr:city": "Leusden",
+        "addr:housenumber": "23",
+        "addr:postcode": "3833LD",
+        "addr:street": "Fokkerstraat",
+        "leisure": "horse_riding",
+        "name": "Manege/Pensionstal De Vier Hoeven",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4163261,
+          52.1457526
+        ]
+      },
+      "id": "node/2708365639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2712749332",
+        "addr:city": "Raalte",
+        "addr:housenumber": "10",
+        "addr:postcode": "8102RN",
+        "addr:street": "Heinoseweg",
+        "leisure": "horse_riding",
+        "name": "Stal 't Reelaer",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2513431,
+          52.4165273
+        ]
+      },
+      "id": "node/2712749332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2713200705",
+        "addr:city": "Leidschendam",
+        "addr:housenumber": "1",
+        "addr:postcode": "2266GL",
+        "addr:street": "Meeslouwerweg",
+        "leisure": "horse_riding",
+        "name": "Four Star Stables",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "http://www.fourstarstables.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4488757,
+          52.1037655
+        ]
+      },
+      "id": "node/2713200705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2724414438",
+        "addr:city": "Urk",
+        "addr:country": "NL",
+        "addr:housenumber": "17",
+        "addr:postcode": "8322NA",
+        "addr:street": "Staartweg",
+        "leisure": "horse_riding",
+        "name": "Orcaruiters",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.orcaruiters.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6159053,
+          52.6709808
+        ]
+      },
+      "id": "node/2724414438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2727503263",
+        "leisure": "horse_riding",
+        "name": "Ruitersport Centrum Lingebos",
+        "website": "https://www.rijvereniginglingebos.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0473783,
+          51.8459087
+        ]
+      },
+      "id": "node/2727503263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2727564087",
+        "addr:city": "Vuren",
+        "addr:housenumber": "3",
+        "addr:postcode": "4214KW",
+        "addr:street": "Molenweg",
+        "email": "info@deroosahoeve.nl",
+        "leisure": "horse_riding",
+        "mobile": "+31 6 2249 1970",
+        "name": "Manage de Roosahoeve",
+        "phone": "+31 183 63 6718",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "http://www.deroosahoeve.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.053475,
+          51.8349395
+        ]
+      },
+      "id": "node/2727564087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731269675",
+        "addr:city": "Hoofddorp",
+        "addr:housenumber": "951",
+        "addr:postcode": "2131LV",
+        "addr:street": "IJweg",
+        "leisure": "horse_riding",
+        "name": "Zorgmanage Stal Starro",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "http://www.zorgmanegehoofddorp.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6766132,
+          52.3227866
+        ]
+      },
+      "id": "node/2731269675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731718164",
+        "addr:city": "'s-Gravenhage",
+        "addr:housenumber": "23",
+        "addr:postcode": "2565AB",
+        "addr:street": "Daal en Bergselaan",
+        "email": "info@manegedewildhoef.nl",
+        "leisure": "horse_riding",
+        "name": "Manege De Wildhoef",
+        "phone": "070-3254330",
+        "source": "BAG;local_knowledge",
+        "source:date": "2014-02-11",
+        "website": "http://manegedewildhoef.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2458653,
+          52.0712935
+        ]
+      },
+      "id": "node/2731718164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731722986",
+        "addr:city": "'s-Gravenhage",
+        "addr:housenumber": "25",
+        "addr:postcode": "2565AB",
+        "addr:street": "Daal en Bergselaan",
+        "description": "Manege van Stichting Paardrijden voor Gehandicapten Den Haag e.o.",
+        "leisure": "horse_riding",
+        "name": "Madurodam Manege",
+        "phone": "070-3686138",
+        "source": "BAG;local_knowledge",
+        "source:date": "2014-02-11",
+        "sport": "equestrian",
+        "website": "http://madurodammanege.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2457932,
+          52.0709531
+        ]
+      },
+      "id": "node/2731722986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731993917",
+        "addr:city": "Bavel",
+        "addr:housenumber": "9",
+        "addr:postcode": "4854PN",
+        "addr:street": "Bavelse Hei",
+        "leisure": "horse_riding",
+        "name": "R.S.C. De Roosberg",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "sport": "equestrian",
+        "website": "https://www.roosberg.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8230408,
+          51.5581812
+        ]
+      },
+      "id": "node/2731993917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2732925283",
+        "addr:city": "Nes",
+        "addr:housenumber": "25",
+        "addr:postcode": "9163KJ",
+        "addr:street": "Bureweg",
+        "contact:phone": "+31 519 542871",
+        "contact:website": "http://www.jutterspad.nl/",
+        "leisure": "horse_riding",
+        "name": "Manege 't Jutterspad",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7841491,
+          53.4475313
+        ]
+      },
+      "id": "node/2732925283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2735598201",
+        "addr:city": "Breda",
+        "addr:housenumber": "372",
+        "addr:postcode": "4834XR",
+        "addr:street": "Overakkerstraat",
+        "email": "info@ruitersportcentrumbreda.nl",
+        "leisure": "horse_riding",
+        "name": "Ruitersportcentrum Breda",
+        "phone": "+31 76 565 36 19",
+        "source": "BAG",
+        "source:date": "2014-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80588,
+          51.5629749
+        ]
+      },
+      "id": "node/2735598201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2739139668",
+        "addr:city": "Teteringen",
+        "addr:housenumber": "118",
+        "addr:postcode": "4847NH",
+        "addr:street": "Hoeveneind",
+        "leisure": "horse_riding",
+        "name": "Stal Hoeveneind",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://www.stalhoeveneind.nl/Homepage/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8229638,
+          51.6274101
+        ]
+      },
+      "id": "node/2739139668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2755597116",
+        "addr:city": "Deventer",
+        "addr:housenumber": "5",
+        "addr:postcode": "7428MB",
+        "addr:street": "Oxerhoflaan",
+        "leisure": "horse_riding",
+        "name": "Marjan's Paardenschool",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "equestrian",
+        "website": "http://www.marjanspaardenschool.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2363975,
+          52.2308281
+        ]
+      },
+      "id": "node/2755597116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2755872770",
+        "addr:city": "Echten",
+        "addr:housenumber": "10a",
+        "addr:postcode": "7932PJ",
+        "addr:street": "Koekangerweg",
+        "leisure": "horse_riding",
+        "name": "Stal A. Zoer",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "horse_racing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3873231,
+          52.7133074
+        ]
+      },
+      "id": "node/2755872770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2756817900",
+        "addr:city": "Kerkwijk",
+        "addr:housenumber": "1",
+        "addr:postcode": "5315NZ",
+        "addr:street": "Jan Stuversdreef",
+        "email": "info@hcbkerkwijk.nl",
+        "leisure": "horse_riding",
+        "name": "Hippisch Centrum Bommelerwaard",
+        "phone": "+31 418 56 1523",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "equestrian",
+        "website": "https://www.hcbkerkwijk.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1992081,
+          51.7882546
+        ]
+      },
+      "id": "node/2756817900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2760530233",
+        "addr:city": "Berlicum",
+        "addr:housenumber": "6",
+        "addr:postcode": "5258TJ",
+        "addr:street": "Laar",
+        "leisure": "horse_riding",
+        "name": "De Schutskooi",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4155645,
+          51.672268
+        ]
+      },
+      "id": "node/2760530233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2765982999",
+        "addr:city": "Oud Gastel",
+        "addr:housenumber": "76a",
+        "addr:postcode": "4751RD",
+        "addr:street": "Roosendaalsebaan",
+        "leisure": "horse_riding",
+        "name": "Manege Piaffe",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4615155,
+          51.5767011
+        ]
+      },
+      "id": "node/2765982999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2769007087",
+        "addr:city": "Arnhem",
+        "addr:housenumber": "12",
+        "addr:postcode": "6816VS",
+        "addr:street": "Wekeromseweg",
+        "leisure": "horse_riding",
+        "name": "Bio Manege",
+        "operator": "Nationaal centrum Paardrijden voor Gehandicapten",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8284039,
+          52.0154378
+        ]
+      },
+      "id": "node/2769007087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2781425428",
+        "addr:city": "Amstelveen",
+        "addr:housenumber": "25",
+        "addr:postcode": "1182AA",
+        "addr:street": "Nieuwe Kalfjeslaan",
+        "leisure": "horse_riding",
+        "name": "De Amsterdamse Manege",
+        "phone": "+3120 643 1342",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8419096,
+          52.317837
+        ]
+      },
+      "id": "node/2781425428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782212517",
+        "access": "customers",
+        "addr:city": "Hengelo",
+        "addr:housenumber": "10A",
+        "addr:postcode": "7558PZ",
+        "addr:street": "Pentropsdijk",
+        "leisure": "horse_riding",
+        "name": "Stal Meenderink",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8276223,
+          52.2730279
+        ]
+      },
+      "id": "node/2782212517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782755248",
+        "addr:city": "Hengelo",
+        "addr:housenumber": "18",
+        "addr:postcode": "7559PR",
+        "addr:street": "Slangenbeekweg",
+        "leisure": "horse_riding",
+        "name": "Het Slangenbeek",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://manegehetslangenbeek.webnode.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8055474,
+          52.2994941
+        ]
+      },
+      "id": "node/2782755248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2783007984",
+        "addr:city": "Hengelo",
+        "addr:housenumber": "69",
+        "addr:postcode": "7556KA",
+        "addr:street": "Dijksweg",
+        "email": "secretaris@stichtingdekapberg.nl",
+        "leisure": "horse_riding",
+        "name": "Stichting \"De Kapberg\"",
+        "operator": "Stichting de Kapberg",
+        "phone": "+31 (0)74 2500727",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.stichtingdekapberg.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7846716,
+          52.287277
+        ]
+      },
+      "id": "node/2783007984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2787756169",
+        "addr:city": "Capelle aan den IJssel",
+        "addr:housenumber": "153",
+        "addr:postcode": "2907LE",
+        "addr:street": "Bermweg",
+        "amenity": "animal_training",
+        "leisure": "horse_riding",
+        "name": "Capelse Manege",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://www.capelsemanege.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5930594,
+          51.9453796
+        ]
+      },
+      "id": "node/2787756169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788549145",
+        "addr:city": "Markelo",
+        "addr:housenumber": "1b",
+        "addr:postcode": "7475RV",
+        "addr:street": "Borkeldweg",
+        "leisure": "horse_riding",
+        "name": "Manege Snorrewind",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4618533,
+          52.2622056
+        ]
+      },
+      "id": "node/2788549145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2790302607",
+        "addr:city": "Vaals",
+        "addr:housenumber": "5a",
+        "addr:postcode": "6291NG",
+        "addr:street": "Schuttebergsweg",
+        "leisure": "horse_riding",
+        "name": "Paardenpensionstalling Radermacher",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.000654,
+          50.7635322
+        ]
+      },
+      "id": "node/2790302607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798635358",
+        "addr:city": "Kollum",
+        "addr:housenumber": "5",
+        "addr:postcode": "9291NA",
+        "addr:street": "Jumaweg",
+        "leisure": "horse_riding",
+        "name": "De Maartenruiters",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://www.maartenruiters.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1600271,
+          53.28614
+        ]
+      },
+      "id": "node/2798635358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2799383441",
+        "addr:city": "Amstelveen",
+        "addr:housenumber": "1B",
+        "addr:street": "Middenweg BP",
+        "leisure": "horse_riding",
+        "name": "Middenhoeve",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.849432,
+          52.2499675
+        ]
+      },
+      "id": "node/2799383441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2803120376",
+        "addr:city": "Hoogenweg",
+        "addr:housenumber": "52",
+        "addr:postcode": "7793HM",
+        "addr:street": "Hoogenweg",
+        "leisure": "horse_riding",
+        "name": "Manege Hoogenweg",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6682055,
+          52.5653374
+        ]
+      },
+      "id": "node/2803120376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2803446082",
+        "addr:city": "Maarn",
+        "addr:housenumber": "1",
+        "addr:postcode": "3951KE",
+        "addr:street": "Dwarsweg",
+        "leisure": "horse_riding",
+        "name": "Ruitersportcentrum Henschoten",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3899764,
+          52.0747086
+        ]
+      },
+      "id": "node/2803446082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2809882472",
+        "addr:city": "Ulrum",
+        "addr:housenumber": "24A",
+        "addr:postcode": "9971CT",
+        "addr:street": "Trekweg",
+        "leisure": "horse_riding",
+        "name": "Manege Winnetou",
+        "source": "BAG",
+        "source:date": "2021-08-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3344189,
+          53.3550029
+        ]
+      },
+      "id": "node/2809882472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2815562000",
+        "addr:city": "Heel",
+        "addr:housenumber": "97",
+        "addr:postcode": "6097AE",
+        "addr:street": "Monseigneur Savelbergweg",
+        "leisure": "horse_riding",
+        "name": "Arces Stables",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8973884,
+          51.1716801
+        ]
+      },
+      "id": "node/2815562000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2815638902",
+        "addr:city": "Hooge Mierde",
+        "addr:housenumber": "2a",
+        "addr:postcode": "5095EC",
+        "addr:street": "Weeldsedijk",
+        "leisure": "horse_riding",
+        "name": "Hippo Sofia Academie",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.hipposofia.education/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1183632,
+          51.4000332
+        ]
+      },
+      "id": "node/2815638902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2820859373",
+        "addr:city": "Biggekerke",
+        "addr:housenumber": "12",
+        "addr:postcode": "4373RE",
+        "addr:street": "Koudekerkseweg",
+        "leisure": "horse_riding",
+        "name": "De IJslander",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5324452,
+          51.4905767
+        ]
+      },
+      "id": "node/2820859373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2821795883",
+        "addr:city": "Bodegraven",
+        "addr:housenumber": "96b",
+        "addr:postcode": "2411RD",
+        "addr:street": "Noordzijde",
+        "leisure": "horse_riding",
+        "name": "Hippisch Centrum Bodegraven",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "equestrian",
+        "website": "https://manegehcb.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7625366,
+          52.0824045
+        ]
+      },
+      "id": "node/2821795883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826053651",
+        "addr:city": "Oldenzaal",
+        "addr:housenumber": "20",
+        "addr:postcode": "7576PE",
+        "addr:street": "Oude Almeloseweg",
+        "email": "manege.trc@xs4all.nl",
+        "leisure": "horse_riding",
+        "name": "Twents Ruitercentrum \"Het Hulsbeek\"",
+        "phone": "+31 (0)541 512440",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8825764,
+          52.3073174
+        ]
+      },
+      "id": "node/2826053651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826095390",
+        "addr:city": "Oirschot",
+        "addr:housenumber": "2",
+        "addr:postcode": "5688GV",
+        "addr:street": "Oerlesedijk",
+        "leisure": "horse_riding",
+        "name": "Breidablik",
+        "operator": "Breidablik",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://breidablik.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260069,
+          51.491062
+        ]
+      },
+      "id": "node/2826095390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828718905",
+        "addr:city": "Bergeijk",
+        "addr:housenumber": "29",
+        "addr:postcode": "5571TR",
+        "addr:street": "Burgemeester Aartslaan",
+        "leisure": "horse_riding",
+        "name": "Stal Tilburgs",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.staltilburgs.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3744081,
+          51.3060337
+        ]
+      },
+      "id": "node/2828718905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829532842",
+        "addr:city": "Sliedrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3364AK",
+        "addr:street": "Parallelweg",
+        "leisure": "horse_riding",
+        "name": "Stoeterij Black Horses",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7803557,
+          51.8299768
+        ]
+      },
+      "id": "node/2829532842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2831241433",
+        "addr:city": "Holwierde",
+        "addr:housenumber": "38A",
+        "addr:postcode": "9905PD",
+        "addr:street": "Hoofdweg",
+        "leisure": "horse_riding",
+        "name": "Voltigevereniging De Eemsrakkers",
+        "phone": "+31 596 626671",
+        "source": "BAG;local knowledge",
+        "source:date": "2014-03-24",
+        "website": "https://eemsrakkers.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8710051,
+          53.3606486
+        ]
+      },
+      "id": "node/2831241433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2831381460",
+        "addr:city": "Aduard",
+        "addr:housenumber": "52",
+        "addr:postcode": "9831TD",
+        "addr:street": "Friesestraatweg",
+        "contact:facebook": "https://www.facebook.com/Osseweide",
+        "leisure": "horse_riding",
+        "name": "Pensionstalling de Osseweide",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.430876,
+          53.2474942
+        ]
+      },
+      "id": "node/2831381460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836753839",
+        "addr:city": "Kaatsheuvel",
+        "addr:housenumber": "36A",
+        "addr:postcode": "5171RC",
+        "addr:street": "van Haestrechtstraat",
+        "leisure": "horse_riding",
+        "name": "Manege Pullens",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0646077,
+          51.6615024
+        ]
+      },
+      "id": "node/2836753839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846558418",
+        "addr:city": "Stuifzand",
+        "addr:housenumber": "59a",
+        "addr:postcode": "7934PN",
+        "addr:street": "Stuifzandseweg",
+        "leisure": "horse_riding",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4952392,
+          52.7448484
+        ]
+      },
+      "id": "node/2846558418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2851587194",
+        "addr:city": "Gasselte",
+        "addr:housenumber": "19a",
+        "addr:postcode": "9462PN",
+        "addr:street": "Lutkenend",
+        "leisure": "horse_riding",
+        "name": "Manege Gasselte",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.manege-gasselte.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7816393,
+          52.9715978
+        ]
+      },
+      "id": "node/2851587194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2853754950",
+        "addr:city": "Den Hout",
+        "addr:housenumber": "9",
+        "addr:postcode": "4911BW",
+        "addr:street": "Terheijdensspoor",
+        "leisure": "horse_riding",
+        "name": "Van Olst Horses",
+        "phone": "+31(0) 162 429 360",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.vanolsthorses.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8062394,
+          51.6472433
+        ]
+      },
+      "id": "node/2853754950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2856890296",
+        "addr:city": "Katwijk",
+        "addr:housenumber": "7",
+        "addr:postcode": "2221BL",
+        "addr:street": "Noordduinseweg",
+        "leisure": "horse_riding",
+        "name": "Manege Jonker",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4043766,
+          52.2122023
+        ]
+      },
+      "id": "node/2856890296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2860110334",
+        "addr:city": "Weesp",
+        "addr:housenumber": "3",
+        "addr:postcode": "1381HH",
+        "addr:street": "'s-Gravelandseweg",
+        "email": "admin@manegebleijenberg.nl",
+        "leisure": "horse_riding",
+        "name": "Manege Bleijenberg",
+        "phone": "+31 294 41 60 05",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.manegebleijenberg.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0496866,
+          52.3079647
+        ]
+      },
+      "id": "node/2860110334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2860265371",
+        "addr:city": "Boekel",
+        "addr:housenumber": "5",
+        "addr:postcode": "5427HB",
+        "addr:street": "Statenweg",
+        "leisure": "horse_riding",
+        "name": "Manege Rutger Van Herpen",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "http://www.rutgervanherpenruiters.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6933327,
+          51.6039627
+        ]
+      },
+      "id": "node/2860265371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2865417944",
+        "addr:city": "Gilze",
+        "addr:housenumber": "20",
+        "addr:postcode": "5126NS",
+        "addr:street": "Nieuwe Maastrichtsebaan",
+        "leisure": "horse_riding",
+        "name": "Geerts Gilze Mentuin",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.geertsgilze.nl/mentuin.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9321605,
+          51.5183239
+        ]
+      },
+      "id": "node/2865417944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2865419575",
+        "addr:city": "Molenschot",
+        "addr:housenumber": "30",
+        "addr:postcode": "5124NJ",
+        "addr:street": "Broekstraat",
+        "leisure": "horse_riding",
+        "name": "Manege Molenschot",
+        "phone": "+31 161 850 158",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "https://www.manegemolenschot.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8863162,
+          51.5735489
+        ]
+      },
+      "id": "node/2865419575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2865609552",
+        "addr:city": "Loosdrecht",
+        "addr:housenumber": "42",
+        "addr:postcode": "1231KZ",
+        "addr:street": "Nieuw-Loosdrechtsedijk",
+        "leisure": "horse_riding",
+        "name": "Stal Hilverzicht",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1338942,
+          52.1998231
+        ]
+      },
+      "id": "node/2865609552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2865675631",
+        "addr:city": "Loosdrecht",
+        "addr:housenumber": "133",
+        "addr:postcode": "1231KR",
+        "addr:street": "Nieuw-Loosdrechtsedijk",
+        "leisure": "horse_riding",
+        "name": "Manege en Dressuurstal Hallinckveld",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1250311,
+          52.1938171
+        ]
+      },
+      "id": "node/2865675631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2869339259",
+        "addr:city": "Dorst",
+        "addr:housenumber": "55",
+        "addr:postcode": "4849RD",
+        "addr:street": "Steenovensebaan",
+        "leisure": "horse_riding",
+        "name": "Stal van Gils",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "website": "http://www.stalvangils.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9175086,
+          51.6075722
+        ]
+      },
+      "id": "node/2869339259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2872550179",
+        "addr:city": "Alphen aan den Rijn",
+        "addr:housenumber": "42",
+        "addr:postcode": "2401LP",
+        "addr:street": "Gnephoek",
+        "contact:phone": "+31 (06) 419 18 285",
+        "leisure": "horse_riding",
+        "name": "Lone star western stable",
+        "source": "BAG",
+        "source:date": "2014-05-20",
+        "website": "http://www.lonestar-westernstable.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6316942,
+          52.1402099
+        ]
+      },
+      "id": "node/2872550179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2872689020",
+        "foot": "yes",
+        "horse": "yes",
+        "leisure": "horse_riding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.843575,
+          52.3178127
+        ]
+      },
+      "id": "node/2872689020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2878294994",
+        "leisure": "horse_riding",
+        "name": "Manege Belvedere",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8029614,
+          52.3753227
+        ]
+      },
+      "id": "node/2878294994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2878362555",
+        "addr:city": "Hilversum",
+        "addr:housenumber": "117",
+        "addr:postcode": "1213RM",
+        "addr:street": "Rading",
+        "leisure": "horse_riding",
+        "name": "Manege De Kamphorst",
+        "source": "BAG",
+        "source:date": "2014-05-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1463324,
+          52.1966306
+        ]
+      },
+      "id": "node/2878362555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2878362562",
+        "addr:city": "Hilversum",
+        "addr:housenumber": "125",
+        "addr:postcode": "1213RM",
+        "addr:street": "Rading",
+        "leisure": "horse_riding",
+        "name": "Hilversumse Ponyclub",
+        "source": "BAG",
+        "source:date": "2014-05-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1471638,
+          52.1958345
+        ]
+      },
+      "id": "node/2878362562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2881017969",
+        "addr:city": "Wijdewormer",
+        "addr:housenumber": "72",
+        "addr:postcode": "1456NH",
+        "addr:street": "Zuiderweg",
+        "leisure": "horse_riding",
+        "name": "Western Stables",
+        "phone": "+31 756351171",
+        "source": "BAG",
+        "source:date": "2014-05-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8519084,
+          52.4744523
+        ]
+      },
+      "id": "node/2881017969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2886740068",
+        "addr:city": "Wormerveer",
+        "addr:housenumber": "16",
+        "addr:postcode": "1521JS",
+        "addr:street": "De Noordsterweg",
+        "leisure": "horse_riding",
+        "name": "Zaanse Ruiters",
+        "source": "BAG",
+        "source:date": "2014-05-28",
+        "website": "https://zaanseruiters.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7787683,
+          52.5004275
+        ]
+      },
+      "id": "node/2886740068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2891657034",
+        "addr:city": "Ermelo",
+        "addr:housenumber": "8",
+        "addr:postcode": "3852AM",
+        "addr:street": "Fazantlaan",
+        "leisure": "horse_riding",
+        "name": "Paardensportvereniging Het Veluws Ros",
+        "source": "BAG",
+        "source:date": "2014-05-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6318572,
+          52.313985
+        ]
+      },
+      "id": "node/2891657034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2891724454",
+        "addr:city": "Assendelft",
+        "addr:housenumber": "24A-1",
+        "addr:postcode": "1566PN",
+        "addr:street": "Vaartdijk",
+        "leisure": "horse_riding",
+        "name": "Stal Mulder",
+        "source": "BAG",
+        "source:date": "2014-05-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.767952,
+          52.4735795
+        ]
+      },
+      "id": "node/2891724454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2904571191",
+        "addr:city": "Ter Apel",
+        "addr:housenumber": "45",
+        "addr:postcode": "9561CS",
+        "addr:street": "Heembadweg",
+        "leisure": "horse_riding",
+        "name": "Manege De Kraalhoeve",
+        "source": "BAG",
+        "source:date": "2014-06-07",
+        "website": "http://pvdekloosterruiters.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0697595,
+          52.8846625
+        ]
+      },
+      "id": "node/2904571191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2927817939",
+        "addr:city": "Beetsterzwaag",
+        "addr:housenumber": "4",
+        "addr:postcode": "9244GH",
+        "addr:street": "Helomareed",
+        "leisure": "horse_riding",
+        "name": "Onder De Linde",
+        "operator": "Revalidatie Friesland",
+        "source": "BAG",
+        "source:date": "2014-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0724552,
+          53.0612994
+        ]
+      },
+      "id": "node/2927817939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964526667",
+        "addr:city": "Wjelsryp",
+        "addr:housenumber": "29A",
+        "addr:postcode": "8842LA",
+        "addr:street": "Westerein",
+        "leisure": "horse_riding",
+        "name": "De Welle",
+        "source": "BAG",
+        "source:date": "2014-07-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5908808,
+          53.1634245
+        ]
+      },
+      "id": "node/2964526667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2998218340",
+        "addr:city": "Heumen",
+        "addr:housenumber": "52",
+        "addr:postcode": "6582BR",
+        "addr:street": "Vosseneindseweg",
+        "leisure": "horse_riding",
+        "name": "Manege De Veerkracht",
+        "source": "BAG",
+        "source:date": "2014-08-05",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8147262,
+          51.7717495
+        ]
+      },
+      "id": "node/2998218340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3004612709",
+        "access": "customers",
+        "addr:city": "De Bilt",
+        "addr:housenumber": "4",
+        "addr:postcode": "3732HT",
+        "addr:street": "Noordweg",
+        "leisure": "horse_riding",
+        "name": "Stal Écurie de la Fontaine",
+        "source": "BAG",
+        "source:date": "2014-08-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2080778,
+          52.0939523
+        ]
+      },
+      "id": "node/3004612709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3006389086",
+        "addr:city": "Odiliapeel",
+        "addr:housenumber": "2A",
+        "addr:postcode": "5409AE",
+        "addr:street": "Koolmeesstraat",
+        "leisure": "horse_riding",
+        "source": "BAG",
+        "source:date": "2014-08-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6989776,
+          51.6461544
+        ]
+      },
+      "id": "node/3006389086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014036163",
+        "access": "customers",
+        "addr:city": "Wageningen",
+        "addr:housenumber": "269",
+        "addr:postcode": "6704AN",
+        "addr:street": "Grintweg",
+        "leisure": "horse_riding",
+        "name": "Stal Eikelboom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6757272,
+          51.9853894
+        ]
+      },
+      "id": "node/3014036163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3016955210",
+        "access": "permissive",
+        "addr:city": "Heteren",
+        "addr:housenumber": "5",
+        "addr:postcode": "6666AE",
+        "addr:street": "Dorpsstraat",
+        "leisure": "horse_riding",
+        "name": "Manege De Fruithof",
+        "source": "BAG",
+        "source:date": "2014-08-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7633544,
+          51.9603837
+        ]
+      },
+      "id": "node/3016955210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3063124531",
+        "addr:city": "Franeker",
+        "addr:housenumber": "80D",
+        "addr:postcode": "8801PD",
+        "addr:street": "Harlingerweg",
+        "leisure": "horse_riding",
+        "name": "'t Spant",
+        "source": "BAG",
+        "source:date": "2014-09-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5132849,
+          53.1859751
+        ]
+      },
+      "id": "node/3063124531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3065861074",
+        "addr:city": "Peins",
+        "addr:housenumber": "7",
+        "addr:postcode": "8812JN",
+        "addr:street": "Zweinserweg",
+        "leisure": "horse_riding",
+        "name": "Mady's Pony Paradijs",
+        "source": "BAG",
+        "source:date": "2014-09-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5928175,
+          53.2034859
+        ]
+      },
+      "id": "node/3065861074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3065997187",
+        "addr:city": "Firdgum",
+        "addr:housenumber": "8",
+        "addr:postcode": "8852RH",
+        "addr:street": "Camstrawei",
+        "leisure": "horse_riding",
+        "name": "Jelgersmahiem",
+        "source": "BAG",
+        "source:date": "2014-09-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5624568,
+          53.2488122
+        ]
+      },
+      "id": "node/3065997187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3069063500",
+        "addr:city": "Minnertsga",
+        "addr:housenumber": "6",
+        "addr:postcode": "9047VA",
+        "addr:street": "Hearewei",
+        "leisure": "horse_riding",
+        "name": "Klein Hermana",
+        "source": "BAG",
+        "source:date": "2014-09-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5905488,
+          53.2577961
+        ]
+      },
+      "id": "node/3069063500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3069287148",
+        "addr:city": "Vrouwenparochie",
+        "addr:housenumber": "5",
+        "addr:postcode": "9077SW",
+        "addr:street": "Vrouwbuurtstermolen",
+        "leisure": "horse_riding",
+        "name": "Molenrúters",
+        "source": "BAG",
+        "source:date": "2014-09-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7206379,
+          53.2802398
+        ]
+      },
+      "id": "node/3069287148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3244977147",
+        "addr:city": "Putten",
+        "addr:housenumber": "2",
+        "addr:postcode": "3881NJ",
+        "addr:street": "Wildforsterweg",
+        "leisure": "horse_riding",
+        "name": "Human Horse Power (HHP)",
+        "sport": "equestrian",
+        "website": "https://humanhorsepower.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.655889,
+          52.2336935
+        ]
+      },
+      "id": "node/3244977147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351852574",
+        "addr:city": "Amstelveen",
+        "addr:housenumber": "49A",
+        "addr:postcode": "1183TA",
+        "addr:street": "Kalfjeslaan",
+        "leisure": "horse_riding",
+        "name": "Equito",
+        "website": "http://equito.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8936425,
+          52.3212262
+        ]
+      },
+      "id": "node/3351852574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3517352828",
+        "addr:city": "De Mortel",
+        "addr:housenumber": "65",
+        "addr:postcode": "5425RD",
+        "addr:street": "Breemhorstsedijk",
+        "leisure": "horse_riding",
+        "name": "Recreatiecentrum Het Zwarte Water",
+        "note": "Manege, groepsaccommodatie, chalets, camping",
+        "phone": "+31 492 319 292",
+        "sport": "equestrian",
+        "tourism": "camp_site",
+        "website": "https://www.hetzwartewater.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7438434,
+          51.5547084
+        ]
+      },
+      "id": "node/3517352828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3836825047",
+        "fee": "no",
+        "leisure": "horse_riding",
+        "name": "Barnhoeve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4332147,
+          52.2457234
+        ]
+      },
+      "id": "node/3836825047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999392116",
+        "leisure": "horse_riding",
+        "name": "Nijboer Stables",
+        "website": "http://www.nijboerstables.nl/pages/nederlands/welkom.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5002028,
+          52.993342
+        ]
+      },
+      "id": "node/3999392116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4101511262",
+        "leisure": "horse_riding",
+        "name": "Klein Heiligenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4148986,
+          52.1389845
+        ]
+      },
+      "id": "node/4101511262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4221216789",
+        "contact:website": "http://themillranch.nl/index.php/the-mill-ranch-route-en-contact/",
+        "leisure": "horse_riding",
+        "name": "The Mill Ranch",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://themillranch.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6960353,
+          52.0707094
+        ]
+      },
+      "id": "node/4221216789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4238107301",
+        "leisure": "horse_riding",
+        "name": "Manege De Wending"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0143965,
+          52.8988932
+        ]
+      },
+      "id": "node/4238107301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4417698683",
+        "addr:city": "Yerseke",
+        "addr:housenumber": "1",
+        "addr:postcode": "4401ND",
+        "addr:street": "Molhoekseweg",
+        "leisure": "horse_riding",
+        "name": "Stichting op je gemak",
+        "source": "BAG",
+        "source:date": "2016-09-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.041026,
+          51.483054
+        ]
+      },
+      "id": "node/4417698683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427996923",
+        "addr:city": "Stad aan 't Haringvliet",
+        "addr:housenumber": "2a",
+        "addr:postcode": "3243LE",
+        "addr:street": "Oostmoersedijk",
+        "leisure": "horse_riding",
+        "name": "Manege Oostmoer",
+        "website": "https://www.manegeoostmoer.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2238556,
+          51.7287526
+        ]
+      },
+      "id": "node/4427996923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4525029228",
+        "leisure": "horse_riding",
+        "name": "Manege De Vijf Eiken",
+        "sport": "equestrian",
+        "website": "http://www.devijfeiken.nl/manege/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90157,
+          51.5880876
+        ]
+      },
+      "id": "node/4525029228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4587024637",
+        "leisure": "horse_riding",
+        "name": "Randhoeve",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6837609,
+          51.7729287
+        ]
+      },
+      "id": "node/4587024637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4587024638",
+        "leisure": "horse_riding",
+        "name": "Hippisch Centrum Beerwijkhoeve",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6856389,
+          51.7723274
+        ]
+      },
+      "id": "node/4587024638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4594303490",
+        "access": "yes",
+        "leisure": "horse_riding",
+        "name": "Manege El Sham",
+        "name:nl": "Manege El Sham",
+        "website": "https://www.manege-el-sham.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1905133,
+          52.0312083
+        ]
+      },
+      "id": "node/4594303490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4677378488",
+        "leisure": "horse_riding",
+        "name": "Manege Ludanchelo",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2592413,
+          52.9184548
+        ]
+      },
+      "id": "node/4677378488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699749730",
+        "leisure": "horse_riding",
+        "name": "Gouden Adelaar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3632198,
+          52.2340088
+        ]
+      },
+      "id": "node/4699749730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4751295692",
+        "leisure": "horse_riding",
+        "name": "Groenendaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3898525,
+          52.2094608
+        ]
+      },
+      "id": "node/4751295692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4816594580",
+        "addr:city": "Sliedrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3364BC",
+        "addr:street": "Kweldamweg",
+        "leisure": "horse_riding",
+        "name": "Stoeterij Black Horses",
+        "source": "BAG",
+        "source:date": "2017-04-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7894508,
+          51.83427
+        ]
+      },
+      "id": "node/4816594580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894298929",
+        "leisure": "horse_riding",
+        "name": "PSV de Stuwruiters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1158736,
+          51.9795537
+        ]
+      },
+      "id": "node/4894298929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4906649757",
+        "addr:city": "Bergschenhoek",
+        "addr:housenumber": "135",
+        "addr:postcode": "2661CS",
+        "addr:street": "Bergweg-zuid",
+        "email": "info@manegelansbergen.nl",
+        "fee": "yes",
+        "leisure": "horse_riding",
+        "name": "Manege Lansbergen",
+        "phone": "+31 10 524 0504",
+        "website": "http://www.manegelansbergen.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4986659,
+          51.9769309
+        ]
+      },
+      "id": "node/4906649757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175373422",
+        "addr:city": "Neer",
+        "addr:housenumber": "4a",
+        "addr:street": "Ligteveld",
+        "leisure": "horse_riding",
+        "name": "L.R.V. de Neer / P.C. Neer",
+        "operator": "L.R.V. de Neer / P.C. Neer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9980707,
+          51.2658109
+        ]
+      },
+      "id": "node/5175373422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5254279809",
+        "leisure": "horse_riding",
+        "name": "Rigoletto Manege",
+        "website": "http://www.rigolettomanege.nl/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6481915,
+          53.2205796
+        ]
+      },
+      "id": "node/5254279809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5254301947",
+        "leisure": "horse_riding",
+        "name": "Martini Manege",
+        "website": "http://www.martinimanege.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6447923,
+          53.2579893
+        ]
+      },
+      "id": "node/5254301947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5254301948",
+        "leisure": "horse_riding",
+        "name": "Manege De Oude Held",
+        "website": "http://www.manegedeoudeheld.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5183273,
+          53.2279943
+        ]
+      },
+      "id": "node/5254301948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5345143621",
+        "leisure": "horse_riding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2258102,
+          52.6947891
+        ]
+      },
+      "id": "node/5345143621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5360526992",
+        "leisure": "horse_riding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7494374,
+          51.9951304
+        ]
+      },
+      "id": "node/5360526992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5489452480",
+        "addr:city": "Dorst",
+        "addr:housenumber": "11A",
+        "addr:postcode": "4849PR",
+        "addr:street": "Bavelstraat",
+        "leisure": "horse_riding",
+        "name": "De Rosrakkers Manege Paardenstal",
+        "phone": "+31 6 551 355 54",
+        "source": "BAG",
+        "source:date": "2018-03-08",
+        "website": "https://manegederosrakkers.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8567982,
+          51.5879537
+        ]
+      },
+      "id": "node/5489452480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5519001716",
+        "leisure": "horse_riding",
+        "name": "Reiterhof",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa,Su 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9975905,
+          51.6708511
+        ]
+      },
+      "id": "node/5519001716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5571128048",
+        "leisure": "horse_riding",
+        "name": "Stal Nobel",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6616681,
+          51.9018346
+        ]
+      },
+      "id": "node/5571128048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5630791377",
+        "leisure": "horse_riding",
+        "name": "Paardenpension De Raakeindse Hoeve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8981021,
+          51.5501932
+        ]
+      },
+      "id": "node/5630791377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5630795327",
+        "leisure": "horse_riding",
+        "name": "Paardenpension De Zwing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8947102,
+          51.5444017
+        ]
+      },
+      "id": "node/5630795327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5741134290",
+        "description": "manege",
+        "leisure": "horse_riding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6706284,
+          52.365768
+        ]
+      },
+      "id": "node/5741134290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749610876",
+        "leisure": "horse_riding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3393998,
+          52.3811886
+        ]
+      },
+      "id": "node/5749610876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6107588754",
+        "leisure": "horse_riding",
+        "name": "Papendrechtse Ruiter Club",
+        "phone": "+31 78 615 5616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7056759,
+          51.8332822
+        ]
+      },
+      "id": "node/6107588754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6374358206",
+        "leisure": "horse_riding",
+        "name": "Manege De Paardenhoeve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3129579,
+          51.5238207
+        ]
+      },
+      "id": "node/6374358206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6584686822",
+        "addr:city": "Delft",
+        "addr:housenumber": "191",
+        "addr:postcode": "2629HD",
+        "addr:street": "Rotterdamseweg",
+        "leisure": "horse_riding",
+        "name": "Prometheus Ruitersport",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3792208,
+          51.9827446
+        ]
+      },
+      "id": "node/6584686822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6652604243",
+        "addr:city": "Dreischor",
+        "addr:housenumber": "2",
+        "addr:street": "Zuid Langeweg",
+        "leisure": "horse_riding",
+        "name": "Manege Balans",
+        "phone": "+31 111 481968",
+        "sport": "equestrian",
+        "website": "https://www.manegebalans.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9789254,
+          51.6929533
+        ]
+      },
+      "id": "node/6652604243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7129461676",
+        "leisure": "horse_riding",
+        "name": "Fok- en opfok bedrijf Haikens en Haikens-Stiekema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6976374,
+          52.9533586
+        ]
+      },
+      "id": "node/7129461676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7194059868",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "6",
+        "addr:postcode": "1066EZ",
+        "addr:street": "Akersluis",
+        "leisure": "horse_riding",
+        "name": "Mandy's Pony Plezier",
+        "phone": "00620609773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7937886,
+          52.3427289
+        ]
+      },
+      "id": "node/7194059868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7196688988",
+        "leisure": "horse_riding",
+        "name": "Stal Groenewoude",
+        "sport": "equestrian",
+        "surface": "sand",
+        "website": "http://stalgroenewoude.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6092341,
+          52.091954
+        ]
+      },
+      "id": "node/7196688988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7283551283",
+        "addr:city": "Gendringen",
+        "addr:housenumber": "4A",
+        "addr:postcode": "7081AA",
+        "addr:street": "Ulftseweg",
+        "leisure": "horse_riding",
+        "name": "Paardensportcentrum Diekshuus",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3861955,
+          51.8738947
+        ]
+      },
+      "id": "node/7283551283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7453069949",
+        "leisure": "horse_riding",
+        "name": "Hippisch Centrum Zeegersloot",
+        "sport": "equestrian",
+        "website": "http://hippischcentrumzeegersloot.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7025415,
+          52.1480534
+        ]
+      },
+      "id": "node/7453069949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8192146850",
+        "leisure": "horse_riding",
+        "name": "No Limits Sables"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4763701,
+          52.263115
+        ]
+      },
+      "id": "node/8192146850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8586932566",
+        "leisure": "horse_riding",
+        "name": "Stal Schrotenboer",
+        "sport": "equestrian",
+        "website": "https://www.stalschrotenboer.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1435072,
+          52.7191375
+        ]
+      },
+      "id": "node/8586932566"
+    }
+  ]
+}

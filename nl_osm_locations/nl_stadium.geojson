@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-22T06:59:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737084168",
+        "leisure": "stadium",
+        "name": "Pieter van den Hoogenband Zwemstadion",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.478038,
+          51.4146507
+        ]
+      },
+      "id": "node/2737084168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2776714378",
+        "leisure": "stadium",
+        "name": "Korfbalvereniging SKF",
+        "sport": "korfball",
+        "website": "https://www.skfkorfbal.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5655904,
+          52.0159435
+        ]
+      },
+      "id": "node/2776714378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2831611438",
+        "addr:city": "Diemen",
+        "addr:housenumber": "9",
+        "addr:postcode": "1111PX",
+        "addr:street": "Sportlaan",
+        "leisure": "stadium",
+        "name": "HC Diemen",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "field_hockey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9762892,
+          52.3385184
+        ]
+      },
+      "id": "node/2831611438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548258409",
+        "addr:city": "Alkmaar",
+        "addr:housenumber": "4",
+        "addr:postcode": "1815LV",
+        "addr:street": "Koning Willem-Alexanderlaan",
+        "leisure": "stadium",
+        "leisure_1": "track",
+        "name": "Drafcentrum Alkmaar",
+        "sport": "horse_racing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7323061,
+          52.6218
+        ]
+      },
+      "id": "node/4548258409"
+    }
+  ]
+}

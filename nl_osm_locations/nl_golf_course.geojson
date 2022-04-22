@@ -1,0 +1,346 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-22T07:07:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984983577",
+        "description": "9 hole Par 31",
+        "golf:course": "9_hole",
+        "golf:par": "31",
+        "leisure": "golf_course",
+        "name": "Golfbaan Sloten",
+        "phone": "+31 20 6 142 402",
+        "sport": "golf",
+        "url": "http://www.golfbaansloten.nl",
+        "website": "https://www.golfbaansloten.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8063051,
+          52.3393195
+        ]
+      },
+      "id": "node/984983577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1152070694",
+        "leisure": "golf_course",
+        "name": "Old Quarry Curacao",
+        "operator": "Santa Barbara Beach & Golf Resort",
+        "website": "https://oldquarrygolfcuracao.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8499249,
+          12.0636217
+        ]
+      },
+      "id": "node/1152070694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1195428932",
+        "leisure": "golf_course",
+        "name": "Golfbaan Crayestein",
+        "website": "https://www.crayesteingolf.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7449522,
+          51.8170888
+        ]
+      },
+      "id": "node/1195428932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1397144541",
+        "leisure": "golf_course",
+        "name": "Golfbaan Welschap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4226337,
+          51.4482356
+        ]
+      },
+      "id": "node/1397144541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799297013",
+        "leisure": "golf_course",
+        "name": "AMVJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8849822,
+          52.3205187
+        ]
+      },
+      "id": "node/1799297013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2458588229",
+        "leisure": "golf_course",
+        "name": "De lage mors",
+        "note": "9 holes",
+        "website": "https://www.golfbaandelagemors.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7324659,
+          52.2563259
+        ]
+      },
+      "id": "node/2458588229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2561994032",
+        "addr:city": "Enschede",
+        "addr:housenumber": "24",
+        "addr:postcode": "7548RR",
+        "addr:street": "Spieleweg",
+        "leisure": "golf_course",
+        "name": "Golfbaan Spielehof",
+        "source": "BAG",
+        "source:date": "2018-07-08",
+        "website": "https://www.spielehof.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7849027,
+          52.2017131
+        ]
+      },
+      "id": "node/2561994032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2743422319",
+        "addr:city": "Rijsbergen",
+        "addr:housenumber": "12",
+        "addr:postcode": "4891TK",
+        "addr:street": "Zwart Moerken",
+        "leisure": "golf_course",
+        "name": "De Turfvaert",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.deturfvaert.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6977883,
+          51.5322891
+        ]
+      },
+      "id": "node/2743422319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2797302250",
+        "addr:city": "Emmeloord",
+        "addr:housenumber": "6",
+        "addr:postcode": "8305AN",
+        "addr:street": "Casteleynsweg",
+        "leisure": "golf_course",
+        "name": "Golfclub - Emmeloord",
+        "operator": "Clubhuis (+31)527-621477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7813381,
+          52.739315
+        ]
+      },
+      "id": "node/2797302250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2825745840",
+        "addr:city": "Molenhoek",
+        "addr:housenumber": "2c",
+        "addr:postcode": "6584DC",
+        "addr:street": "Lierweg",
+        "description": "18 hole Pitch & Putt",
+        "golf:course": "18_hole",
+        "leisure": "golf_course",
+        "name": "Pitch & Putt Molenhoek",
+        "phone": "+31 24 3880552",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://pitch-putt.nl/molenhoek/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8756136,
+          51.7754313
+        ]
+      },
+      "id": "node/2825745840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838545154",
+        "addr:city": "Krimpen aan de Lek",
+        "addr:housenumber": "9",
+        "addr:postcode": "2931LK",
+        "addr:street": "Cornelis Gerardus Roosweg",
+        "cuisine": "french",
+        "food": "yes",
+        "leisure": "golf_course",
+        "name": "Golfbaan Crimpenerhout",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "wikidata": "Q2235796",
+        "wikipedia": "nl:Golfbaan Crimpenerhout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6209635,
+          51.9057983
+        ]
+      },
+      "id": "node/2838545154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3009301205",
+        "addr:city": "Helden",
+        "addr:housenumber": "9A",
+        "addr:postcode": "5988CC",
+        "addr:street": "Kesselseweg",
+        "golf": "clubhouse",
+        "leisure": "golf_course",
+        "name": "Eyckenduyn",
+        "source": "BAG",
+        "source:date": "2014-08-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0048596,
+          51.3182074
+        ]
+      },
+      "id": "node/3009301205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5011223012",
+        "leisure": "golf_course",
+        "name": "Midgetgolf Meilust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2894641,
+          51.5048718
+        ]
+      },
+      "id": "node/5011223012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5929990141",
+        "email": "papendal@pitch-putt.nl",
+        "facebook": "https://www.facebook.com/pages/PitchPutt-Papendal/114143388687939?nr",
+        "leisure": "golf_course",
+        "name": "Pitch&Putt Papendal",
+        "phone": "+31264837210",
+        "website": "https://pitch-putt.nl/papendal/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8245704,
+          52.0101693
+        ]
+      },
+      "id": "node/5929990141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7195431926",
+        "leisure": "golf_course",
+        "name": "Offcourse Indoor Golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8817565,
+          51.5063544
+        ]
+      },
+      "id": "node/7195431926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7973615258",
+        "addr:city": "Bakel",
+        "addr:housenumber": "7",
+        "addr:postcode": "5761RZ",
+        "addr:street": "Hooizak",
+        "leisure": "golf_course",
+        "name": "Golfbaan Stippelberg",
+        "website": "https://golfbaan-stippelberg.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7590027,
+          51.5136717
+        ]
+      },
+      "id": "node/7973615258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8816967551",
+        "leisure": "golf_course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9661581,
+          52.3198064
+        ]
+      },
+      "id": "node/8816967551"
+    }
+  ]
+}

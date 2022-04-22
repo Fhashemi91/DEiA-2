@@ -1,0 +1,4552 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-22T07:09:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306594129",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0765176,
+          53.1035163
+        ]
+      },
+      "id": "node/306594129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364741695",
+        "leisure": "fitness_station",
+        "ref": "10",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7694772,
+          51.741352
+        ]
+      },
+      "id": "node/364741695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364741797",
+        "leisure": "fitness_station",
+        "ref": "6",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7664335,
+          51.7411718
+        ]
+      },
+      "id": "node/364741797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364741805",
+        "leisure": "fitness_station",
+        "ref": "5",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7660076,
+          51.7414574
+        ]
+      },
+      "id": "node/364741805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2159029815",
+        "leisure": "fitness_station",
+        "ref": "4",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7666554,
+          51.7422352
+        ]
+      },
+      "id": "node/2159029815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2159177629",
+        "leisure": "fitness_station",
+        "ref": "7",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7672662,
+          51.7407518
+        ]
+      },
+      "id": "node/2159177629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164445072",
+        "leisure": "fitness_station",
+        "ref": "1",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7684952,
+          51.7441952
+        ]
+      },
+      "id": "node/2164445072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164446682",
+        "leisure": "fitness_station",
+        "ref": "16",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7690075,
+          51.7436323
+        ]
+      },
+      "id": "node/2164446682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475802",
+        "leisure": "fitness_station",
+        "ref": "13",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7693399,
+          51.7426075
+        ]
+      },
+      "id": "node/2164475802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475806",
+        "leisure": "fitness_station",
+        "ref": "12",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7700107,
+          51.7421142
+        ]
+      },
+      "id": "node/2164475806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475810",
+        "leisure": "fitness_station",
+        "ref": "2",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7675378,
+          51.7435024
+        ]
+      },
+      "id": "node/2164475810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475812",
+        "leisure": "fitness_station",
+        "ref": "15",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7690424,
+          51.7432269
+        ]
+      },
+      "id": "node/2164475812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475814",
+        "leisure": "fitness_station",
+        "ref": "14",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7693026,
+          51.7429015
+        ]
+      },
+      "id": "node/2164475814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475817",
+        "leisure": "fitness_station",
+        "ref": "3",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7671512,
+          51.7430111
+        ]
+      },
+      "id": "node/2164475817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475819",
+        "leisure": "fitness_station",
+        "ref": "11",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.769949,
+          51.7416309
+        ]
+      },
+      "id": "node/2164475819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475824",
+        "leisure": "fitness_station",
+        "ref": "9",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7684299,
+          51.7410056
+        ]
+      },
+      "id": "node/2164475824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164475825",
+        "leisure": "fitness_station",
+        "ref": "8",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7676769,
+          51.7407938
+        ]
+      },
+      "id": "node/2164475825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2491543898",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6431089,
+          52.4134219
+        ]
+      },
+      "id": "node/2491543898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2595377387",
+        "addr:city": "Delft",
+        "addr:housenumber": "16",
+        "addr:postcode": "2624BB",
+        "addr:street": "Industriestraat",
+        "leisure": "fitness_station",
+        "name": "Basic-Fit",
+        "source": "BAG",
+        "source:date": "2013-11-26",
+        "sport": "fitness",
+        "website": "https://www.basic-fit.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3552008,
+          52.0011951
+        ]
+      },
+      "id": "node/2595377387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596108578",
+        "addr:city": "Delft",
+        "addr:housenumber": "8",
+        "addr:postcode": "2627AM",
+        "addr:street": "Leeuwenstein",
+        "leisure": "fitness_station",
+        "name": "Basic-Fit",
+        "source": "BAG",
+        "source:date": "2013-11-26",
+        "sport": "fitness",
+        "website": "https://www.basic-fit.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3627747,
+          52.0007288
+        ]
+      },
+      "id": "node/2596108578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2758797905",
+        "addr:city": "De Meern",
+        "addr:housenumber": "4",
+        "addr:postcode": "3454VB",
+        "addr:street": "Castellumlaan",
+        "email": "demeern@betaalbaarsporten.nl",
+        "leisure": "fitness_station",
+        "name": "Betaalbaar Sporten",
+        "phone": "030-8779847",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "fitness",
+        "website": "http://betaalbaarsporten.nl/vestiging/demeern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0365362,
+          52.0835311
+        ]
+      },
+      "id": "node/2758797905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2773000386",
+        "addr:city": "Assen",
+        "addr:housenumber": "45",
+        "addr:postcode": "9403VS",
+        "addr:street": "Ketellapperstraat",
+        "email": "info@activelady.nl",
+        "leisure": "fitness_station",
+        "name": "Active Lady",
+        "phone": "+31 592 405754",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5963482,
+          53.0117125
+        ]
+      },
+      "id": "node/2773000386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2773000589",
+        "addr:city": "Assen",
+        "addr:housenumber": "5A",
+        "addr:postcode": "9403VS",
+        "addr:street": "Ketellapperstraat",
+        "email": "ewasbodyfitcentrum@canaldigitaal.nl",
+        "leisure": "fitness_station",
+        "name": "Ewa's Body Fit Center",
+        "phone": "+31 592 371163",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "http://ewasbodyfitcentrum.magix.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5914969,
+          53.0114019
+        ]
+      },
+      "id": "node/2773000589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2775950463",
+        "addr:city": "Velddriel",
+        "addr:housenumber": "70",
+        "addr:postcode": "5334JV",
+        "addr:street": "Voorstraat",
+        "leisure": "fitness_station",
+        "name": "Action",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3086772,
+          51.7708471
+        ]
+      },
+      "id": "node/2775950463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2827407379",
+        "addr:city": "Hapert",
+        "addr:housenumber": "46",
+        "addr:postcode": "5527EN",
+        "addr:street": "Markt",
+        "email": "info@fitnesshapert.nl",
+        "leisure": "fitness_station",
+        "name": "Fitness Hapert",
+        "opening_hours": "Mo 09:00-12:00,13:30-22:00; Tu 09:00-12:00,16:00-22:00; We 09:30-12:00,16:00-22:00; Th-Fr 09:00-12:00,16:00-22:00; Sa-Su off",
+        "phone": "+31497385456",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.fitnessoirschot-hapert.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2520796,
+          51.3688848
+        ]
+      },
+      "id": "node/2827407379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2897680661",
+        "addr:city": "Goes",
+        "addr:housenumber": "8",
+        "addr:postcode": "4462GX",
+        "addr:street": "Da Vinciplein",
+        "leisure": "fitness_station",
+        "name": "Fitland Basic Goes",
+        "source": "BAG",
+        "source:date": "2014-06-03",
+        "sport": "fitness",
+        "website": "http://www.fitland.nl/fitnesscentra/fitness-basic-goes/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8726462,
+          51.4909771
+        ]
+      },
+      "id": "node/2897680661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2966554616",
+        "addr:city": "Workum",
+        "addr:housenumber": "22",
+        "addr:postcode": "8711HR",
+        "addr:street": "Hoekseize",
+        "leisure": "fitness_station",
+        "name": "Sport- & Gezondheidscentrum Zuidwest-Friesland",
+        "source": "BAG",
+        "source:date": "2014-07-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4557864,
+          52.9766547
+        ]
+      },
+      "id": "node/2966554616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3069999272",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0051476,
+          52.2638259
+        ]
+      },
+      "id": "node/3069999272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3107952687",
+        "leisure": "fitness_station",
+        "note": "some sport machines like in a gym",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3404356,
+          51.9932242
+        ]
+      },
+      "id": "node/3107952687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388242345",
+        "leisure": "fitness_station",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3094284,
+          52.0382452
+        ]
+      },
+      "id": "node/3388242345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3838638400",
+        "blind": "no",
+        "leisure": "fitness_station",
+        "note": "sporttoestellen",
+        "sport": "fitness",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1501748,
+          52.1017028
+        ]
+      },
+      "id": "node/3838638400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4268735857",
+        "leisure": "fitness_station",
+        "name": "Your Fitness Center",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8640224,
+          52.3751636
+        ]
+      },
+      "id": "node/4268735857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4586173932",
+        "leisure": "fitness_station",
+        "name": "UrbanGym BeweegCircuit",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9102302,
+          52.3687604
+        ]
+      },
+      "id": "node/4586173932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4639725257",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9784406,
+          52.3184104
+        ]
+      },
+      "id": "node/4639725257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679049860",
+        "addr:city": "Tilburg",
+        "addr:housenumber": "57",
+        "addr:postcode": "5021AV",
+        "addr:street": "AaBe-straat",
+        "leisure": "fitness_station",
+        "name": "Jetts",
+        "source": "BAG",
+        "source:date": "2017-02-10",
+        "website": "https://www.aabefabriek.nl/winkels/jetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1023477,
+          51.5510777
+        ]
+      },
+      "id": "node/4679049860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699749727",
+        "leisure": "fitness_station",
+        "name": "Waltman Gym",
+        "sport": "gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3642804,
+          52.2343823
+        ]
+      },
+      "id": "node/4699749727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5113048644",
+        "leisure": "fitness_station",
+        "name": "Outdoor Fitness Van Tuyllpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5241172,
+          52.0483838
+        ]
+      },
+      "id": "node/5113048644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119159875",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8667829,
+          52.3871331
+        ]
+      },
+      "id": "node/5119159875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5132580172",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7796881,
+          53.0407268
+        ]
+      },
+      "id": "node/5132580172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331567154",
+        "description": "Fitness park om verschillende oefeningen mee te kunnen doen.",
+        "fitness_station": "horizontal_bar, horizontal_ladder, parallel_bars",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5461271,
+          51.4075585
+        ]
+      },
+      "id": "node/5331567154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331725031",
+        "description": "Loopband",
+        "fitness_station": "running",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5461958,
+          51.4072195
+        ]
+      },
+      "id": "node/5331725031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331725032",
+        "description": "A bicycle fixed to the ground for everyone to ride on.",
+        "fitness_station": "exercise_bike",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5465739,
+          51.4069279
+        ]
+      },
+      "id": "node/5331725032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331725033",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5464474,
+          51.4067529
+        ]
+      },
+      "id": "node/5331725033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435316196",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8161933,
+          52.3682285
+        ]
+      },
+      "id": "node/5435316196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435316197",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8158674,
+          52.3678172
+        ]
+      },
+      "id": "node/5435316197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435316198",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8135672,
+          52.3578962
+        ]
+      },
+      "id": "node/5435316198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435316199",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8251184,
+          52.3655117
+        ]
+      },
+      "id": "node/5435316199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435348428",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8093439,
+          52.3572853
+        ]
+      },
+      "id": "node/5435348428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436789233",
+        "leisure": "fitness_station",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0303423,
+          12.5114873
+        ]
+      },
+      "id": "node/5436789233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436789234",
+        "leisure": "fitness_station",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.028784,
+          12.5085834
+        ]
+      },
+      "id": "node/5436789234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5562840756",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3264489,
+          52.0443467
+        ]
+      },
+      "id": "node/5562840756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567581721",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7209057,
+          52.9629314
+        ]
+      },
+      "id": "node/5567581721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5573600987",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.351379,
+          51.9990297
+        ]
+      },
+      "id": "node/5573600987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5579702256",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3766412,
+          51.9958687
+        ]
+      },
+      "id": "node/5579702256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611026021",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.750453,
+          53.0087274
+        ]
+      },
+      "id": "node/5611026021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5612186922",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9502428,
+          52.3079272
+        ]
+      },
+      "id": "node/5612186922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5672471622",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5285833,
+          53.2228193
+        ]
+      },
+      "id": "node/5672471622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721058421",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7644645,
+          51.5998876
+        ]
+      },
+      "id": "node/5721058421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5771144157",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9816436,
+          52.3074563
+        ]
+      },
+      "id": "node/5771144157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5794181439",
+        "addr:city": "Assen",
+        "addr:housenumber": "1C",
+        "addr:postcode": "9403TS",
+        "addr:street": "Borgstee",
+        "email": "info@etientraining.nl",
+        "leisure": "fitness_station",
+        "mobile": "+31 6 11110652",
+        "name": "E10 Training",
+        "opening_hours": "Mo-Fr 09:00-23:00; Sa 09:00-17:00; Su 09:00-16:00",
+        "source": "BAG",
+        "source:date": "2018-07-08",
+        "website": "https://www.etientraining.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.571513,
+          53.0121643
+        ]
+      },
+      "id": "node/5794181439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803981954",
+        "blind": "no",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8276323,
+          52.8722245
+        ]
+      },
+      "id": "node/5803981954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5808808306",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "playground": "horizontal_bar",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9505705,
+          52.2128115
+        ]
+      },
+      "id": "node/5808808306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5809800570",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "playground": "horizontal_bar",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9462873,
+          52.2216376
+        ]
+      },
+      "id": "node/5809800570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5809800573",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "playground": "horizontal_bar",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.946192,
+          52.2216968
+        ]
+      },
+      "id": "node/5809800573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5822952462",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.551455,
+          51.4568453
+        ]
+      },
+      "id": "node/5822952462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5822952463",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5491656,
+          51.456998
+        ]
+      },
+      "id": "node/5822952463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824874475",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9179066,
+          52.3900702
+        ]
+      },
+      "id": "node/5824874475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5834353148",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4493659,
+          51.3763372
+        ]
+      },
+      "id": "node/5834353148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5836895496",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9944342,
+          52.3026111
+        ]
+      },
+      "id": "node/5836895496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5836895686",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9670243,
+          52.3105055
+        ]
+      },
+      "id": "node/5836895686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846125061",
+        "leisure": "fitness_station",
+        "name": "Fit4Life buitenfitness",
+        "operator": "IJslander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8614871,
+          52.3253733
+        ]
+      },
+      "id": "node/5846125061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629029",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3019375,
+          52.0232551
+        ]
+      },
+      "id": "node/5924629029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629030",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3019499,
+          52.0234035
+        ]
+      },
+      "id": "node/5924629030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629031",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3018892,
+          52.023496
+        ]
+      },
+      "id": "node/5924629031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629032",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3010467,
+          52.0243224
+        ]
+      },
+      "id": "node/5924629032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629033",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3010274,
+          52.0244887
+        ]
+      },
+      "id": "node/5924629033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629034",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.300913,
+          52.0246711
+        ]
+      },
+      "id": "node/5924629034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629035",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3006855,
+          52.0248408
+        ]
+      },
+      "id": "node/5924629035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629036",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3003766,
+          52.0249994
+        ]
+      },
+      "id": "node/5924629036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629037",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3001367,
+          52.0252989
+        ]
+      },
+      "id": "node/5924629037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924629038",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.300116,
+          52.0254525
+        ]
+      },
+      "id": "node/5924629038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5987892037",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3674437,
+          52.0149138
+        ]
+      },
+      "id": "node/5987892037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6017573685",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4908597,
+          51.9358998
+        ]
+      },
+      "id": "node/6017573685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6286840612",
+        "addr:city": "Houten",
+        "addr:housenumber": "19",
+        "addr:postcode": "3995DW",
+        "addr:street": "Onderdoor",
+        "leisure": "fitness_station",
+        "name": "Anytime Fitness",
+        "source": "BAG",
+        "source:date": "2019-02-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.167569,
+          52.0345665
+        ]
+      },
+      "id": "node/6286840612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6383191465",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9243662,
+          51.9780448
+        ]
+      },
+      "id": "node/6383191465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6411770690",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2147128,
+          53.4037532
+        ]
+      },
+      "id": "node/6411770690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6419407693",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5950779,
+          52.4980948
+        ]
+      },
+      "id": "node/6419407693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6419432046",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8160801,
+          53.2079238
+        ]
+      },
+      "id": "node/6419432046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6420356187",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9227293,
+          52.9448434
+        ]
+      },
+      "id": "node/6420356187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6426123288",
+        "fitness_station": "sit-up",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4707366,
+          52.5904836
+        ]
+      },
+      "id": "node/6426123288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6426129880",
+        "fitness_station": "balance_beam",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4698664,
+          52.5887096
+        ]
+      },
+      "id": "node/6426129880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6426133503",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4706389,
+          52.5893597
+        ]
+      },
+      "id": "node/6426133503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6432393888",
+        "fitness_station": "parallel_bars",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.546393,
+          51.4075535
+        ]
+      },
+      "id": "node/6432393888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439556918",
+        "fitness_station": "balance_beam",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4700576,
+          52.5908226
+        ]
+      },
+      "id": "node/6439556918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439566100",
+        "fitness_station": "stairs",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4701781,
+          52.5911935
+        ]
+      },
+      "id": "node/6439566100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439568672",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4695052,
+          52.5887516
+        ]
+      },
+      "id": "node/6439568672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439569142",
+        "fitness_station": "sit-up",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4687535,
+          52.591059
+        ]
+      },
+      "id": "node/6439569142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439570436",
+        "fitness_station": "box",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4695324,
+          52.5911584
+        ]
+      },
+      "id": "node/6439570436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6440472171",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9350865,
+          52.3480784
+        ]
+      },
+      "id": "node/6440472171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6452068158",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9245134,
+          50.795045
+        ]
+      },
+      "id": "node/6452068158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6486253754",
+        "fitness_station": "stairs",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4699716,
+          52.5898686
+        ]
+      },
+      "id": "node/6486253754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6598823182",
+        "access": "customers",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9417902,
+          51.2809329
+        ]
+      },
+      "id": "node/6598823182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6809616148",
+        "fitness_station": "rower",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5471398,
+          51.4065784
+        ]
+      },
+      "id": "node/6809616148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645926",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9843915,
+          52.5152969
+        ]
+      },
+      "id": "node/6828645926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645927",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9840028,
+          52.515071
+        ]
+      },
+      "id": "node/6828645927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645928",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9836444,
+          52.5150347
+        ]
+      },
+      "id": "node/6828645928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645929",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9855099,
+          52.5153026
+        ]
+      },
+      "id": "node/6828645929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645930",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.985273,
+          52.5155697
+        ]
+      },
+      "id": "node/6828645930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645931",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9856816,
+          52.5155306
+        ]
+      },
+      "id": "node/6828645931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645932",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9857341,
+          52.5158233
+        ]
+      },
+      "id": "node/6828645932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828645933",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9867755,
+          52.5157971
+        ]
+      },
+      "id": "node/6828645933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6829186814",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9842788,
+          52.5146452
+        ]
+      },
+      "id": "node/6829186814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6829784208",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "year_of_construction": "2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.952861,
+          52.5113314
+        ]
+      },
+      "id": "node/6829784208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6829784209",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "year_of_construction": "2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9529242,
+          52.5109901
+        ]
+      },
+      "id": "node/6829784209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6829784210",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "year_of_construction": "2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9524559,
+          52.5111335
+        ]
+      },
+      "id": "node/6829784210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6829784211",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "year": "2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9524127,
+          52.5113276
+        ]
+      },
+      "id": "node/6829784211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6901062853",
+        "leisure": "fitness_station",
+        "name": "Streetworkout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2204706,
+          52.070723
+        ]
+      },
+      "id": "node/6901062853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6977562185",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7820271,
+          53.1868338
+        ]
+      },
+      "id": "node/6977562185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051257346",
+        "fitness_station": "air_walker",
+        "leisure": "fitness_station",
+        "opening_hours": "24/7",
+        "sport": "fitness",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.443925,
+          53.3095863
+        ]
+      },
+      "id": "node/7051257346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076925007",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7612513,
+          52.6903621
+        ]
+      },
+      "id": "node/7076925007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083772757",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9918571,
+          52.223591
+        ]
+      },
+      "id": "node/7083772757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083772758",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9897483,
+          52.2227843
+        ]
+      },
+      "id": "node/7083772758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083772759",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9897214,
+          52.2222914
+        ]
+      },
+      "id": "node/7083772759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083772760",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9884256,
+          52.2234561
+        ]
+      },
+      "id": "node/7083772760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083772761",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9876092,
+          52.2228316
+        ]
+      },
+      "id": "node/7083772761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083772762",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9869856,
+          52.2225099
+        ]
+      },
+      "id": "node/7083772762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083772765",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.985332,
+          52.2219677
+        ]
+      },
+      "id": "node/7083772765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089573952",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9925138,
+          52.2230976
+        ]
+      },
+      "id": "node/7089573952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089573953",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9882517,
+          52.2220756
+        ]
+      },
+      "id": "node/7089573953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089573954",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9870693,
+          52.2215996
+        ]
+      },
+      "id": "node/7089573954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089573955",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9848969,
+          52.2204322
+        ]
+      },
+      "id": "node/7089573955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089573956",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9846468,
+          52.2211604
+        ]
+      },
+      "id": "node/7089573956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089573978",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9860523,
+          52.2200841
+        ]
+      },
+      "id": "node/7089573978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089573979",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9902258,
+          52.2218669
+        ]
+      },
+      "id": "node/7089573979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7335004770",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5898913,
+          53.2044573
+        ]
+      },
+      "id": "node/7335004770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7335004779",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5930115,
+          53.2030731
+        ]
+      },
+      "id": "node/7335004779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7392383387",
+        "fitness_station": "box",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9380475,
+          52.4866684
+        ]
+      },
+      "id": "node/7392383387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7399736142",
+        "fitness_station": "parallel_bars",
+        "leisure": "fitness_station",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4026557,
+          51.9894107
+        ]
+      },
+      "id": "node/7399736142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7441680324",
+        "leisure": "fitness_station",
+        "name": "Evenwichtsbalk",
+        "ref": "5",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.700337,
+          51.6382722
+        ]
+      },
+      "id": "node/7441680324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7441680325",
+        "leisure": "fitness_station",
+        "name": "Beenzwaaien",
+        "ref": "6",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7016834,
+          51.6381391
+        ]
+      },
+      "id": "node/7441680325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7560285406",
+        "description": "Gymzaal van Lierestraat",
+        "fitness_station": "rings",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4203165,
+          52.2050731
+        ]
+      },
+      "id": "node/7560285406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7578031965",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3577644,
+          52.0803049
+        ]
+      },
+      "id": "node/7578031965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7632284658",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3579626,
+          52.0931588
+        ]
+      },
+      "id": "node/7632284658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7637330112",
+        "fitness_station": "horizontal_ladder",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2576968,
+          52.086399
+        ]
+      },
+      "id": "node/7637330112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808627",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2613784,
+          52.0877931
+        ]
+      },
+      "id": "node/7638808627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808628",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.261241,
+          52.0875777
+        ]
+      },
+      "id": "node/7638808628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808629",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2596208,
+          52.0870944
+        ]
+      },
+      "id": "node/7638808629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808630",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2611557,
+          52.087304
+        ]
+      },
+      "id": "node/7638808630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808631",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.260862,
+          52.0871963
+        ]
+      },
+      "id": "node/7638808631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808632",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2603883,
+          52.087077
+        ]
+      },
+      "id": "node/7638808632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808633",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.258659,
+          52.0870653
+        ]
+      },
+      "id": "node/7638808633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808634",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.258209,
+          52.0867393
+        ]
+      },
+      "id": "node/7638808634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808635",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2582185,
+          52.0865617
+        ]
+      },
+      "id": "node/7638808635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808649",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2569941,
+          52.0864904
+        ]
+      },
+      "id": "node/7638808649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808651",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.256831,
+          52.0866529
+        ]
+      },
+      "id": "node/7638808651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808652",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2563669,
+          52.0868429
+        ]
+      },
+      "id": "node/7638808652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808653",
+        "description": "Poort: optrekken",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2582291,
+          52.0875533
+        ]
+      },
+      "id": "node/7638808653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808654",
+        "description": "schuin ligvka: body curk",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2578906,
+          52.0873934
+        ]
+      },
+      "id": "node/7638808654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808655",
+        "description": "Klimtouw",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2571964,
+          52.0871717
+        ]
+      },
+      "id": "node/7638808655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808656",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2567031,
+          52.0871155
+        ]
+      },
+      "id": "node/7638808656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808657",
+        "description": "Schuine balk: over-onder",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2588284,
+          52.0878098
+        ]
+      },
+      "id": "node/7638808657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808664",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2611615,
+          52.0879314
+        ]
+      },
+      "id": "node/7638808664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808665",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2610767,
+          52.0881363
+        ]
+      },
+      "id": "node/7638808665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808666",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.260681,
+          52.0881641
+        ]
+      },
+      "id": "node/7638808666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808667",
+        "description": "vlakke bank: hamstrings strekken",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2599885,
+          52.0881099
+        ]
+      },
+      "id": "node/7638808667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638808672",
+        "description": "Gdondbalk: hekje springen",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2575363,
+          52.0872791
+        ]
+      },
+      "id": "node/7638808672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7661683907",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9570601,
+          52.9348633
+        ]
+      },
+      "id": "node/7661683907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7713935457",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.390733,
+          52.0978854
+        ]
+      },
+      "id": "node/7713935457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7806014566",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4249944,
+          53.1388677
+        ]
+      },
+      "id": "node/7806014566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816008794",
+        "description": "hordelopen",
+        "fitness_station": "horizontal_ladder",
+        "leisure": "fitness_station",
+        "name": "Trimparcour 13",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6685401,
+          52.3208572
+        ]
+      },
+      "id": "node/7816008794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816008799",
+        "fitness_station": "stairs",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 12",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6687146,
+          52.3205796
+        ]
+      },
+      "id": "node/7816008799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816008805",
+        "description": "Paal optillen",
+        "fitness_station": "log_lifting",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 15",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6686545,
+          52.3225644
+        ]
+      },
+      "id": "node/7816008805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816008814",
+        "description": "Touwklimmen",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 14",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6683475,
+          52.3211031
+        ]
+      },
+      "id": "node/7816008814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7825611330",
+        "blind": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.107241,
+          52.0869001
+        ]
+      },
+      "id": "node/7825611330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856835735",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6675492,
+          52.0167949
+        ]
+      },
+      "id": "node/7856835735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7881854799",
+        "description": "Climbing wall",
+        "fitness_station": "stairs",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6673268,
+          52.3226194
+        ]
+      },
+      "id": "node/7881854799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7928869372",
+        "description": "zig-zag wooden stubs",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2596627,
+          52.0879521
+        ]
+      },
+      "id": "node/7928869372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7928869373",
+        "description": "Poort: heupen zwaaien",
+        "fitness_station": "sign",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2591146,
+          52.0879045
+        ]
+      },
+      "id": "node/7928869373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8081720257",
+        "fitness_station": "balance_beam",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3826679,
+          51.9475738
+        ]
+      },
+      "id": "node/8081720257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8258699663",
+        "fitness_station": "horizontal_ladder",
+        "image": "https://images.mapillary.com/XMJa3TCokiTr2bvaHyStQA/thumb-2048.jpg",
+        "image:0": "https://images.mapillary.com/rxkkYGehLCcazaZeTkOm69/thumb-2048.jpg",
+        "leisure": "fitness_station",
+        "mapillary": "https://www.mapillary.com/map/im/XMJa3TCokiTr2bvaHyStQA",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3280739,
+          52.1021766
+        ]
+      },
+      "id": "node/8258699663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8258699664",
+        "fitness_station": "sign",
+        "image": "https://images.mapillary.com/LZZwNcfdwgfjSiaw267wN8/thumb-2048.jpg",
+        "leisure": "fitness_station",
+        "mapillary": "https://images.mapillary.com/rxkkYGehLCcazaZeTkOm69/thumb-2048.jpg",
+        "name": "Fittest",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3278309,
+          52.1028873
+        ]
+      },
+      "id": "node/8258699664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8321142240",
+        "fitness_station:horizontal_ladder": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9719105,
+          52.3721989
+        ]
+      },
+      "id": "node/8321142240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8372263384",
+        "fitness_station": "calisthenetics",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1399669,
+          52.2482318
+        ]
+      },
+      "id": "node/8372263384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8446934117",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1729095,
+          52.386453
+        ]
+      },
+      "id": "node/8446934117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8450388544",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3368141,
+          51.3920916
+        ]
+      },
+      "id": "node/8450388544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459088772",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9463379,
+          52.3209772
+        ]
+      },
+      "id": "node/8459088772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8500681569",
+        "description": "Two bikes drive fountain: fountain sprays when pedalling. (only in summer)",
+        "fitness_station": "exercise_bike",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6461213,
+          52.7194662
+        ]
+      },
+      "id": "node/8500681569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523854724",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5296383,
+          52.3447985
+        ]
+      },
+      "id": "node/8523854724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8579265341",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921405,
+          52.3500377
+        ]
+      },
+      "id": "node/8579265341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8611363664",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0972045,
+          52.1166716
+        ]
+      },
+      "id": "node/8611363664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8656598000",
+        "fitness_station": "horizontal_ladder",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6943204,
+          51.9816238
+        ]
+      },
+      "id": "node/8656598000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8690270881",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.614411,
+          52.3337729
+        ]
+      },
+      "id": "node/8690270881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8757454685",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1477313,
+          52.091944
+        ]
+      },
+      "id": "node/8757454685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8760770517",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34121,
+          51.5961892
+        ]
+      },
+      "id": "node/8760770517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8776673041",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0962563,
+          52.1108163
+        ]
+      },
+      "id": "node/8776673041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8818654063",
+        "description": "Dubbele klimladder",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6666035,
+          52.3228307
+        ]
+      },
+      "id": "node/8818654063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8818654102",
+        "description": "Duikelrek/hangrek",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6682551,
+          52.3225471
+        ]
+      },
+      "id": "node/8818654102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8826095365",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1935716,
+          52.0682161
+        ]
+      },
+      "id": "node/8826095365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8826101843",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2038885,
+          52.0690296
+        ]
+      },
+      "id": "node/8826101843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827790341",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6662885,
+          52.3220317
+        ]
+      },
+      "id": "node/8827790341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827790342",
+        "leisure": "fitness_station",
+        "name": "Trimparcours begin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6661621,
+          52.322098
+        ]
+      },
+      "id": "node/8827790342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827808500",
+        "fitness_station": "push-up",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6690144,
+          52.3200634
+        ]
+      },
+      "id": "node/8827808500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827808501",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6680495,
+          52.3195439
+        ]
+      },
+      "id": "node/8827808501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827808502",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6677713,
+          52.3196869
+        ]
+      },
+      "id": "node/8827808502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827808503",
+        "description": "Balanceerbalk",
+        "fitness_station": "balance_beam",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 9",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6674095,
+          52.3198843
+        ]
+      },
+      "id": "node/8827808503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827808504",
+        "description": "Balanceerrek",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 8",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6672548,
+          52.3201504
+        ]
+      },
+      "id": "node/8827808504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827808505",
+        "description": "Hordeloop",
+        "leisure": "fitness_station",
+        "name": "Trimparcours 7",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6669374,
+          52.3207448
+        ]
+      },
+      "id": "node/8827808505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8828013105",
+        "fitness_station": "balance_beam",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6662583,
+          52.3225724
+        ]
+      },
+      "id": "node/8828013105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8828013106",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6661432,
+          52.3228296
+        ]
+      },
+      "id": "node/8828013106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833578946",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3797596,
+          52.0938943
+        ]
+      },
+      "id": "node/8833578946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833578948",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3787081,
+          52.0933044
+        ]
+      },
+      "id": "node/8833578948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833578949",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3776265,
+          52.0932702
+        ]
+      },
+      "id": "node/8833578949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833578950",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3787665,
+          52.0937822
+        ]
+      },
+      "id": "node/8833578950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8842182009",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9970104,
+          52.1982132
+        ]
+      },
+      "id": "node/8842182009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8865873936",
+        "leisure": "fitness_station",
+        "name": "Buitenfitness Beijum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5925002,
+          53.2509014
+        ]
+      },
+      "id": "node/8865873936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8882602575",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9338895,
+          12.4415021
+        ]
+      },
+      "id": "node/8882602575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8929251991",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3737063,
+          51.9440284
+        ]
+      },
+      "id": "node/8929251991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8930769819",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3887451,
+          51.9297453
+        ]
+      },
+      "id": "node/8930769819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8941204569",
+        "leisure": "fitness_station",
+        "name": "Turnschool Rijssen",
+        "source": "survey",
+        "sport": "gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5258521,
+          52.3167792
+        ]
+      },
+      "id": "node/8941204569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8996694586",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6562978,
+          52.2979518
+        ]
+      },
+      "id": "node/8996694586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8996700542",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6483615,
+          52.2948598
+        ]
+      },
+      "id": "node/8996700542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9013386175",
+        "description": "Outdoor fitness course with calisthenic excersice equipment. Accessible between sunrise and sunset.",
+        "leisure": "fitness_station",
+        "name": "Trimbaan soesterduinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3004937,
+          52.1555033
+        ]
+      },
+      "id": "node/9013386175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9151171597",
+        "fitness_station": "horizontal_ladder",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.689039,
+          51.8446661
+        ]
+      },
+      "id": "node/9151171597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163188717",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0389196,
+          52.0731777
+        ]
+      },
+      "id": "node/9163188717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221678604",
+        "leisure": "fitness_station",
+        "name": "klauteren",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3622036,
+          51.4417979
+        ]
+      },
+      "id": "node/9221678604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221678610",
+        "leisure": "fitness_station",
+        "name": "hekjes-springen",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3591908,
+          51.4420065
+        ]
+      },
+      "id": "node/9221678610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221678611",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "name": "optrekken",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3611587,
+          51.4429108
+        ]
+      },
+      "id": "node/9221678611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221678612",
+        "leisure": "fitness_station",
+        "name": "steunsprongen",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3603557,
+          51.443369
+        ]
+      },
+      "id": "node/9221678612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221678614",
+        "leisure": "fitness_station",
+        "name": "springen",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3619064,
+          51.4425174
+        ]
+      },
+      "id": "node/9221678614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221678615",
+        "leisure": "fitness_station",
+        "name": "bokspringen-slalomloop",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3601724,
+          51.4399296
+        ]
+      },
+      "id": "node/9221678615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221689618",
+        "leisure": "fitness_station",
+        "name": "evenwicht",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3609824,
+          51.4406688
+        ]
+      },
+      "id": "node/9221689618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221689619",
+        "leisure": "fitness_station",
+        "name": "over-onder",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.360979,
+          51.441316
+        ]
+      },
+      "id": "node/9221689619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221689620",
+        "leisure": "fitness_station",
+        "name": "beenzwaaien",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3628702,
+          51.4420634
+        ]
+      },
+      "id": "node/9221689620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222042179",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3287627,
+          52.1032058
+        ]
+      },
+      "id": "node/9222042179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222042180",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3287929,
+          52.1027562
+        ]
+      },
+      "id": "node/9222042180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222042181",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3287014,
+          52.1029682
+        ]
+      },
+      "id": "node/9222042181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222042182",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3280091,
+          52.1027649
+        ]
+      },
+      "id": "node/9222042182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222042183",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3275648,
+          52.1026108
+        ]
+      },
+      "id": "node/9222042183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222042184",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3278563,
+          52.1023721
+        ]
+      },
+      "id": "node/9222042184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9222042185",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3284458,
+          52.102328
+        ]
+      },
+      "id": "node/9222042185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243560170",
+        "leisure": "fitness_station",
+        "name": "armen zwaaien",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3616733,
+          51.4415081
+        ]
+      },
+      "id": "node/9243560170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243560171",
+        "leisure": "fitness_station",
+        "name": "elleboog-knie",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3592362,
+          51.4399892
+        ]
+      },
+      "id": "node/9243560171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243560172",
+        "leisure": "fitness_station",
+        "name": "vierkanten-springen",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3590852,
+          51.440228
+        ]
+      },
+      "id": "node/9243560172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243560173",
+        "leisure": "fitness_station",
+        "name": "buikspieroefeningen",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3594041,
+          51.4405348
+        ]
+      },
+      "id": "node/9243560173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243560174",
+        "leisure": "fitness_station",
+        "name": "hoogspringen",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3595177,
+          51.4409845
+        ]
+      },
+      "id": "node/9243560174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243560175",
+        "leisure": "fitness_station",
+        "name": "armen zwaaien",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3593122,
+          51.4416071
+        ]
+      },
+      "id": "node/9243560175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243560176",
+        "leisure": "fitness_station",
+        "name": "slingeren",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3591388,
+          51.4429778
+        ]
+      },
+      "id": "node/9243560176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9352336832",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3193531,
+          51.5934355
+        ]
+      },
+      "id": "node/9352336832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9352336833",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.319437,
+          51.5937572
+        ]
+      },
+      "id": "node/9352336833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9352336834",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3190772,
+          51.5938665
+        ]
+      },
+      "id": "node/9352336834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9367191935",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9316178,
+          52.2012337
+        ]
+      },
+      "id": "node/9367191935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9367191936",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9316553,
+          52.2012468
+        ]
+      },
+      "id": "node/9367191936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9367191937",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9317063,
+          52.2012633
+        ]
+      },
+      "id": "node/9367191937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9394244478",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4919474,
+          52.1460401
+        ]
+      },
+      "id": "node/9394244478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9394244479",
+        "fitness_station": "parallel_bars",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4919072,
+          52.1460006
+        ]
+      },
+      "id": "node/9394244479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9394244480",
+        "fitness_station": "box",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4923203,
+          52.1458525
+        ]
+      },
+      "id": "node/9394244480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9394244481",
+        "fitness_station": "balance_beam",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4921325,
+          52.145915
+        ]
+      },
+      "id": "node/9394244481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9468964425",
+        "leisure": "fitness_station",
+        "name": "Fitplaats Pinksterbloem",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4688184,
+          52.0941849
+        ]
+      },
+      "id": "node/9468964425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521758617",
+        "internet_access": "wlan",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9049562,
+          52.3397607
+        ]
+      },
+      "id": "node/9521758617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9533192122",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2102478,
+          51.9936506
+        ]
+      },
+      "id": "node/9533192122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9544643584",
+        "blind": "no",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4603326,
+          52.3706271
+        ]
+      },
+      "id": "node/9544643584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9588959897",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "source:date": "19.03.2022",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8166596,
+          51.7314389
+        ]
+      },
+      "id": "node/9588959897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9656736457",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9049185,
+          52.4063202
+        ]
+      },
+      "id": "node/9656736457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9656736458",
+        "fitness_station": "horizontal_ladder",
+        "leisure": "fitness_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9048833,
+          52.4063729
+        ]
+      },
+      "id": "node/9656736458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665771802",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0487673,
+          51.3579171
+        ]
+      },
+      "id": "node/9665771802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665771803",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0487117,
+          51.3578811
+        ]
+      },
+      "id": "node/9665771803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665771804",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.048829,
+          51.3578774
+        ]
+      },
+      "id": "node/9665771804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9672809370",
+        "fitness_station": "exercise_bike",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8626151,
+          52.6710971
+        ]
+      },
+      "id": "node/9672809370"
+    }
+  ]
+}

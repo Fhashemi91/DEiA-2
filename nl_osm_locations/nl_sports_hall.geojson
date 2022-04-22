@@ -1,0 +1,953 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-22T06:59:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/975044043",
+        "leisure": "sports_hall",
+        "name": "Sporthal 't Spil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.037522,
+          52.4505742
+        ]
+      },
+      "id": "node/975044043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2599516638",
+        "addr:city": "Delft",
+        "addr:housenumber": "7A",
+        "addr:postcode": "2611AV",
+        "addr:street": "Wateringsevest",
+        "leisure": "sports_hall",
+        "name": "Urban Axe Throwing",
+        "opening_hours": "Tu-Sa 16:30-21:15; Su 11:30-21:15",
+        "source": "BAG;survey",
+        "source:date": "2013-11-26",
+        "sport": "axe_throwing",
+        "website": "https://www.urbanaxethrowing.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3512945,
+          52.0146942
+        ]
+      },
+      "id": "node/2599516638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714755588",
+        "addr:city": "Haarlem",
+        "addr:housenumber": "1",
+        "addr:postcode": "2036AM",
+        "addr:street": "Fie Carelsenplein",
+        "leisure": "sports_hall",
+        "name": "Sporthal Spaarnehal",
+        "operator": "SRO",
+        "phone": "06-51816663",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://sro.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6555039,
+          52.3558904
+        ]
+      },
+      "id": "node/2714755588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2753910461",
+        "addr:city": "De Meern",
+        "addr:housenumber": "94",
+        "addr:postcode": "3454EN",
+        "addr:street": "Ten Veldestraat",
+        "leisure": "sports_hall",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0325928,
+          52.0782181
+        ]
+      },
+      "id": "node/2753910461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2773111706",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "100",
+        "addr:postcode": "3543BT",
+        "addr:street": "Musicallaan",
+        "leisure": "sports_hall",
+        "name": "Sportzaal Waterwin",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0431071,
+          52.1048924
+        ]
+      },
+      "id": "node/2773111706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2773116320",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "64",
+        "addr:postcode": "3543BZ",
+        "addr:street": "Emile Hullebroeckstraat",
+        "leisure": "sports_hall",
+        "name": "Emile Hullebroeckstraat",
+        "source": "BAG",
+        "source:date": "2014-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0399663,
+          52.1022178
+        ]
+      },
+      "id": "node/2773116320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2773773782",
+        "addr:city": "Vleuten",
+        "addr:housenumber": "10B",
+        "addr:postcode": "3451EC",
+        "addr:street": "Albert Schweitzerlaan",
+        "leisure": "sports_hall",
+        "name": "Sportzaal Fletiozaal",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.sportstad-utrecht.nl/plaats/sportzaal-fletiozaal/",
+        "wheelchair:description": "Drempel ca 15 cm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0134132,
+          52.1069823
+        ]
+      },
+      "id": "node/2773773782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782215658",
+        "addr:city": "Hengelo",
+        "addr:housenumber": "34",
+        "addr:postcode": "7557BW",
+        "addr:street": "Mussenstraat",
+        "leisure": "sports_hall",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8073548,
+          52.2659014
+        ]
+      },
+      "id": "node/2782215658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782985431",
+        "addr:city": "Hengelo",
+        "addr:housenumber": "102",
+        "addr:postcode": "7556LT",
+        "addr:street": "Uitslagsweg",
+        "leisure": "sports_hall",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7949506,
+          52.2793445
+        ]
+      },
+      "id": "node/2782985431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798145931",
+        "addr:city": "Surhuisterveen",
+        "addr:housenumber": "1",
+        "addr:postcode": "9231AK",
+        "addr:street": "De Ketting",
+        "contact:whatsapp": "+31 6 296 282 28",
+        "email": "happinessopende@gmail.com",
+        "leisure": "sports_hall",
+        "name": "Happiness Yogalifestyle",
+        "phone": "+31 06 296 282 28",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "sport": "yoga",
+        "website": "https://happiness-yogalifestyle.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1746797,
+          53.1765614
+        ]
+      },
+      "id": "node/2798145931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2842089784",
+        "addr:city": "Meerssen",
+        "addr:housenumber": "41",
+        "addr:postcode": "6231HJ",
+        "addr:street": "Pastoor Nicolaus de Reimsstraat",
+        "leisure": "sports_hall",
+        "name": "Gymzaal Meerssen-West",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7509574,
+          50.8880658
+        ]
+      },
+      "id": "node/2842089784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2842128528",
+        "addr:city": "Zuidlaren",
+        "addr:housenumber": "14",
+        "addr:postcode": "9471SE",
+        "addr:street": "Gouden Regenlaan",
+        "leisure": "sports_hall",
+        "name": "Gymzaal",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6647362,
+          53.0834817
+        ]
+      },
+      "id": "node/2842128528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2848300806",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "145",
+        "addr:postcode": "1025ET",
+        "addr:street": "Buikslotermeerplein",
+        "leisure": "sports_hall",
+        "name": "Snooker en biljartcentrum Boven 't IJ",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "sport": "snooker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9375241,
+          52.3991268
+        ]
+      },
+      "id": "node/2848300806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2853429943",
+        "addr:city": "Oosterhout",
+        "addr:housenumber": "3",
+        "addr:postcode": "4906KB",
+        "addr:street": "Markkant",
+        "leisure": "sports_hall",
+        "name": "Markkant",
+        "source": "BAG",
+        "source:date": "2014-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8329078,
+          51.646477
+        ]
+      },
+      "id": "node/2853429943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2860266411",
+        "addr:city": "Boekel",
+        "addr:housenumber": "9",
+        "addr:postcode": "5427AM",
+        "addr:street": "Bernhardstraat",
+        "leisure": "sports_hall",
+        "name": "De Burcht",
+        "source": "BAG",
+        "source:date": "2014-05-07",
+        "sport": "multi",
+        "website": "https://sporthaldeburcht.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6749685,
+          51.6048581
+        ]
+      },
+      "id": "node/2860266411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2878213394",
+        "addr:city": "Hilversum",
+        "addr:housenumber": "6A",
+        "addr:postcode": "1216SK",
+        "addr:street": "Franciscusweg",
+        "leisure": "sports_hall",
+        "name": "Sporthal Kerkelanden",
+        "source": "BAG",
+        "source:date": "2014-05-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1429829,
+          52.2140975
+        ]
+      },
+      "id": "node/2878213394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2881098893",
+        "addr:city": "Wormer",
+        "addr:housenumber": "2C",
+        "addr:postcode": "1531PS",
+        "addr:street": "De Balk",
+        "leisure": "sports_hall",
+        "source": "BAG",
+        "source:date": "2014-05-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8084544,
+          52.4909923
+        ]
+      },
+      "id": "node/2881098893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903484503",
+        "addr:city": "Musselkanaal",
+        "addr:housenumber": "2",
+        "addr:postcode": "9581CZ",
+        "addr:street": "Spireastraat",
+        "leisure": "sports_hall",
+        "name": "De Veenhorst",
+        "source": "BAG",
+        "source:date": "2014-06-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0101383,
+          52.9368671
+        ]
+      },
+      "id": "node/2903484503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2914876414",
+        "addr:city": "Haastrecht",
+        "addr:housenumber": "1",
+        "addr:postcode": "2851VV",
+        "addr:street": "Concordiaplein",
+        "leisure": "sports_hall",
+        "name": "Sporthal Concordia",
+        "source": "BAG",
+        "source:date": "2014-06-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.776237,
+          51.9995833
+        ]
+      },
+      "id": "node/2914876414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2961249394",
+        "addr:city": "Maasbree",
+        "addr:housenumber": "4a",
+        "addr:postcode": "5993CR",
+        "addr:street": "Achter de Hoven",
+        "leisure": "sports_hall",
+        "name": "Sporthal D'n Adelaer",
+        "phone": "+31 77 4651333",
+        "source": "BAG",
+        "source:date": "2014-07-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0489184,
+          51.3586652
+        ]
+      },
+      "id": "node/2961249394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3001161086",
+        "addr:city": "Montfoort",
+        "addr:housenumber": "80",
+        "addr:postcode": "3417TA",
+        "addr:street": "Bovenkerkweg",
+        "leisure": "sports_hall",
+        "name": "Sporthal Hofland",
+        "phone": "+31 (0) 348 473565",
+        "source": "BAG",
+        "source:date": "2014-08-06",
+        "sport": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9546431,
+          52.0405237
+        ]
+      },
+      "id": "node/3001161086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043007804",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "4",
+        "addr:postcode": "3515XJ",
+        "addr:street": "Maria van Reedestraat",
+        "leisure": "sports_hall",
+        "name": "Gymzaal",
+        "source": "BAG",
+        "source:date": "2014-08-25",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1207378,
+          52.1035235
+        ]
+      },
+      "id": "node/3043007804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043008237",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "33B",
+        "addr:postcode": "3515VB",
+        "addr:street": "Nolenslaan",
+        "leisure": "sports_hall",
+        "name": "Gymzaal",
+        "source": "BAG",
+        "source:date": "2014-08-25",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "no",
+        "wheelchair:description": "Alleen toegankelijk via de school op schooldagen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1170237,
+          52.1028633
+        ]
+      },
+      "id": "node/3043008237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5275802354",
+        "addr:city": "Voorschoten",
+        "addr:housenumber": "11",
+        "addr:postcode": "2253VX",
+        "addr:street": "Kuyperbrink",
+        "leisure": "sports_hall",
+        "name": "Frans de Vette-zaal",
+        "source": "BAG",
+        "source:date": "2017-11-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4595903,
+          52.1425745
+        ]
+      },
+      "id": "node/5275802354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5911037485",
+        "addr:city": "Vleuten",
+        "addr:housenumber": "11",
+        "addr:postcode": "3452SR",
+        "addr:street": "Kweektuinlaan",
+        "leisure": "sports_hall",
+        "name": "Gymzaal",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0083912,
+          52.0903905
+        ]
+      },
+      "id": "node/5911037485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5911104585",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "9",
+        "addr:postcode": "3554EZ",
+        "addr:street": "Stauntonstraat",
+        "leisure": "sports_hall",
+        "name": "Gymzaal",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "Drempel 2 x 15 cm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0929263,
+          52.1122862
+        ]
+      },
+      "id": "node/5911104585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5970340385",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3565CH",
+        "addr:street": "Manitobadreef",
+        "leisure": "sports_hall",
+        "name": "Kantine voormalig HMS",
+        "source": "BAG",
+        "source:date": "2019-06-20",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 4 cm hoog."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0857794,
+          52.1318021
+        ]
+      },
+      "id": "node/5970340385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5970341685",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3565CH",
+        "addr:street": "Manitobadreef",
+        "leisure": "sports_hall",
+        "name": "EDO (kantine)",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 7 cm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0868148,
+          52.1325068
+        ]
+      },
+      "id": "node/5970341685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5995219486",
+        "addr:city": "Vleuten",
+        "addr:housenumber": "6",
+        "addr:postcode": "3452RN",
+        "addr:street": "Binnentuinlaan",
+        "leisure": "sports_hall",
+        "name": "Gymzaal",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Gymzaal op verdieping bereikbaar met Plateaulift 1,1 x 2 m. 1, 2 m. Toilet 2,2 x 2,2 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0182092,
+          52.0880769
+        ]
+      },
+      "id": "node/5995219486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6076110047",
+        "leisure": "sports_hall",
+        "name": "Gymzaal M. van Meelstraat",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0797694,
+          52.1138884
+        ]
+      },
+      "id": "node/6076110047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6953878270",
+        "addr:city": "Hengelo",
+        "addr:housenumber": "60",
+        "addr:postcode": "7558CP",
+        "addr:street": "Henry Woodstraat",
+        "leisure": "sports_hall",
+        "name": "Sporthal Hasseler Es",
+        "source": "BAG",
+        "source:date": "2019-11-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8288147,
+          52.2850379
+        ]
+      },
+      "id": "node/6953878270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983359465",
+        "contact:email": "info@heerhugowaardsport.nl",
+        "contact:phone": "+31 72 5675045",
+        "fee": "yes",
+        "leisure": "sports_hall",
+        "lit": "yes",
+        "name": "Sporthal Waardergolf",
+        "operator": "Heerhugowaard Sport N.V.",
+        "website": "https://heerhugowaardsport.nl/team-sport-en-bewegen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8495656,
+          52.6650858
+        ]
+      },
+      "id": "node/6983359465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7158928719",
+        "addr:city": "'s-Gravenhage",
+        "addr:housenumber": "165",
+        "addr:postcode": "2586JM",
+        "addr:street": "Strandweg",
+        "leisure": "sports_hall",
+        "name": "Indoor Axe Throwing",
+        "source": "BAG;survey",
+        "source:date": "2020-01-25",
+        "sport": "axe_throwing",
+        "website": "https://indoor-axethrowing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.285446,
+          52.1167381
+        ]
+      },
+      "id": "node/7158928719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7209369596",
+        "leisure": "sports_hall",
+        "name": "De Tas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3928984,
+          52.0933781
+        ]
+      },
+      "id": "node/7209369596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7209369597",
+        "leisure": "sports_hall",
+        "name": "De Bocht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3920589,
+          52.0936599
+        ]
+      },
+      "id": "node/7209369597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7362950381",
+        "addr:city": "Voorburg",
+        "addr:housenumber": "8",
+        "addr:postcode": "2273CS",
+        "addr:street": "Delflandlaan",
+        "leisure": "sports_hall",
+        "name": "Turnhal De Cascade",
+        "source": "BAG",
+        "source:date": "2020-04-03",
+        "sport": "gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3651766,
+          52.080065
+        ]
+      },
+      "id": "node/7362950381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8013989494",
+        "leisure": "sports_hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4570025,
+          53.2601701
+        ]
+      },
+      "id": "node/8013989494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8288840457",
+        "addr:city": "Oisterwijk",
+        "addr:housenumber": "12",
+        "addr:postcode": "5062JK",
+        "addr:street": "Sportlaan",
+        "leisure": "sports_hall",
+        "name": "Den Donk",
+        "operator": "Optisport",
+        "phone": "+31 13 521 0506",
+        "sport": "climbing;multi",
+        "website": "https://optisport.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1780364,
+          51.5706484
+        ]
+      },
+      "id": "node/8288840457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8361205286",
+        "addr:city": "Amsterdam",
+        "addr:housenumber": "92",
+        "addr:postcode": "1091HE",
+        "addr:street": "Eerste Oosterparkstraat",
+        "leisure": "sports_hall",
+        "name": "Rocycle Oost",
+        "operator": "Rocycle",
+        "source": "BAG",
+        "source:date": "2021-01-25",
+        "sport": "spinning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9123261,
+          52.3566537
+        ]
+      },
+      "id": "node/8361205286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8441611312",
+        "leisure": "sports_hall",
+        "name": "Sporthal De Oude Wereld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6507481,
+          52.1209099
+        ]
+      },
+      "id": "node/8441611312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8525833495",
+        "leisure": "sports_hall",
+        "sport": "gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0408853,
+          51.4887771
+        ]
+      },
+      "id": "node/8525833495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8589990522",
+        "leisure": "sports_hall",
+        "name": "De Kamphal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9983857,
+          52.455036
+        ]
+      },
+      "id": "node/8589990522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8803622294",
+        "leisure": "sports_hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66925,
+          52.9377006
+        ]
+      },
+      "id": "node/8803622294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521450128",
+        "leisure": "sports_hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3093476,
+          52.4271527
+        ]
+      },
+      "id": "node/9521450128"
+    }
+  ]
+}

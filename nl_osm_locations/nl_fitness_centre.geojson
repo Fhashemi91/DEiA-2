@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-20T21:54:53Z",
+  "timestamp": "2022-04-22T07:08:40Z",
   "features": [
     {
       "type": "Feature",
@@ -71,6 +71,31 @@
         ]
       },
       "id": "node/339123136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440356382",
+        "addr:city": "Amsterdam",
+        "addr:country": "NL",
+        "addr:housenumber": "55",
+        "addr:postcode": "1101DL",
+        "addr:street": "Johan Cruijff Boulevard",
+        "brand": "Basic-Fit",
+        "brand:wikidata": "Q40165577",
+        "brand:wikipedia": "nl:Basic-Fit",
+        "leisure": "fitness_centre",
+        "name": "Basic-Fit",
+        "website": "https://www.basicfit.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9413528,
+          52.3130625
+        ]
+      },
+      "id": "node/440356382"
     },
     {
       "type": "Feature",
@@ -641,6 +666,27 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2308303177",
+        "branch": "Enschede Drienerlo",
+        "brand": "Basic-Fit",
+        "brand:wikidata": "Q40165577",
+        "brand:wikipedia": "nl:Basic-Fit",
+        "leisure": "fitness_centre",
+        "name": "Basic-Fit",
+        "sport": "gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8329771,
+          52.2389775
+        ]
+      },
+      "id": "node/2308303177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2471499164",
         "brand:wikidata": "Q40165577",
         "leisure": "fitness_centre",
@@ -1161,8 +1207,10 @@
         "addr:street": "Henri Faasdreef",
         "leisure": "fitness_centre",
         "name": "Active Health Center",
+        "opening_hours": "Mo-Th 08:00-22:00; Fr 08:00-21:30; Sa 09:00-16:00; Su 09:00-14:00",
         "source": "BAG",
-        "source:date": "2013-11-26"
+        "source:date": "2013-11-26",
+        "wheelchair": "limited"
       },
       "geometry": {
         "type": "Point",
@@ -1194,6 +1242,31 @@
         ]
       },
       "id": "node/2608618808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610237554",
+        "addr:city": "Rotterdam",
+        "addr:housenumber": "28",
+        "addr:postcode": "3013AA",
+        "addr:street": "Delftseplein",
+        "brand": "Basic-Fit",
+        "brand:wikidata": "Q40165577",
+        "brand:wikipedia": "nl:Basic-Fit",
+        "leisure": "fitness_centre",
+        "name": "Basic-Fit",
+        "source": "BAG",
+        "source:date": "2013-11-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4730864,
+          51.9249838
+        ]
+      },
+      "id": "node/2610237554"
     },
     {
       "type": "Feature",
@@ -9290,6 +9363,29 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2910415132",
+        "addr:city": "Raamsdonksveer",
+        "addr:housenumber": "23",
+        "addr:postcode": "4941DE",
+        "addr:street": "Haven",
+        "leisure": "fitness_centre",
+        "name": "Arendse Health club",
+        "source": "BAG",
+        "source:date": "2014-06-10",
+        "website": "https://www.arendse.nl/fitness-raamsdonksveer/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8713417,
+          51.6958888
+        ]
+      },
+      "id": "node/2910415132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2922520089",
         "addr:city": "Lelystad",
         "addr:housenumber": "60",
@@ -10295,7 +10391,7 @@
         "name": "Basic Fit",
         "source": "BAG",
         "source:date": "2014-08-24",
-        "website": "https://www.basic-fit.com"
+        "website": "https://www.basic-fit.com/nl-nl/sportschool/basic-fit-utrecht-zonnebaan-3403439e55a645898e04f70b6303a0f2.html"
       },
       "geometry": {
         "type": "Point",
@@ -10450,6 +10546,29 @@
         ]
       },
       "id": "node/3066863859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3066949246",
+        "addr:city": "Leeuwarden",
+        "addr:housenumber": "31",
+        "addr:postcode": "8913HA",
+        "addr:street": "Tesselschadestraat",
+        "leisure": "fitness_centre",
+        "name": "GO180",
+        "source": "BAG",
+        "source:date": "2014-09-08",
+        "website": "https://go180.nl/clubs/leeuwarden/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7794955,
+          53.1990493
+        ]
+      },
+      "id": "node/3066949246"
     },
     {
       "type": "Feature",
@@ -11691,22 +11810,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4469688220",
-        "leisure": "fitness_centre",
-        "name": "Fitland"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4731194,
-          51.9250798
-        ]
-      },
-      "id": "node/4469688220"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4490218609",
         "addr:city": "Raamsdonksveer",
         "addr:housenumber": "8",
@@ -12345,23 +12448,6 @@
         ]
       },
       "id": "node/4760894452"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4768937331",
-        "leisure": "fitness_centre",
-        "name": "EasyFit Premium Hillegom",
-        "website": "https://www.easyfitpremium.nl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.5776222,
-          52.2929007
-        ]
-      },
-      "id": "node/4768937331"
     },
     {
       "type": "Feature",
@@ -14817,23 +14903,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6051286318",
-        "leisure": "fitness_centre",
-        "name": "Arendse Health club",
-        "website": "https://www.arendse.nl/fitness-raamsdonksveer/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8713713,
-          51.6958904
-        ]
-      },
-      "id": "node/6051286318"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6065946986",
         "leisure": "fitness_centre",
         "name": "hart"
@@ -15003,7 +15072,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6186289006",
-        "leisure": "fitness_centre"
+        "leisure": "fitness_centre",
+        "name": "Reuvers",
+        "website": "https://www.reuvers.nu/"
       },
       "geometry": {
         "type": "Point",
@@ -16220,8 +16291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8559271,
-          51.9460922
+          4.8559346,
+          51.9460974
         ]
       },
       "id": "node/7596049558"
@@ -17663,6 +17734,47 @@
         ]
       },
       "id": "node/9507881252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9654980917",
+        "addr:housenumber": "111-C",
+        "addr:postcode": "1321 GZ",
+        "addr:street": "Prozastraat",
+        "email": "mailto:almere-stad@anytimefitness.nl",
+        "leisure": "fitness_centre",
+        "name": "anytime Fitness",
+        "name:en": "Anytime Fitness",
+        "name:nl": "Anytime Fitness",
+        "opening_hours": "24/7",
+        "phone": "+31365464726",
+        "website": "https://afalmere.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1825907,
+          52.3575722
+        ]
+      },
+      "id": "node/9654980917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9682745467",
+        "leisure": "fitness_centre",
+        "sport": "yoga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0467201,
+          12.5631767
+        ]
+      },
+      "id": "node/9682745467"
     }
   ]
 }

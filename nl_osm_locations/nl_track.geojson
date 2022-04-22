@@ -1,0 +1,461 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-22T07:00:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331945856",
+        "leisure": "track",
+        "name": "The Derrick Crossers",
+        "sport": "cycling",
+        "website": "https://www.thederrickcrossers.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879867,
+          52.6586131
+        ]
+      },
+      "id": "node/331945856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428626857",
+        "fee": "yes",
+        "leisure": "track",
+        "name": "Fun Forest Amsterdam",
+        "sport": "climbing_adventure",
+        "website": "https://amsterdam.funforest.nl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8558131,
+          52.3273178
+        ]
+      },
+      "id": "node/428626857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/719118383",
+        "leisure": "track",
+        "name": "Atletiekvereniging VAV",
+        "sport": "athletics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5766121,
+          52.0300372
+        ]
+      },
+      "id": "node/719118383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/907170755",
+        "leisure": "track"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5984391,
+          51.6878917
+        ]
+      },
+      "id": "node/907170755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1098017859",
+        "leisure": "track",
+        "name": "A15 Karting",
+        "sport": "karting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0062833,
+          51.84137
+        ]
+      },
+      "id": "node/1098017859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1228640439",
+        "leisure": "track",
+        "name": "Wielerbaan de Heuvelen",
+        "sport": "cycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1760679,
+          51.6863781
+        ]
+      },
+      "id": "node/1228640439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1571226584",
+        "addr:city": "Delft",
+        "addr:housenumber": "18",
+        "addr:postcode": "2616LZ",
+        "addr:street": "Kleveringweg",
+        "leisure": "track",
+        "name": "Bleekemolens Race Planet Delft",
+        "source": "BAG;survey",
+        "source:date": "2013-11-26",
+        "sport": "karting",
+        "website": "https://raceplanet.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3634035,
+          52.0251181
+        ]
+      },
+      "id": "node/1571226584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1920345442",
+        "leisure": "track",
+        "name": "Autocross Eelde",
+        "sport": "motocross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5606081,
+          53.1300415
+        ]
+      },
+      "id": "node/1920345442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2397243715",
+        "leisure": "track",
+        "name": "Motorcross Circuit \"De Ruttense brug\" MC NOP",
+        "sport": "motocross",
+        "website": "https://www.mcnop.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7454465,
+          52.8082693
+        ]
+      },
+      "id": "node/2397243715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2690461468",
+        "leisure": "track",
+        "name": "ANAC Karting",
+        "sport": "karting",
+        "website": "https://anackarting.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8124312,
+          51.8380326
+        ]
+      },
+      "id": "node/2690461468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2939528136",
+        "leisure": "track",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5403868,
+          52.1677381
+        ]
+      },
+      "id": "node/2939528136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2939528144",
+        "leisure": "track",
+        "sport": "equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5399178,
+          52.1680659
+        ]
+      },
+      "id": "node/2939528144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3882601205",
+        "leisure": "track",
+        "lit": "no",
+        "name": "Wild Dukes Bike Park",
+        "sport": "cycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6951229,
+          51.9716963
+        ]
+      },
+      "id": "node/3882601205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4065098953",
+        "addr:city": "Zaandam",
+        "addr:housenumber": "5",
+        "addr:postcode": "1506JA",
+        "addr:street": "J A Laanplein",
+        "lanes": "6",
+        "leisure": "track",
+        "lit": "yes",
+        "name": "AV Zaanland",
+        "sport": "running"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8155567,
+          52.4492538
+        ]
+      },
+      "id": "node/4065098953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231505964",
+        "description": "Wandel en atletiekvereniging Delden",
+        "leisure": "track",
+        "name": "AWD 2005",
+        "sport": "running",
+        "surface": "grass",
+        "website": "https://www.awd2005.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7298886,
+          52.2593397
+        ]
+      },
+      "id": "node/4231505964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4303476833",
+        "leisure": "track",
+        "name": "Van der Schaaf Circuit",
+        "sport": "motor",
+        "website": "http://nac-autocross.nl/het-van-der-schaaf-circuit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13243,
+          53.2965237
+        ]
+      },
+      "id": "node/4303476833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4841990513",
+        "leisure": "track",
+        "name": "Bikepark Mook",
+        "sport": "bmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8916494,
+          51.754934
+        ]
+      },
+      "id": "node/4841990513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5429361437",
+        "leisure": "track"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0033097,
+          12.5476283
+        ]
+      },
+      "id": "node/5429361437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5765291249",
+        "leisure": "track",
+        "name": "De Kley-Drivers",
+        "sport": "bmx",
+        "surface": "unpaved"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.823387,
+          52.7011677
+        ]
+      },
+      "id": "node/5765291249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5862975685",
+        "addr:city": "Kampen",
+        "addr:housenumber": "3",
+        "addr:postcode": "8263AZ",
+        "addr:street": "Schansdijk",
+        "leisure": "track",
+        "name": "KWC Kampen",
+        "source": "BAG",
+        "source:date": "2018-08-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8751073,
+          52.5564297
+        ]
+      },
+      "id": "node/5862975685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7653181888",
+        "leisure": "track",
+        "name": "Diomedon",
+        "sport": "athletics",
+        "website": "http://diomedon.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3236279,
+          51.5804878
+        ]
+      },
+      "id": "node/7653181888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7656252182",
+        "leisure": "track",
+        "name": "ARSV Thor",
+        "sport": "athletics",
+        "website": "https://www.thor-roosendaal.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4822782,
+          51.5114279
+        ]
+      },
+      "id": "node/7656252182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856570194",
+        "leisure": "track",
+        "name": "Bikepark Gorinchem",
+        "sport": "cycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9650531,
+          51.8475834
+        ]
+      },
+      "id": "node/7856570194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8625065980",
+        "cycling": "pump_track",
+        "leisure": "track",
+        "lit": "no",
+        "name": "Pumptrackbaan Drielanden Harderwijk",
+        "sport": "cycling",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5904161,
+          52.3291658
+        ]
+      },
+      "id": "node/8625065980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9594468076",
+        "leisure": "track",
+        "name": "Fietscrossbaan Mijdrecht",
+        "sport": "cycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8593415,
+          52.1982771
+        ]
+      },
+      "id": "node/9594468076"
+    }
+  ]
+}
